@@ -1,0 +1,8 @@
+{
+  "appId": "pk.karachi.sabzirates",
+  "appName": "سبزی منڈی ریٹس",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}

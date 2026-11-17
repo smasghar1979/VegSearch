@@ -1,0 +1,30 @@
+{
+  "name": "karachi-sabzi-rates",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Karachi Sabzi Mandi daily official rates, 7-day comparison, shortage alerts and Urdu morning report",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scrape": "node scraper/index.mjs",
+    "demo-data": "node scraper/demo-data.mjs",
+    "cap:sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/filesystem": "^7.0.0",
+    "@capacitor/share": "^7.0.0",
+    "@fontsource/noto-nastaliq-urdu": "^5.0.0",
+    "chart.js": "^4.4.0",
+    "cheerio": "^1.0.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0",
+    "vite": "^6.0.0"
+  }
+}
