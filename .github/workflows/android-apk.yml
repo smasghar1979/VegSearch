@@ -1,0 +1,49 @@
+name: Build Android APK
+
+on:
+  workflow_dispatch:
+    inputs:
+      data_base:
+        description: 'Live data base URL (leave blank for GitHub Pages URL)'
+        required: false
+        default: ''
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - run: npm ci
+
+      - name: Build web bundle for Android
+        env:
+          DEFAULT_PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          INPUT_DATA_BASE: ${{ inputs.data_base }}
+        run: |
+          BASE="${INPUT_DATA_BASE:-$DEFAULT_PAGES_URL}"
+          VITE_DATA_BASE="$BASE" VITE_SHARE_BASE="$BASE" npm run build
+
+      - name: Sync Capacitor Android
+        run: npx cap sync android
+
+      - name: Build Debug APK
+        run: |
+          cd android
+          chmod +x gradlew
+          ./gradlew assembleDebug
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: karachi-sabzi-rates-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk

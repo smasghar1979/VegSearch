@@ -1,0 +1,78 @@
+name: Daily Rates & GitHub Pages
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # 09:00 PKT
+    - cron: '0 7 * * *' # 12:00 PKT retry if official list is uploaded late
+  workflow_dispatch:
+    inputs:
+      rebuild:
+        description: 'Only rebuild latest.json from stored days'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**'
+      - 'README.md'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Scrape daily Karachi price lists & news
+        if: github.event_name != 'push'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ "${{ inputs.rebuild }}" = "true" ]; then
+            node scraper/index.mjs --rebuild
+          else
+            node scraper/index.mjs
+          fi
+
+      - name: Commit updated price data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(data): update daily rates [skip ci]"
+            git push
+          fi
+
+      - name: Build web app
+        run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: update-and-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
