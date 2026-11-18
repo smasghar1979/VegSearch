@@ -1,0 +1,17 @@
+{
+  "name": "کراچی سبزی منڈی ریٹس",
+  "short_name": "سبزی ریٹس",
+  "description": "کراچی سبزی منڈی کے روزانہ سرکاری ریٹس، 7 دن کا موازنہ اور صبح کی رپورٹ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f2",
+  "theme_color": "#1b5e20",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
