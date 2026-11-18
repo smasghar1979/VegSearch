@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">سبزی منڈی ریٹس</string>
+    <string name="title_activity_main">سبزی منڈی ریٹس</string>
+    <string name="package_name">pk.karachi.sabzirates</string>
+    <string name="custom_url_scheme">pk.karachi.sabzirates</string>
+</resources>
