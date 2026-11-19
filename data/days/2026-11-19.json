@@ -1,0 +1,482 @@
+{
+ "date": "2026-11-19",
+ "source": {
+  "id": "commissioner_karachi",
+  "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
+  "name_ur": "کمشنر کراچی ڈویژن (بیورو آف سپلائی اینڈ پرائسز / مارکیٹ کمیٹی)",
+  "page": "https://commissionerkarachi.gos.pk/price-list",
+  "date": "2026-11-19",
+  "url": "https://commissionerkarachi.gos.pk/storage/price-lists/xmTpStDAj9ib9GGHGE59EuJb9yl6aWTaWsdI3bRa.jpg"
+ },
+ "files": [
+  {
+   "kind": "vegetables",
+   "url": "https://commissionerkarachi.gos.pk/storage/price-lists/xmTpStDAj9ib9GGHGE59EuJb9yl6aWTaWsdI3bRa.jpg",
+   "listedDate": "2026-11-19",
+   "printedDate": "2026-11-19"
+  }
+ ],
+ "items": [
+  {
+   "id": "potato",
+   "en": "Potato (Grade 1)",
+   "ur": "آلو (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 28,
+   "w": 30,
+   "r": 35
+  },
+  {
+   "id": "potato_g2",
+   "en": "Potato (Grade 2)",
+   "ur": "آلو (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 24,
+   "w": 25,
+   "r": 29
+  },
+  {
+   "id": "potato_red",
+   "en": "Red Potato (Grade 1)",
+   "ur": "لال آلو (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 52,
+   "w": 55,
+   "r": 63
+  },
+  {
+   "id": "onion",
+   "en": "Onion (Grade 1)",
+   "ur": "پیاز (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 122,
+   "w": 130,
+   "r": 150
+  },
+  {
+   "id": "onion_small",
+   "en": "Onion (Small)",
+   "ur": "پیاز چھوٹی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 94,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "tomato",
+   "en": "Tomato (Grade 1)",
+   "ur": "ٹماٹر (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "tomato_g2",
+   "en": "Tomato (Grade 2)",
+   "ur": "ٹماٹر (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "cabbage",
+   "en": "Cabbage (Grade 1)",
+   "ur": "بند گوبھی (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "cabbage_g2",
+   "en": "Cabbage (Grade 2)",
+   "ur": "بند گوبھی (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 24,
+   "w": 25,
+   "r": 29
+  },
+  {
+   "id": "cauliflower",
+   "en": "Cauliflower (Grade 1)",
+   "ur": "پھول گوبھی (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 66,
+   "w": 70,
+   "r": 81
+  },
+  {
+   "id": "cauliflower_g2",
+   "en": "Cauliflower (Grade 2)",
+   "ur": "پھول گوبھی (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "bottle_gourd_round",
+   "en": "Bottle Gourd (Round)",
+   "ur": "لوکی گول",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "bottle_gourd",
+   "en": "Bottle Gourd",
+   "ur": "لوکی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "ridge_gourd",
+   "en": "Ridge Gourd (Tori) (Grade 1)",
+   "ur": "توری (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 66,
+   "w": 70,
+   "r": 81
+  },
+  {
+   "id": "ridge_gourd_g2",
+   "en": "Ridge Gourd (Tori) (Grade 2)",
+   "ur": "توری (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "brinjal",
+   "en": "Brinjal",
+   "ur": "بینگن",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "brinjal_long",
+   "en": "Brinjal (Long)",
+   "ur": "بینگن لمبا",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "okra",
+   "en": "Okra (Lady Finger) (Grade 1)",
+   "ur": "بھنڈی (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 132,
+   "w": 140,
+   "r": 161
+  },
+  {
+   "id": "okra_g2",
+   "en": "Okra (Lady Finger) (Grade 2)",
+   "ur": "بھنڈی (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 94,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "bitter_gourd",
+   "en": "Bitter Gourd (Grade 1)",
+   "ur": "کریلا (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "bitter_gourd_g2",
+   "en": "Bitter Gourd (Grade 2)",
+   "ur": "کریلا (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "cucumber",
+   "en": "Cucumber (Grade 1)",
+   "ur": "کھیرا (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "cucumber_g2",
+   "en": "Cucumber (Grade 2)",
+   "ur": "کھیرا (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 28,
+   "w": 30,
+   "r": 35
+  },
+  {
+   "id": "round_gourd",
+   "en": "Round Gourd (Tinda)",
+   "ur": "ٹینڈے",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 150,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "round_gourd_china",
+   "en": "Tinda (China)",
+   "ur": "ٹنڈا (چائنہ)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 113,
+   "w": 120,
+   "r": 138
+  },
+  {
+   "id": "carrot",
+   "en": "Carrot",
+   "ur": "گاجر",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "garlic_local",
+   "en": "Garlic (Local) (Grade 1)",
+   "ur": "لہسن (دیسی) (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 179,
+   "w": 190,
+   "r": 219
+  },
+  {
+   "id": "garlic_local_g2",
+   "en": "Garlic (Local) (Grade 2)",
+   "ur": "لہسن (دیسی) (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 150,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "garlic_china_pk",
+   "en": "Garlic China (Pakistani)",
+   "ur": "لہسن چائنہ (پاکستانی)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 310,
+   "w": 330,
+   "r": 380
+  },
+  {
+   "id": "ginger_china",
+   "en": "Ginger (China) (Grade 1)",
+   "ur": "ادرک (چائنہ) (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 263,
+   "w": 280,
+   "r": 322
+  },
+  {
+   "id": "ginger_thai",
+   "en": "Ginger (Bangkok/Thai) (Grade 1)",
+   "ur": "ادرک (بینکاک) (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 235,
+   "w": 250,
+   "r": 288
+  },
+  {
+   "id": "capsicum",
+   "en": "Capsicum (Grade 1)",
+   "ur": "شملہ مرچ (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 56,
+   "w": 60,
+   "r": 69
+  },
+  {
+   "id": "capsicum_g2",
+   "en": "Capsicum (Grade 2)",
+   "ur": "شملہ مرچ (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 28,
+   "w": 30,
+   "r": 35
+  },
+  {
+   "id": "green_chilli",
+   "en": "Green Chilli",
+   "ur": "ہری مرچ",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "chilli_shehzadi",
+   "en": "Chilli (Shehzadi)",
+   "ur": "مرچ شہزادی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "lemon",
+   "en": "Lemon (Grade 1)",
+   "ur": "لیموں (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 263,
+   "w": 280,
+   "r": 322
+  },
+  {
+   "id": "lemon_g2",
+   "en": "Lemon (Grade 2)",
+   "ur": "لیموں (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 216,
+   "w": 230,
+   "r": 253
+  },
+  {
+   "id": "turnip",
+   "en": "Turnip",
+   "ur": "شلجم",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "beetroot",
+   "en": "Beetroot",
+   "ur": "چقندر",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 94,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "green_onion",
+   "en": "Green Onion",
+   "ur": "ہری پیاز",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "spinach",
+   "en": "Spinach",
+   "ur": "پالک",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "coriander",
+   "en": "Coriander",
+   "ur": "ہرا دھنیا",
+   "cat": "veg",
+   "unit": "bunch",
+   "a": 7,
+   "w": 8,
+   "r": 9
+  },
+  {
+   "id": "mint",
+   "en": "Mint",
+   "ur": "پودینہ",
+   "cat": "veg",
+   "unit": "bunch",
+   "a": 7,
+   "w": 8,
+   "r": 9
+  },
+  {
+   "id": "peas",
+   "en": "Green Peas",
+   "ur": "مٹر",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 188,
+   "w": 200,
+   "r": 230
+  },
+  {
+   "id": "jameri",
+   "en": "Jameri (Rough Lemon)",
+   "ur": "جمیری",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 85,
+   "w": 90,
+   "r": 104
+  },
+  {
+   "id": "radish",
+   "en": "Radish",
+   "ur": "مولی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  }
+ ],
+ "updatedAt": "2026-11-19T08:50:47.615Z"
+}
