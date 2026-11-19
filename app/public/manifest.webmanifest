@@ -1,6 +1,6 @@
 {
-  "name": "کراچی سبزی منڈی ریٹس",
-  "short_name": "سبزی ریٹس",
+  "name": "VegSearch",
+  "short_name": "VegSearch",
   "description": "کراچی سبزی منڈی کے روزانہ سرکاری ریٹس، 7 دن کا موازنہ اور صبح کی رپورٹ",
   "start_url": "./",
   "display": "standalone",
@@ -15,3 +15,4 @@
     }
   ]
 }
+

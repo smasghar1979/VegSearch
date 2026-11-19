@@ -1,8 +1,14 @@
 // Bilingual strings. Urdu is default (RTL).
 export const STR = {
   ur: {
-    appName: 'کراچی سبزی منڈی ریٹس',
+    appName: 'VegSearch',
     tabReport: 'رپورٹ',
+    tabVeg: 'سبزیاں',
+    tabFruit: 'پھل',
+    tabSearch: 'تلاش',
+    searchVeg: 'سبزی تلاش کریں…',
+    searchFruit: 'پھل تلاش کریں…',
+    noResults: 'کوئی نتیجہ نہیں ملا',
     tabPrices: 'ریٹس',
     tabAlerts: 'الرٹس',
     tabCompare: 'موازنہ',
@@ -72,8 +78,14 @@ export const STR = {
     advice: 'مشورہ',
   },
   en: {
-    appName: 'Karachi Sabzi Mandi Rates',
+    appName: 'VegSearch',
     tabReport: 'Report',
+    tabVeg: 'Vegetables',
+    tabFruit: 'Fruits',
+    tabSearch: 'Search',
+    searchVeg: 'Search vegetables…',
+    searchFruit: 'Search fruits…',
+    noResults: 'No results found',
     tabPrices: 'Rates',
     tabAlerts: 'Alerts',
     tabCompare: 'Compare',

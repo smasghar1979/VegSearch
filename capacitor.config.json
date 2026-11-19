@@ -1,8 +1,9 @@
 {
   "appId": "pk.karachi.sabzirates",
-  "appName": "سبزی منڈی ریٹس",
+  "appName": "VegSearch",
   "webDir": "dist",
   "android": {
     "allowMixedContent": false
   }
 }
+

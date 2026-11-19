@@ -24,6 +24,7 @@ const state = {
   latestDate: null,
   offline: false,
   filter: 'all',
+  dir: 'all',
   query: '',
   compare: JSON.parse(localStorage.getItem('compare') || '["tomato","onion","potato"]'),
 };
@@ -133,7 +134,7 @@ function shell(inner, active) {
   const d = state.data;
   return `
   <header class="top">
-    <div class="brand"><span class="logo">🥬</span><div><b>${t('appName')}</b>
+    <div class="brand"><img class="logo-img" src="./logo.png" alt="" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'logo',textContent:'🥬'}))"><div><b>${t('appName')}</b>
       <small>${d ? fmtDate(d.date) : ''}</small></div></div>
     <div class="top-actions">
       <button class="pill" data-act="lang">${t('langSwitch')}</button>
@@ -143,7 +144,7 @@ function shell(inner, active) {
   ${state.offline ? `<div class="banner warn">${t('offline')}</div>` : ''}
   <main>${inner}</main>
   <nav class="tabs">
-    ${[['report', '📋', 'tabReport'], ['prices', '🥕', 'tabPrices'], ['alerts', '⚠️', 'tabAlerts'], ['compare', '📈', 'tabCompare']]
+    ${[['report', '📋', 'tabReport'], ['vegetables', '🥦', 'tabVeg'], ['fruits', '🍎', 'tabFruit'], ['search', '🔍', 'tabSearch'], ['alerts', '⚠️', 'tabAlerts'], ['compare', '📈', 'tabCompare']]
       .map(([r, ic, k]) => `<a href="#/${r}" class="${active === r ? 'on' : ''}"><span>${ic}</span>${t(k)}${
         r === 'alerts' && d?.alerts?.filter((a) => a.level === 'high').length ? `<i class="dot"></i>` : ''}</a>`).join('')}
   </nav>`;
@@ -249,36 +250,52 @@ function archivePicker() {
     <select data-act="archive">${dates.slice().reverse().map((d) => `<option value="${d}" ${d === state.data.date ? 'selected' : ''}>${fmtDate(d)}</option>`).join('')}</select></label></div>`;
 }
 
-function filteredPriceItems() {
+function routeCat() {
+  const n = parseRoute().name;
+  return n === 'vegetables' ? 'veg' : n === 'fruits' ? 'fruit' : null;
+}
+
+function filteredPriceItems(cat) {
   const d = state.data;
   const q = state.query.trim().toLowerCase();
   let items = d.items.filter((i) => pv(i) != null);
-  if (state.filter === 'veg' || state.filter === 'fruit') items = items.filter((i) => i.cat === state.filter);
-  if (state.filter === 'up') items = items.filter((i) => change(i).dir === 'up').sort((a, b) => change(b).pct - change(a).pct);
-  if (state.filter === 'down') items = items.filter((i) => change(i).dir === 'down').sort((a, b) => change(a).pct - change(b).pct);
+  const f = cat ? state.dir : state.filter;
+  if (cat) items = items.filter((i) => i.cat === cat);
+  else if (f === 'veg' || f === 'fruit') items = items.filter((i) => i.cat === f);
+  if (f === 'up') items = items.filter((i) => change(i).dir === 'up').sort((a, b) => change(b).pct - change(a).pct);
+  if (f === 'down') items = items.filter((i) => change(i).dir === 'down').sort((a, b) => change(a).pct - change(b).pct);
   if (q) items = items.filter((i) => `${i.en} ${i.ur} ${i.id}`.toLowerCase().includes(q));
   return items;
 }
 
-function priceListHtml() {
-  return filteredPriceItems().map((it) => `
+function priceListHtml(cat = routeCat()) {
+  return filteredPriceItems(cat).map((it) => `
     <a class="row" href="#/item/${it.id}">
       <div class="nm"><b>${esc(name(it))}</b><small>${esc(altName(it))} · ${unit(it)}</small></div>
       ${sparkline(it)}
       <div class="pr"><b>${money(pv(it))}</b>${badge(change(it))}</div>
-    </a>`).join('') || `<p class="muted center">—</p>`;
+    </a>`).join('') || `<p class="muted center">${t('noResults')}</p>`;
 }
 
-function viewPrices() {
+function viewCatalog(cat) {
+  const chip = (k, label) => `<button class="chip ${state.dir === k ? 'on' : ''}" data-dir="${k}">${label}</button>`;
+  return `
+  ${modeToggle()}
+  <div class="searchbar"><input id="q" type="search" placeholder="${t(cat === 'veg' ? 'searchVeg' : 'searchFruit')}" value="${esc(state.query)}"></div>
+  <div class="chips">${chip('all', t('all'))}${chip('up', '▲ ' + t('up'))}${chip('down', '▼ ' + t('down'))}</div>
+  <p class="hint">👆 ${t('tapForGraph')}</p>
+  <div class="list">${priceListHtml(cat)}</div>`;
+}
+
+function viewSearch() {
   const chip = (k, label) => `<button class="chip ${state.filter === k ? 'on' : ''}" data-filter="${k}">${label}</button>`;
   return `
   ${modeToggle()}
-  <div class="searchbar"><input id="q" type="search" placeholder="${t('search')}" value="${esc(state.query)}"></div>
+  <div class="searchbar big"><input id="q" type="search" autofocus placeholder="${t('search')}" value="${esc(state.query)}"></div>
   <div class="chips">${chip('all', t('all'))}${chip('veg', '🥦 ' + t('veg'))}${chip('fruit', '🍎 ' + t('fruit'))}${chip('up', '▲ ' + t('up'))}${chip('down', '▼ ' + t('down'))}</div>
   <p class="hint">👆 ${t('tapForGraph')}</p>
-  <div class="list">${priceListHtml()}</div>`;
+  <div class="list">${priceListHtml(null)}</div>`;
 }
-
 function viewItem(id) {
   const d = state.data;
   const it = d.items.find((i) => i.id === id);
@@ -437,6 +454,7 @@ async function render() {
   document.documentElement.dir = state.lang === 'ur' ? 'rtl' : 'ltr';
   document.title = t('appName');
   const route = parseRoute();
+  if (route.name !== 'item' && route.name !== state.lastRoute) { state.query = ''; state.lastRoute = route.name; }
 
   const wantDate = route.date || null;
   if (!state.data || (wantDate && wantDate !== state.data.date) || (!wantDate && state.latestDate && state.data.date !== state.latestDate)) {
@@ -453,8 +471,9 @@ async function render() {
     app.innerHTML = shell(`<div class="card center"><p>${t('noData')}</p></div>`, route.name);
     return;
   }
-  const views = { report: viewReport, prices: viewPrices, item: () => viewItem(route.id), alerts: viewAlerts, compare: viewCompare };
-  const active = route.name === 'item' ? 'prices' : route.name;
+  const views = { report: viewReport, vegetables: () => viewCatalog('veg'), fruits: () => viewCatalog('fruit'), search: viewSearch, prices: viewSearch, item: () => viewItem(route.id), alerts: viewAlerts, compare: viewCompare };
+  const active = route.name === 'item' ? (state.lastTab || 'search') : route.name === 'prices' ? 'search' : route.name;
+  if (route.name !== 'item') state.lastTab = active;
   app.innerHTML = shell((views[route.name] || viewReport)(), active);
   drawCharts(route);
   if (route.name === 'item') window.scrollTo(0, 0);
@@ -496,6 +515,7 @@ document.addEventListener('click', async (e) => {
   if (!b) return;
   if (b.dataset.mode) { state.mode = b.dataset.mode; localStorage.setItem('mode', state.mode); return render(); }
   if (b.dataset.range) { state.range = +b.dataset.range; return render(); }
+  if (b.dataset.dir) { state.dir = b.dataset.dir; return render(); }
   if (b.dataset.filter) { state.filter = b.dataset.filter; return render(); }
   if (b.dataset.cmp) {
     const id = b.dataset.cmp;
