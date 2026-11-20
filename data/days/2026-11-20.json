@@ -1,0 +1,32 @@
+{
+ "date": "2026-11-20",
+ "source": {
+  "id": "commissioner_karachi",
+  "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
+  "name_ur": "کمشنر کراچی ڈویژن (بیورو آف سپلائی اینڈ پرائسز / مارکیٹ کمیٹی)",
+  "page": "https://commissionerkarachi.gos.pk/price-list",
+  "date": "2026-11-20",
+  "url": "https://commissionerkarachi.gos.pk/storage/price-lists/cEoNVc4df01Lc1ZfgVRAAMzWZSo4oAy66X5B5LXq.jpg"
+ },
+ "files": [
+  {
+   "kind": "vegetables",
+   "url": "https://commissionerkarachi.gos.pk/storage/price-lists/cEoNVc4df01Lc1ZfgVRAAMzWZSo4oAy66X5B5LXq.jpg",
+   "listedDate": "2026-11-20",
+   "printedDate": "2026-11-20"
+  }
+ ],
+ "items": [
+  {
+   "id": "potato",
+   "en": "Potato",
+   "ur": "آلو",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 28,
+   "w": 0,
+   "r": null
+  }
+ ],
+ "updatedAt": "2026-11-20T08:32:01.639Z"
+}

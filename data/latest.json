@@ -1,39 +1,46 @@
 {
- "date": "2026-11-19",
- "prevDate": null,
+ "date": "2026-11-20",
+ "prevDate": "2026-11-19",
  "today": "2026-11-20",
- "stale": true,
- "generatedAt": "2026-11-20T04:57:42.475Z",
+ "stale": false,
+ "generatedAt": "2026-11-20T08:33:32.587Z",
  "source": {
   "id": "commissioner_karachi",
   "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
   "name_ur": "کمشنر کراچی ڈویژن (بیورو آف سپلائی اینڈ پرائسز / مارکیٹ کمیٹی)",
   "page": "https://commissionerkarachi.gos.pk/price-list",
-  "date": "2026-11-19",
-  "url": "https://commissionerkarachi.gos.pk/storage/price-lists/xmTpStDAj9ib9GGHGE59EuJb9yl6aWTaWsdI3bRa.jpg"
+  "date": "2026-11-20",
+  "url": "https://commissionerkarachi.gos.pk/storage/price-lists/cEoNVc4df01Lc1ZfgVRAAMzWZSo4oAy66X5B5LXq.jpg"
  },
  "dates": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "items": [
   {
    "id": "potato",
-   "en": "Potato (Grade 1)",
-   "ur": "آلو (درجہ اول)",
+   "en": "Potato",
+   "ur": "آلو",
    "cat": "veg",
    "unit": "kg",
    "a": 28,
-   "w": 30,
-   "r": 35,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "w": 0,
+   "r": null,
+   "pa": 28,
+   "pw": 30,
+   "pr": 35,
    "series": [
     {
      "d": "2026-11-19",
      "a": 28,
      "w": 30,
      "r": 35
+    },
+    {
+     "d": "2026-11-20",
+     "a": 28,
+     "w": 0,
+     "r": null
     }
    ]
   },
@@ -43,12 +50,12 @@
    "ur": "آلو (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 24,
-   "w": 25,
-   "r": 29,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 24,
+   "pw": 25,
+   "pr": 29,
    "series": [
     {
      "d": "2026-11-19",
@@ -64,12 +71,12 @@
    "ur": "پیاز (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 122,
-   "w": 130,
-   "r": 150,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 122,
+   "pw": 130,
+   "pr": 150,
    "series": [
     {
      "d": "2026-11-19",
@@ -85,12 +92,12 @@
    "ur": "ٹماٹر (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 75,
-   "w": 80,
-   "r": 92,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -106,12 +113,12 @@
    "ur": "ٹماٹر (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -127,12 +134,12 @@
    "ur": "لہسن (دیسی) (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 179,
-   "w": 190,
-   "r": 219,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 179,
+   "pw": 190,
+   "pr": 219,
    "series": [
     {
      "d": "2026-11-19",
@@ -148,12 +155,12 @@
    "ur": "لہسن (دیسی) (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 150,
-   "w": 160,
-   "r": 184,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 150,
+   "pw": 160,
+   "pr": 184,
    "series": [
     {
      "d": "2026-11-19",
@@ -169,12 +176,12 @@
    "ur": "ہری مرچ",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -190,12 +197,12 @@
    "ur": "لیموں (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 263,
-   "w": 280,
-   "r": 322,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 263,
+   "pw": 280,
+   "pr": 322,
    "series": [
     {
      "d": "2026-11-19",
@@ -211,12 +218,12 @@
    "ur": "لیموں (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 216,
-   "w": 230,
-   "r": 253,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 216,
+   "pw": 230,
+   "pr": 253,
    "series": [
     {
      "d": "2026-11-19",
@@ -232,12 +239,12 @@
    "ur": "شملہ مرچ (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 56,
-   "w": 60,
-   "r": 69,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 56,
+   "pw": 60,
+   "pr": 69,
    "series": [
     {
      "d": "2026-11-19",
@@ -253,12 +260,12 @@
    "ur": "شملہ مرچ (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 28,
-   "w": 30,
-   "r": 35,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 28,
+   "pw": 30,
+   "pr": 35,
    "series": [
     {
      "d": "2026-11-19",
@@ -274,12 +281,12 @@
    "ur": "بند گوبھی (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 38,
-   "w": 40,
-   "r": 46,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 38,
+   "pw": 40,
+   "pr": 46,
    "series": [
     {
      "d": "2026-11-19",
@@ -295,12 +302,12 @@
    "ur": "بند گوبھی (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 24,
-   "w": 25,
-   "r": 29,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 24,
+   "pw": 25,
+   "pr": 29,
    "series": [
     {
      "d": "2026-11-19",
@@ -316,12 +323,12 @@
    "ur": "پھول گوبھی (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 66,
-   "w": 70,
-   "r": 81,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 66,
+   "pw": 70,
+   "pr": 81,
    "series": [
     {
      "d": "2026-11-19",
@@ -337,12 +344,12 @@
    "ur": "پھول گوبھی (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -358,12 +365,12 @@
    "ur": "بینگن",
    "cat": "veg",
    "unit": "kg",
-   "a": 38,
-   "w": 40,
-   "r": 46,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 38,
+   "pw": 40,
+   "pr": 46,
    "series": [
     {
      "d": "2026-11-19",
@@ -379,12 +386,12 @@
    "ur": "بھنڈی (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 132,
-   "w": 140,
-   "r": 161,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 132,
+   "pw": 140,
+   "pr": 161,
    "series": [
     {
      "d": "2026-11-19",
@@ -400,12 +407,12 @@
    "ur": "بھنڈی (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 94,
-   "w": 100,
-   "r": 115,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 94,
+   "pw": 100,
+   "pr": 115,
    "series": [
     {
      "d": "2026-11-19",
@@ -421,12 +428,12 @@
    "ur": "کریلا (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 75,
-   "w": 80,
-   "r": 92,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -442,12 +449,12 @@
    "ur": "کریلا (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -463,12 +470,12 @@
    "ur": "لوکی",
    "cat": "veg",
    "unit": "kg",
-   "a": 75,
-   "w": 80,
-   "r": 92,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -484,12 +491,12 @@
    "ur": "ٹینڈے",
    "cat": "veg",
    "unit": "kg",
-   "a": 150,
-   "w": 160,
-   "r": 184,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 150,
+   "pw": 160,
+   "pr": 184,
    "series": [
     {
      "d": "2026-11-19",
@@ -505,12 +512,12 @@
    "ur": "توری (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 66,
-   "w": 70,
-   "r": 81,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 66,
+   "pw": 70,
+   "pr": 81,
    "series": [
     {
      "d": "2026-11-19",
@@ -526,12 +533,12 @@
    "ur": "توری (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -547,12 +554,12 @@
    "ur": "مٹر",
    "cat": "veg",
    "unit": "kg",
-   "a": 188,
-   "w": 200,
-   "r": 230,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 188,
+   "pw": 200,
+   "pr": 230,
    "series": [
     {
      "d": "2026-11-19",
@@ -568,12 +575,12 @@
    "ur": "گاجر",
    "cat": "veg",
    "unit": "kg",
-   "a": 75,
-   "w": 80,
-   "r": 92,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -589,12 +596,12 @@
    "ur": "مولی",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -610,12 +617,12 @@
    "ur": "شلجم",
    "cat": "veg",
    "unit": "kg",
-   "a": 75,
-   "w": 80,
-   "r": 92,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -631,12 +638,12 @@
    "ur": "پالک",
    "cat": "veg",
    "unit": "kg",
-   "a": 38,
-   "w": 40,
-   "r": 46,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 38,
+   "pw": 40,
+   "pr": 46,
    "series": [
     {
      "d": "2026-11-19",
@@ -652,12 +659,12 @@
    "ur": "ہرا دھنیا",
    "cat": "veg",
    "unit": "bunch",
-   "a": 7,
-   "w": 8,
-   "r": 9,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 7,
+   "pw": 8,
+   "pr": 9,
    "series": [
     {
      "d": "2026-11-19",
@@ -673,12 +680,12 @@
    "ur": "پودینہ",
    "cat": "veg",
    "unit": "bunch",
-   "a": 7,
-   "w": 8,
-   "r": 9,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 7,
+   "pw": 8,
+   "pr": 9,
    "series": [
     {
      "d": "2026-11-19",
@@ -694,12 +701,12 @@
    "ur": "کھیرا (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -715,12 +722,12 @@
    "ur": "کھیرا (درجہ دوئم)",
    "cat": "veg",
    "unit": "kg",
-   "a": 28,
-   "w": 30,
-   "r": 35,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 28,
+   "pw": 30,
+   "pr": 35,
    "series": [
     {
      "d": "2026-11-19",
@@ -736,12 +743,12 @@
    "ur": "لال آلو (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 52,
-   "w": 55,
-   "r": 63,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 52,
+   "pw": 55,
+   "pr": 63,
    "series": [
     {
      "d": "2026-11-19",
@@ -757,12 +764,12 @@
    "ur": "پیاز چھوٹی",
    "cat": "veg",
    "unit": "kg",
-   "a": 94,
-   "w": 100,
-   "r": 115,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 94,
+   "pw": 100,
+   "pr": 115,
    "series": [
     {
      "d": "2026-11-19",
@@ -778,12 +785,12 @@
    "ur": "ٹنڈا (چائنہ)",
    "cat": "veg",
    "unit": "kg",
-   "a": 113,
-   "w": 120,
-   "r": 138,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 113,
+   "pw": 120,
+   "pr": 138,
    "series": [
     {
      "d": "2026-11-19",
@@ -799,12 +806,12 @@
    "ur": "لہسن چائنہ (پاکستانی)",
    "cat": "veg",
    "unit": "kg",
-   "a": 310,
-   "w": 330,
-   "r": 380,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 310,
+   "pw": 330,
+   "pr": 380,
    "series": [
     {
      "d": "2026-11-19",
@@ -820,12 +827,12 @@
    "ur": "ادرک (بینکاک) (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 235,
-   "w": 250,
-   "r": 288,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 235,
+   "pw": 250,
+   "pr": 288,
    "series": [
     {
      "d": "2026-11-19",
@@ -841,12 +848,12 @@
    "ur": "ادرک (چائنہ) (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 263,
-   "w": 280,
-   "r": 322,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 263,
+   "pw": 280,
+   "pr": 322,
    "series": [
     {
      "d": "2026-11-19",
@@ -862,12 +869,12 @@
    "ur": "مرچ شہزادی",
    "cat": "veg",
    "unit": "kg",
-   "a": 38,
-   "w": 40,
-   "r": 46,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 38,
+   "pw": 40,
+   "pr": 46,
    "series": [
     {
      "d": "2026-11-19",
@@ -883,12 +890,12 @@
    "ur": "چقندر",
    "cat": "veg",
    "unit": "kg",
-   "a": 94,
-   "w": 100,
-   "r": 115,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 94,
+   "pw": 100,
+   "pr": 115,
    "series": [
     {
      "d": "2026-11-19",
@@ -904,12 +911,12 @@
    "ur": "ہری پیاز",
    "cat": "veg",
    "unit": "kg",
-   "a": 75,
-   "w": 80,
-   "r": 92,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -925,12 +932,12 @@
    "ur": "لوکی گول",
    "cat": "veg",
    "unit": "kg",
-   "a": 75,
-   "w": 80,
-   "r": 92,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -946,12 +953,12 @@
    "ur": "بینگن لمبا",
    "cat": "veg",
    "unit": "kg",
-   "a": 47,
-   "w": 50,
-   "r": 58,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 47,
+   "pw": 50,
+   "pr": 58,
    "series": [
     {
      "d": "2026-11-19",
@@ -967,12 +974,12 @@
    "ur": "جمیری",
    "cat": "veg",
    "unit": "kg",
-   "a": 85,
-   "w": 90,
-   "r": 104,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 85,
+   "pw": 90,
+   "pr": 104,
    "series": [
     {
      "d": "2026-11-19",
@@ -988,12 +995,12 @@
    "ur": "سیب (کالا کولو) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 171,
-   "w": 181,
-   "r": 208,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 171,
+   "pw": 181,
+   "pr": 208,
    "series": [
     {
      "d": "2026-11-19",
@@ -1010,11 +1017,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 160,
-   "r": 184,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 160,
+   "pr": 184,
    "series": [
     {
      "d": "2026-11-19",
@@ -1030,12 +1037,12 @@
    "ur": "سیب (گولڈن) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 229,
-   "w": 243,
-   "r": 267,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 229,
+   "pw": 243,
+   "pr": 267,
    "series": [
     {
      "d": "2026-11-19",
@@ -1052,11 +1059,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 210,
-   "r": 241,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 210,
+   "pr": 241,
    "series": [
     {
      "d": "2026-11-19",
@@ -1072,12 +1079,12 @@
    "ur": "کیلا (درجہ اول)",
    "cat": "fruit",
    "unit": "dozen",
-   "a": 76,
-   "w": 81,
-   "r": 93,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 76,
+   "pw": 81,
+   "pr": 93,
    "series": [
     {
      "d": "2026-11-19",
@@ -1094,11 +1101,11 @@
    "cat": "fruit",
    "unit": "dozen",
    "a": null,
-   "w": 60,
-   "r": 69,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 60,
+   "pr": 69,
    "series": [
     {
      "d": "2026-11-19",
@@ -1115,11 +1122,11 @@
    "cat": "fruit",
    "unit": "dozen",
    "a": null,
-   "w": 132,
-   "r": 152,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 132,
+   "pr": 152,
    "series": [
     {
      "d": "2026-11-19",
@@ -1136,11 +1143,11 @@
    "cat": "fruit",
    "unit": "dozen",
    "a": null,
-   "w": 115,
-   "r": 132,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 115,
+   "pr": 132,
    "series": [
     {
      "d": "2026-11-19",
@@ -1156,12 +1163,12 @@
    "ur": "امرود",
    "cat": "fruit",
    "unit": "kg",
-   "a": 127,
-   "w": 135,
-   "r": 155,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 127,
+   "pw": 135,
+   "pr": 155,
    "series": [
     {
      "d": "2026-11-19",
@@ -1177,12 +1184,12 @@
    "ur": "پپیتا (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 148,
-   "w": 157,
-   "r": 180,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 148,
+   "pw": 157,
+   "pr": 180,
    "series": [
     {
      "d": "2026-11-19",
@@ -1199,11 +1206,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 130,
-   "r": 150,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 130,
+   "pr": 150,
    "series": [
     {
      "d": "2026-11-19",
@@ -1219,12 +1226,12 @@
    "ur": "خربوزہ (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 104,
-   "w": 110,
-   "r": 127,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 104,
+   "pw": 110,
+   "pr": 127,
    "series": [
     {
      "d": "2026-11-19",
@@ -1241,11 +1248,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 100,
-   "r": 115,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 100,
+   "pr": 115,
    "series": [
     {
      "d": "2026-11-19",
@@ -1262,11 +1269,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 100,
-   "r": 115,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 100,
+   "pr": 115,
    "series": [
     {
      "d": "2026-11-19",
@@ -1282,12 +1289,12 @@
    "ur": "چیکو (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 169,
-   "w": 179,
-   "r": 206,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 169,
+   "pw": 179,
+   "pr": 206,
    "series": [
     {
      "d": "2026-11-19",
@@ -1304,11 +1311,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 160,
-   "r": 184,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 160,
+   "pr": 184,
    "series": [
     {
      "d": "2026-11-19",
@@ -1325,11 +1332,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 500,
-   "r": 575,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 500,
+   "pr": 575,
    "series": [
     {
      "d": "2026-11-19",
@@ -1345,12 +1352,12 @@
    "ur": "گریپ فروٹ (درجہ اول)",
    "cat": "fruit",
    "unit": "piece",
-   "a": 17,
-   "w": 18,
-   "r": 20,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 17,
+   "pw": 18,
+   "pr": 20,
    "series": [
     {
      "d": "2026-11-19",
@@ -1367,11 +1374,11 @@
    "cat": "fruit",
    "unit": "piece",
    "a": null,
-   "w": 15,
-   "r": 17,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 15,
+   "pr": 17,
    "series": [
     {
      "d": "2026-11-19",
@@ -1388,11 +1395,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 120,
-   "r": 138,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 120,
+   "pr": 138,
    "series": [
     {
      "d": "2026-11-19",
@@ -1408,12 +1415,12 @@
    "ur": "املوک",
    "cat": "fruit",
    "unit": "kg",
-   "a": 190,
-   "w": 201,
-   "r": 231,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 190,
+   "pw": 201,
+   "pr": 231,
    "series": [
     {
      "d": "2026-11-19",
@@ -1430,11 +1437,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 100,
-   "r": 115,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 100,
+   "pr": 115,
    "series": [
     {
      "d": "2026-11-19",
@@ -1451,11 +1458,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 400,
-   "r": 460,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 400,
+   "pr": 460,
    "series": [
     {
      "d": "2026-11-19",
@@ -1472,11 +1479,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 380,
-   "r": 437,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 380,
+   "pr": 437,
    "series": [
     {
      "d": "2026-11-19",
@@ -1493,11 +1500,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 130,
-   "r": 150,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 130,
+   "pr": 150,
    "series": [
     {
      "d": "2026-11-19",
@@ -1514,11 +1521,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 580,
-   "r": 667,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 580,
+   "pr": 667,
    "series": [
     {
      "d": "2026-11-19",
@@ -1535,11 +1542,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 500,
-   "r": 575,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 500,
+   "pr": 575,
    "series": [
     {
      "d": "2026-11-19",
@@ -1556,11 +1563,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 500,
-   "r": 575,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 500,
+   "pr": 575,
    "series": [
     {
      "d": "2026-11-19",
@@ -1577,11 +1584,11 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": 450,
-   "r": 518,
+   "w": null,
+   "r": null,
    "pa": null,
-   "pw": null,
-   "pr": null,
+   "pw": 450,
+   "pr": 518,
    "series": [
     {
      "d": "2026-11-19",
@@ -1597,12 +1604,12 @@
    "ur": "انگور گول",
    "cat": "fruit",
    "unit": "kg",
-   "a": 308,
-   "w": 326,
-   "r": 375,
-   "pa": null,
-   "pw": null,
-   "pr": null,
+   "a": null,
+   "w": null,
+   "r": null,
+   "pa": 308,
+   "pw": 326,
+   "pr": 375,
    "series": [
     {
      "d": "2026-11-19",
@@ -1613,113 +1620,22 @@
    ]
   }
  ],
- "alerts": [
-  {
-   "level": "medium",
-   "items": [
-    "tomato",
-    "tomato_g2",
-    "onion",
-    "onion_small",
-    "potato",
-    "potato_g2",
-    "potato_red"
-   ],
-   "title_ur": "ایران کی جانب سے ٹماٹر، پیاز اور آلو کی برآمد پر پابندی",
-   "title_en": "Iran Bans Tomato, Onion, and Potato Exports",
-   "summary_ur": "ایران نے ٹماٹر، پیاز اور آلو باہر بھیجنے پر پابندی لگا دی ہے جس سے ضرورت پڑنے پر پاکستان کے لیے متبادل سپلائی بند ہو سکتی ہے۔",
-   "summary_en": "Iran has suspended exports of tomatoes, onions, and potatoes, which may restrict import options for Pakistan during seasonal supply gaps.",
-   "source_indexes": [
-    3,
-    8
-   ],
-   "expected_effect_en": "Risk of price hikes in Karachi wholesale markets if domestic supply faces any shortages.",
-   "expected_effect_ur": "مقامی منڈیوں میں مال کم ہونے کی صورت میں ٹماٹر اور پیاز کی قیمتیں بڑھ سکتی ہیں۔",
-   "sources": [
-    {
-     "title": "Iranian tomato export suspension threatens winter supplies in Tajikistan - FreshPlaza",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzQ2LVlhaHE3cnpVYkJqQldJQzJneWtZQ21PRlUtMEgxWkc0eUVkNm0tLWp5UW1XcG93Vm40RUV6OS13eTdLcjNkVE9kNjQwNC1DeklnTEh3cnJUMTFxTDhRYklENlc3dy16U0ViUGVlWkhpbVk5cE1SNGhQMTE3aklkUXQyWmFIeDY4bXZjT2dzSGxSSzFfS1drZXdRT09XQ2VUeDZQSnl2WmJ1U3FzSFd2QVNMQTQ4YW1FT0Vn?oc=5",
-     "date": "2026-11-19T20:37:30.000Z",
-     "publisher": "FreshPlaza",
-     "lang": "en"
-    },
-    {
-     "title": "Iran bans tomato, potato and onion exports: What does this mean for Tajikistan? - Азия-Плюс",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB6Ry1GUjlubExyS2lBM3VvUUdOalZNb0pGYm9hYnNndDg2VXV3aUlkdktGRjcxNFhjczFKR0JaRV9YemgydHVFc2JqakFGX1c0TkZSUUl3d1l5dUFoTjYxY1pXdHo5OWs2ZlBjYlI0OHFaT0VwOTlmaG16UGNCVVBYd25EVlZGd3BUa0ttemIybURjb2YwX0lmanM2dXc5VkxSSFU5dnBqZ0VMZTZJ?oc=5",
-     "date": "2026-11-19T08:57:31.000Z",
-     "publisher": "Азия-Плюс",
-     "lang": "en"
-    }
-   ]
-  },
-  {
-   "level": "low",
-   "items": [
-    "potato",
-    "potato_g2",
-    "potato_red"
-   ],
-   "title_ur": "روس کے لیے آلو کی برآمدی شرائط میں آسانی",
-   "title_en": "Pakistan Eases Potato Export Rules to Russia",
-   "summary_ur": "حکومت نے روس کو آلو برآمد کرنے کے لیے قواعد و ضوابط آسان کر دیے ہیں تاکہ نئی فصل باہر بھیجی جا سکے۔",
-   "summary_en": "Pakistan has simplified export procedures for potatoes to Russia to facilitate larger export volumes.",
-   "source_indexes": [
-    14,
-    15
-   ],
-   "expected_effect_en": "Increased export demand could keep domestic potato prices firm as new harvests arrive.",
-   "expected_effect_ur": "برآمد بڑھنے سے منڈی میں آلو کی قیمتیں مستحکم یا قدرے تیز رہ سکتی ہیں۔",
-   "sources": [
-    {
-     "title": "Pakistan Eases Export Rules for Key Agricultural Products to Russia - times of islamabad",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHYxQm5BWHNHRmpSSFFaVDZhdFR3RzFIRFNNWllnMm53Tl93ZUZBM21kOFU0OHdqLWtsZktVdVRoMElMSVpDRHV4eFFJNkd2QU9kZ2ZrWlIyYlIteWJQWXloMDRTa05CWERDZlRjN1FSZmdBUUUzTVhTZXBvenBLQVdjSlVXWEg4N2Q5TGZiazRaTXF2eVJncU50TFBmZTVRNElrRGJnb2NaLWU1?oc=5",
-     "date": "2026-11-18T16:17:15.000Z",
-     "publisher": "times of islamabad",
-     "lang": "en"
-    },
-    {
-     "title": "Pakistan eases export rules for potatoes, kinnow to Russia - Business Recorder",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWo3Um1yd1c2TzdDcEdpR1IxMnVOcjZ5aEZxdGRFWjhVeDZ0Skl5amg4N0ozTWk5M2hVdUdlR3lDOGNxVGYzRTd6dHk3YkxuQnI5R1VTUy1GZXJ2SnM2Y1l2eVB0UWFMUUItRk5sQTZCRmZPb1Z3bUtSMG1yS2x3dHlwMHFOWWRIX0N2MC1zbnJ1Sk1TcFJmVTdFSTZ3Z9IBVkFVX3lxTE5nbmMxaWIzeW00R2VLNmxjNEVzUmk5N001bXluZEVYazBHM3AwbVc5eUhWS0RHV25nNm9yU2pIVklNeTBLeUpYeEpuVnNBUFhQV00zaHl3?oc=5",
-     "date": "2026-11-18T15:30:47.000Z",
-     "publisher": "Business Recorder",
-     "lang": "en"
-    }
-   ]
-  },
-  {
-   "level": "low",
-   "items": [
-    "all"
-   ],
-   "title_ur": "ڈیزل سستا ہونے پر کرایوں میں کمی کی ہدایت",
-   "title_en": "Government Pushes for Transport Fare Cuts",
-   "summary_ur": "پیٹرول اور ڈیزل کی قیمتیں کم ہونے کے بعد حکومت نے ٹرانسپورٹرز سے مال برداری کے کرایوں میں کمی کا مطالبہ کیا ہے۔",
-   "summary_en": "Following recent fuel price reductions, the government is directing transporters to slash goods freight charges.",
-   "source_indexes": [
-    2,
-    6
-   ],
-   "expected_effect_en": "Lower transport costs could slightly reduce the arrival cost of vegetables into Karachi wholesale markets.",
-   "expected_effect_ur": "مال برداری سستی ہونے سے کراچی منڈی تک سبزیوں کی ترسیل کے اخراجات میں معمولی کمی آ سکتی ہے۔",
-   "sources": [
-    {
-     "title": "Govt seeks fare cuts after fuel price drop - The Express Tribune",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYThUMGU3Um1UV0h1Y09qX2FUQS1mOWFjcHZOblIzcFdXQzVVek95aGtMblAwSFRfdGJ4ODZtMDl5MGV6c3ZISDlNZGpWTERvUmkwbVI4VnE5WDRRVlVmbUV0STNlMjBBVXFUVEhmMk1YeXdBNGdPekFNRmhacHdfb202VWVCUdIBjgFBVV95cUxNMWdqZjlBQ2Q3cVR5MlBUOXAySjllRVlBUmptUjZUVWJqN0hvcVVSZFMxa3RzWHVBTDZsbWsxY2lyMmpoM2tVcXN4T1EzNURONExSRVQ0c0lhS3NhWWNCaTZ4UV82alVBTDgtMUIzd2lkU001VVBzaU5OZ0VCZHl5VERFMXBWN2VrOGxSXy1B?oc=5",
-     "date": "2026-11-19T22:36:48.000Z",
-     "publisher": "The Express Tribune",
-     "lang": "en"
-    },
-    {
-     "title": "Ahsan Iqbal Makes Big Announcement for Transport Fares - ProPakistani",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHRuVzk5UGxIeWdaSGpoTkZNQVhSTVNyRTNEcElwWS1Kakxhems5N3pweFI4SzlmWkdnazZNdXdDZHBuU2lISjlIY09uUjZrTTBIcWVCM3RTdmNjSUhWSnM4V3V5Z2dyT3ZuV21rdlFDeEQxVUVaMXhpSTlYSVFDOFdfdjdGazZLQXBxQjJHRFFwU05X0gGaAUFVX3lxTFBGWEM1RDY2bDlhZWpZVVJkbTF5emM1cV9DOFNEd1NxV0c1VVpOODZOTUhsVnRWa3pWZXlwTDBnM192Q3ZyQnJwemxFd19mbW9oRG9PbDExdnZRMno5U05DNEtDMmZMMVdEOEJlaElpa3c3ODhiNV95TjRCdklwRVRyTDZNUk5qcmRQMjFaTHZ6Slk2clI2Z1EydUE?oc=5",
-     "date": "2026-11-19T14:05:11.000Z",
-     "publisher": "ProPakistani",
-     "lang": "en"
-    }
-   ]
-  }
- ],
+ "alerts": [],
  "news": [
+  {
+   "title": "Chennai grocery bills rise as small onion hits Rs 220/kg, rice and pulses add to household costs - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPM215Z05YcmJXbzB6ekFOSDFJWklYcDZTQmk5M3pQNTlNNThxd3FHbzU1d0V4LVViUnpEam5Qa3FfbHlHVHAweFFPQW9SWmdzbjZRNGVEeGZldElob0JoN09sM0VFSkMtenlCWUpRTWZocEVpRmFJbWxKV0RFMUw1cDl0aFZsR1hSeldVQmMxT1dIWnd4d3NCWEJiU1pXY3NfQzU5NlJDc3hwQlFVdHJzVzdFZG50VzBZd0l0UVk0VWdCWUJlcTRDd0Z6X2gzWVU4eEx6RjNFRUlyNHM2RXhUT0ZKalhXZGhOQXFEeG9mWTdMWnhNZUoxWWYtTGVCdmR0S1RoMtIBhAJBVV95cUxPM215Z05YcmJXbzB6ekFOSDFJWklYcDZTQmk5M3pQNTlNNThxd3FHbzU1d0V4LVViUnpEam5Qa3FfbHlHVHAweFFPQW9SWmdzbjZRNGVEeGZldElob0JoN09sM0VFSkMtenlCWUpRTWZocEVpRmFJbWxKV0RFMUw1cDl0aFZsR1hSeldVQmMxT1dIWnd4d3NCWEJiU1pXY3NfQzU5NlJDc3hwQlFVdHJzVzdFZG50VzBZd0l0UVk0VWdCWUJlcTRDd0Z6X2gzWVU4eEx6RjNFRUlyNHM2RXhUT0ZKalhXZGhOQXFEeG9mWTdMWnhNZUoxWWYtTGVCdmR0S1RoMg?oc=5",
+   "date": "2026-11-20T03:42:00.000Z",
+   "publisher": "The Times of India",
+   "lang": "en"
+  },
+  {
+   "title": "Scientists succeed in growing potatoes in moon soil - Dawn",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GZkJhZ0huU1lkRHNRbUkwZ2gyYk5qeHotQXowazJmR0FKYVpYVjh5Um9PY2RiRllRT3UzUjBYWWsxYXFwUkFOYw?oc=5",
+   "date": "2026-11-20T01:50:02.000Z",
+   "publisher": "Dawn",
+   "lang": "en"
+  },
   {
    "title": "Govt seeks fare cuts after fuel price drop - The Express Tribune",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYThUMGU3Um1UV0h1Y09qX2FUQS1mOWFjcHZOblIzcFdXQzVVek95aGtMblAwSFRfdGJ4ODZtMDl5MGV6c3ZISDlNZGpWTERvUmkwbVI4VnE5WDRRVlVmbUV0STNlMjBBVXFUVEhmMk1YeXdBNGdPekFNRmhacHdfb202VWVCUdIBjgFBVV95cUxNMWdqZjlBQ2Q3cVR5MlBUOXAySjllRVlBUmptUjZUVWJqN0hvcVVSZFMxa3RzWHVBTDZsbWsxY2lyMmpoM2tVcXN4T1EzNURONExSRVQ0c0lhS3NhWWNCaTZ4UV82alVBTDgtMUIzd2lkU001VVBzaU5OZ0VCZHl5VERFMXBWN2VrOGxSXy1B?oc=5",
@@ -1735,10 +1651,38 @@
    "lang": "en"
   },
   {
+   "title": "Detroit Onion and Potato Market Report: Steady Prices November 19, 2026 - News and Statistics - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWC1pY1QyTThDSTNtWkE5Wm9weEI0S2ZVb3FBeURCaHE1SmhUYUQyWGtDYmdsSFhxMTRQSy1hTG1zSXdoOGFXOGwwOXY4TFdobXhMY3k2THdlZmNBSi1UbGZkVURYb1JVWjZIMF9wUmdFRUIwQlRVQWVoY05sLTJiemYzLTlKMEpZc3NaQnlMdDQzbTZZQ2w1ZWROYkl1QV9jMUV6aWFnNA?oc=5",
+   "date": "2026-11-19T18:40:26.000Z",
+   "publisher": "IndexBox",
+   "lang": "en"
+  },
+  {
+   "title": "Columbia Terminal Market: Steady Onion and Potato Prices - News and Statistics - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmRQbzVWMFltbTRXeDRIN1BUY18tR1dJN3QwWjhWTUpoYUh4ZE1US00xcUlkck85TzRjckkzd09lbkh2cHRXM2dITWNvalRLRzFxWm5JZ281UXE3S3hSaGk2MjlORlFxWThmc1lxdklUQTduLTZ5Q191YjRhc3lsZU00N2g4dGdDRlhKai1Ma1RlYjlMazktVQ?oc=5",
+   "date": "2026-11-19T18:30:23.000Z",
+   "publisher": "IndexBox",
+   "lang": "en"
+  },
+  {
+   "title": "India’s onion production to decline by 6% but export potential remains strong - УкрАгроКонсалт",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmxXYzBpOXNGbmFyN09LZDdCWFl1ODFVRXc0TFpjZFFFSV93X3lvTEF4YXBya3N5cmJLRjBlVnQ2MklxMUZabDMxekM3X2Q1N0JoeEhhd1hjbVJxQ0t0QjhFWHBmMW53ZkUyaFljWXFtUmlKY2dGazBfYVhKanNTYUw1NmhEYzIxZXpnZ21kOTNvREtsQkE3cG5jUThGdVFPVXFkNy1CT0Y3Nm95UjdrMg?oc=5",
+   "date": "2026-11-19T14:39:23.000Z",
+   "publisher": "УкрАгроКонсалт",
+   "lang": "en"
+  },
+  {
    "title": "Ahsan Iqbal Makes Big Announcement for Transport Fares - ProPakistani",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHRuVzk5UGxIeWdaSGpoTkZNQVhSTVNyRTNEcElwWS1Kakxhems5N3pweFI4SzlmWkdnazZNdXdDZHBuU2lISjlIY09uUjZrTTBIcWVCM3RTdmNjSUhWSnM4V3V5Z2dyT3ZuV21rdlFDeEQxVUVaMXhpSTlYSVFDOFdfdjdGazZLQXBxQjJHRFFwU05X0gGaAUFVX3lxTFBGWEM1RDY2bDlhZWpZVVJkbTF5emM1cV9DOFNEd1NxV0c1VVpOODZOTUhsVnRWa3pWZXlwTDBnM192Q3ZyQnJwemxFd19mbW9oRG9PbDExdnZRMno5U05DNEtDMmZMMVdEOEJlaElpa3c3ODhiNV95TjRCdklwRVRyTDZNUk5qcmRQMjFaTHZ6Slk2clI2Z1EydUE?oc=5",
    "date": "2026-11-19T14:05:11.000Z",
    "publisher": "ProPakistani",
+   "lang": "en"
+  },
+  {
+   "title": "Mumbai households feel grocery squeeze as onion, rice, pulses and cooking oil prices rise - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON3hOdTJjNmxUamlfZUhkZmxycmQwMFFKWW55SUp1NDk0akVxT0tBa0wxdWhlRjhmc0dGS3RLRU9QWmNkV1o4TnZRczRCVk10RVF4Yno4N0xCeDEzOXFaZThuZ3hnbDBISUlNR2R5REFYQThsc2JGVnVfcE52NkJJb29aZ0N2NG1NZHlEZ0l2Mm05LW1vOTVTOEp6UmtZVXNONlo1SG9fMzFqZmsyOTUzVjlvNnRhTGhVczk0LXZPNUhSOFFSa0NfVWlYUldmMFdpOEFFRmJHemVNczFTajhZYWJGdFVUUV9MSTVaNmJpcGc2TDDSAfgBQVVfeXFMUC1KSG11YWlqWHNxWHdXdUxRWDBVYnFTNlAxVmZBNTZmQXp3N2J6eEs0UW5fSVhCc2ljM1JNYWoyM05WTHc5WnBXUnljQ3BzZTB6V2dRR2Ytc0UyMkZKRU1GSl9IVmJRX3UyLURMTnpuN1RUeGNkY3MtWmdsUzFvbVNFT2hSNDNnemF6am81UWNyVExfYW1Cb0huemlZd2RTV1BoNnJ0Y2NlSzg5cEhkdUhJcC1OSVV0V25VQlFXZ2t4RE5hdU5TaXJPZENSUmdjQmhOWThyOThiM1YtdWFOcDVnZ3pUR25zbmlmMmg0a2wxOEZlbVBUb1E?oc=5",
+   "date": "2026-11-19T11:47:00.000Z",
+   "publisher": "The Times of India",
    "lang": "en"
   },
   {
@@ -1749,10 +1693,31 @@
    "lang": "en"
   },
   {
-   "title": "Pakistan Eases Export Rules for Key Agricultural Products to Russia - times of islamabad",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHYxQm5BWHNHRmpSSFFaVDZhdFR3RzFIRFNNWllnMm53Tl93ZUZBM21kOFU0OHdqLWtsZktVdVRoMElMSVpDRHV4eFFJNkd2QU9kZ2ZrWlIyYlIteWJQWXloMDRTa05CWERDZlRjN1FSZmdBUUUzTVhTZXBvenBLQVdjSlVXWEg4N2Q5TGZiazRaTXF2eVJncU50TFBmZTVRNElrRGJnb2NaLWU1?oc=5",
-   "date": "2026-11-18T16:17:15.000Z",
-   "publisher": "times of islamabad",
+   "title": "Bharatiya Kisan Sangh calls for irrigation network in Punjab, Haryana, Rajasthan and J&K using Indus river - The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRWdQUE03WUJjblExd0JpV0tOdEE2aEJaWUxfNzNqZGMzU2NzbUx0aC1KY0Y2aXNmM1FyNUt0T0IwN1ZoVUJ3UUVXN19IY0s4eEc3TE1BbFF4TVk1N0RXajkyeXFaSk9OV2NLTmlaaFh3WGxIaWZNSWJTYl9kR3VoRG1neHFyZU85WHdKX2NOUzBhLXJBRGluNXdkeVNVNXlYcFhNOW9td0l4VFRoS2pja1VacGs5SzZEYzN0UnRxVnl2RDlyUWNlNnh3c0FjMU52NDlKYUI1ZElfa0VmSm15aERPbmdycWxoNWRBeUFMeDA4T295MGRhVXhqVWJhV0NnOTN4alVqS1Zabm94MnpNNmdGaDl2YmtIYzg3aHAwRVBxeXQ40gGeAkFVX3lxTE53b0RrTUlocVZaNEMtYWJFT0ZrQW13SzJRMDE0eVc3bEhleFUzTHdNZzBWWXFsSWpsY2NYc0x3SHkwR3pSZUJ4TnN4VXJFYTNfWW9icWJfZ2FmNW8yRklUWkpMVmxWOHgyemlXd0Q0THpxbHN4SVpRR2J1dWg3czVJQzlZd2tFbXdLNVlWUVBYbEFySDI1ZGtOREtPSm1nQWkyMEhYRWtsMFVYcnJfNkI2bV9tZVEzRDFEQmhrS1ZCV0xLVzY4SXNZbHRmWkEtQ0dCOWxLZ2hhdFFlUmVvYVluSi1yYTJLWFlmT3hBbndGdEJ5dGRVZGJjWUkxZGJKQmFlVFducXNfT1BmRlVvV0d0Tlo1VURwbG5GWllnTEE?oc=5",
+   "date": "2026-11-19T04:50:40.000Z",
+   "publisher": "The Economic Times",
+   "lang": "en"
+  },
+  {
+   "title": "Lahore News HD, Latest News and headlines - Lahore News",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84RmtUT2FGc3h5MzdoUlRlejd1c1p6S3VwQXNlaHdySTdYR2JZbWZPenVYWFlnUVVXVlprRjVvZWpHWkNWVVFvZlN3LTNmU18ybGY5bU1aYmFmdw?oc=5",
+   "date": "2026-11-18T18:28:23.000Z",
+   "publisher": "Lahore News",
+   "lang": "ur"
+  },
+  {
+   "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Business Recorder",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xeW1xbjVlcUhiaWg2UEdaVk9vWFhzaDgxbTk5a3YxeEU4a29iZE53ZGJ5YzA4ZkJnVmJISkh4M0hZWDRRVUYwLW84cUE1aGFy0gFWQVVfeXFMTk5NMHVZR0psVXQ3RDRFWUk5Z3BIQ09BcUNWNml1MEI4VmNhQU50ZFFTVlF5WUxPRHRNbndwcS0yemJIQ0tsNV9yQ3pOc3dWM2UtZlJiNUE?oc=5",
+   "date": "2026-11-18T18:07:24.000Z",
+   "publisher": "Business Recorder",
+   "lang": "en"
+  },
+  {
+   "title": "Miami Terminal Market: Steady Onion and Potato Prices - USDA Report - News and Statistics - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUdYOXhtb1phT0ZGLThnQUJ4c0lpdzRjdXlvUkFrY3BmbGhEV0pDc3Vpd0hOM3FQdXhDdUJzOUZGRFdZV1VGZEhvRklJWTdCR1BpUjJHZXI3Q0REQkYtdjhRc0I2U3p5QWJWMnhoV0x0YmNXajZsQ3pkMEhnOXRsbFJNZXRPMVliMng0c1VPa2FFb3R1VjNr?oc=5",
+   "date": "2026-11-18T18:00:29.000Z",
+   "publisher": "IndexBox",
    "lang": "en"
   },
   {
@@ -1763,10 +1728,66 @@
    "lang": "en"
   },
   {
+   "title": "Onion farmers seek measures to ensure Rs 3,000 per quintal amid surplus production outlook - The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaXBwYWV2ZTRoOElzcGNIeVZ2dFYyb3R0RFg0TVVNWTB5Zlc4RXFDVHpZMWNtT0NjbzBpLWNmajlpWGVOTDRxdVlQWFNiY1lSSFo5ang5LUtPZFFGeGNlYWNscFcyUHJ1TXFzMDZyVEVHWEdxNDBMbnRJLURKLVFrWFFpV1ZLNGk4UEVWTVAzdm9mdTNIUlRwX3Naa1d6elVSSjZkN3ZvZzA4Zk9iZ0ltcUwybmhZbmlKR1o0cmc0Rm54T1FMOUdTLXUwN3JBRnBGTHIwb1pXRTFkcGJuVVZFMG00THFaOUExU1BWZ1R4S2dvcTZjUWxDTGVzOThObHZiMlNwcG1FY18?oc=5",
+   "date": "2026-11-18T10:00:54.000Z",
+   "publisher": "The Economic Times",
+   "lang": "en"
+  },
+  {
+   "title": "Mandi Bahauddin Farmer Earns Millions Through Successful Dragon Fruit Farming - Aaj News - Aaj English TV",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0dUSXpEYmtOR0RTWlliRURtY016NjBUckZaN2xoWmJqSW9WZ0pWQTItSEw1d1NUTlVXZkJpRGZZV0xiaWlzM0Q1YWhLMzR5cWhRd1Y4empvOU5xMGg1TThaU0lVb21Tck5fc1lyejBRU1hPVHh0VVAzZ3VGdHVmeDdGTVFFSDhBWC1pYWVMbTJpM3piQmNJR2ZBUlQ2cTNseVc0QTA2emZSSGVSbXJWTHItVWoya0xXTFU0ZXJPdG9xUdIBU0FVX3lxTE92WHIwT1c4cFZGSFJkeTBrNGRYcEs3NUdmQzNBd0ZtQkl1MU1HZkh0UTBKMFpvWTZYLVZ5c0ZfaEJybndyU2ZsbjUtOVVqalU4Z3RZ?oc=5",
+   "date": "2026-11-18T06:35:13.000Z",
+   "publisher": "Aaj English TV",
+   "lang": "en"
+  },
+  {
+   "title": "Dany Group buys former US Consul General residence in Karachi for over $25 million: report - Business Recorder",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFNWWkdjNU5UaHhyOWstd3E4THhFN3h2cGpKUmJaSnNGNjYyeDJUMzhxRGprMXZsaXVQS2MzSFl0MXM2eGVoNDU5dk5hQU9VdUZtNXhyaXpxSjBCZG52VVdLUTVlS1ZCWmdiVFpsNmhTbE93a2ZpMVB5RGlCT1VqSGEzOFBxU2pzTkNmSnF0OFFvTnEwUU1pTVpuTy10YTEyY3lGTGRmWXN0RC1PWGZUT3VOUUMtZnQ3LXZ2ZHhLa1JQaFBvQ0M40gFWQVVfeXFMT3VTVG5tV3hhR2JKQVNpZGw3enJ2emZzb2hsUXFDeXYxdms3TDlxUkJjWGZScHRWWndUd3BkOXpiTHpBOE01QVJxMVpoZkVobHExN2pGeUE?oc=5",
+   "date": "2026-11-18T05:37:29.000Z",
+   "publisher": "Business Recorder",
+   "lang": "en"
+  },
+  {
+   "title": "Fertiliser shortage, rising costs worry onion growers - New Age BD",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjBRN1dHUWFFZ1Vsb0pzTjhOdmdYNTduMkE2WDBLRktLUlplcUxhYlNCeDVERmNlQW9USm5iQnZYQ21iMzl0TndsYXltbVEtX2lyM2MzRDFmcjh2aGVSSUVjaXZOMUtzNmNXalNTNzNsWWFLQVYzbHotWnlYZTZmMVFVSU85RHJjRXRtemhNYUNRcmd4YTZQMlN3VHNhdw?oc=5",
+   "date": "2026-11-17T22:42:00.000Z",
+   "publisher": "New Age BD",
+   "lang": "en"
+  },
+  {
+   "title": "Philadelphia Onion and Potato Market Steady; White Onions Higher - News and Statistics - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmQyQk4tcWl2bnpVVnFpR20yNHpkaG1pdUdYOWtaR014TVpZSF9JdF9xVjItdkZKZnBWTk5QU3g4Mmk2UUtWV2RRaC1uMFd1a0pOTUtOaE1BcGxIaDViRl9ERHdVaS1xZzROT0JaZzllV1A5T2REYXM3WnZVVGxuUHhDTUt4dGkwNjkzNncyTUdKNU1Fckw2ZUtaX0FMMWYwRTFlYXRCeWt1WGZNSm1WVQ?oc=5",
+   "date": "2026-11-17T18:20:26.000Z",
+   "publisher": "IndexBox",
+   "lang": "en"
+  },
+  {
+   "title": "Pakistan, Korea Strengthen Agricultural Research and Technology Cooperation - Daily Independent",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkpXYmx6SzhHWG85RXlJNkE1Qk1XUVZpYS1hY3VPVk11aFNYN3J4aTBEODh0VkNLMkZOZ0xTTFRaLU16SWxWR2pacTZvYUgtSkczcXQ5RFF0OUhmR18tVFRmWWdoYks0OHc1OENNSmVodkxVZXpyanNIeFFvT2FGZzlYajQ4MENoTTEzUG9fT2t1dllRalJzSlk0TGRYaVFRaTl6WHlhb1p4ckF3U2w2emlpamJRUnhoX0JXVEQzYw?oc=5",
+   "date": "2026-11-17T15:31:25.000Z",
+   "publisher": "Daily Independent",
+   "lang": "en"
+  },
+  {
    "title": "Pakistan Discloses 200,000-Tonne Fertiliser Shortfall in Parliament - Global Agriculture",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3FDMktNWDBSYTE5Q3pWV05ZYnNfaUQ4Z0hJZlF2VUpTbmFZaGF6RXNQSzRxckJBYU1HMjZaU1BxbWtpRVJyMUJvQnlVZFZLS1M2dlc3dGRSRDNzNERqclJna3VhTjlnMm9jQ2o2aW9IMEdlZnR2NjNKcHhDOVh3aXV6S2IwZEROZGRPQUNVeWFqcUlnWU5qeU9IUDAyOGlxQUpXc1ZUSE5WQ1RyeU9rM21WMnN3WlJ4?oc=5",
    "date": "2026-11-17T15:14:39.000Z",
    "publisher": "Global Agriculture",
+   "lang": "en"
+  },
+  {
+   "title": "Nashik: 22-Hour Daily Power Cut In 35 Villages from November 18 To Ensure Darna Water Supply - Free Press Journal",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU05lM3pLNjBQakxvS2RuSE5YWmpzdWlFRmxQcEtVR29UQTllQTlPSERSaGlVejFzVHBZNEIxMGFJWjRJdUxmQU1BdGlSbC00SUNOMF9Ydk1HSjh0Nml1UEFDT2hpVk1DX3FJTDJ1NmI0Z0NrM0hreGlHS2xxbUZ5UlF3cUZjN0N3dlY4Qnh4QlNwZGFaQ2FIY0FOTDg1ZmwyV1pRVzhFc3lNc2JsUllLQkRocnd4NllUVmloYmpXTl9pMG5FbS1wUXFTSWrSAcwBQVVfeXFMUFNOZTN6SzYwUGpMb0tkbkhOWFpqc3VpRUZsUHBLVUdvVEE5ZUE5T0hEUmhpVXoxc1RwWTRCMTBhSVo0SXVMZkFNQXRpUmwtNElDTjBfWHZNR0o4dDZpdVBBQ09oaVZNQ19xSUwydTZiNGdDazNIa3hpR0tscW1GeVJRd3FGYzdDd3ZWOEJ4eEJTcGRhWkNhSGNBTkw4NWZsMldaUVc4RXN5TXNibFJZS0JEaHJ3eDZZVFZpaGJqV05faTBuRW0tcFFxU0lq?oc=5",
+   "date": "2026-11-17T12:51:21.000Z",
+   "publisher": "Free Press Journal",
+   "lang": "en"
+  },
+  {
+   "title": "Nashik: Trimbakeshwar To Get 150 Prefab Clinics And Hospitals Ahead Of 2027 Kumbh - Free Press Journal",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVB4blNQcUhjRzRlSGpndndHUGktT2hPSFo1Z2lHYVBXUWVUNU9WTGl3UllVd1lueGQweURBdllITzY2WVd0b2pid0ZobHhOaE9mWjhtNmlFX0MyaWQyelFJVVhSeFotQ3BNLWludUJkcnY5Y0ZfdWh6NVhLWm9aNUtDVDBsTDhBNTF1VG9MenIzQlR3M0x3WUJjbmdWT0x4NGI0NFJkVzVheG45NGV3QWllclJ6VVlz0gG-AUFVX3lxTE9QMzhqSk5fQW5TRVFhck1PNi1vdHVJVmViWWVpdEFpZnVwNWMySWVaNjczU3hNcVhRejN5YjJFZmpPLTh0dnU4SEpVQ2hNRl9iQzBrb3l2d3hvUFRqT1R2SlZMQTFTX2hLT3hCYUpZZ0ItOF9heTNmeTRBVldsMXdqNVFnbjJrMmthNXpWUUZvS29YY205RzgwaFJ4SUNWcGhGdFo2cldGWm9STXktdmZsQTBXVFNCWUVNR3lEWmc?oc=5",
+   "date": "2026-11-17T09:36:44.000Z",
+   "publisher": "Free Press Journal",
    "lang": "en"
   },
   {
@@ -1775,17 +1796,53 @@
    "date": "2026-11-17T09:27:16.000Z",
    "publisher": "Facebook",
    "lang": "en"
+  },
+  {
+   "title": "Ukraine increases onion exports to the EU 4.3-fold despite declining European imports - UkrAgroConsult",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXVreUxEM2hteGJuTG1Ca0o0UlEwOE9jdEc2X0pYNkk4UXJhaWJWS05fMHZJcFJ6dy1FYUsyejhjMy11d1JsUDFQTkE3czAtNXFOWDhLbTN5LXF4Z0xaOWFETTVSeGx5LVlQS19pWkVTVVdJdDlKcVkwVFRCbXlvWUZfdm9VM2Z4UE9zYnFyUUU5dWZsOFRKbkprOThwMG9oT3pjX1pTeWNDY2lpYzBCajVkUFJwU2NjRGZiWUlB?oc=5",
+   "date": "2026-11-17T08:30:55.000Z",
+   "publisher": "UkrAgroConsult",
+   "lang": "en"
+  },
+  {
+   "title": "Nashik: Red Onion Prices Touch ₹5,500 Per Quintal At Lasalgaon APMC - Free Press Journal",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0VoLUFNajREUkFjczFZMXlKTVdrWmVNeXh0VVJXQW5kRVA1T0FOVFFfcnlIOHNvNlEyelltZHgyZExvdHRLUEZWRE9aemJHek9oVTZzRndzVlJMV3h3dWFrWnlMWkc3WFRGRTlYelFrS015SnlJNy1aYllDXzZtMEVjZEhSZzAxbGNIWWxfcmF1eEJtV29uZnFTOUgxdWpWVGlZ0gGoAUFVX3lxTE1SUXNYaUNvYjVBa3AxbkZMalo5bVBuYVI3bkh4WWVCelZHZURRU3pXT0RidTQxeDM5QVVsUnEyRDNhS3R2LTFKeVU3dmU1dWJFZXhoSE53S21hdklRcXZnaVV6YVRZYzQtWFhHNVJ2Ul9mNXNBa29vMllhcjlHVEVCbmJOcU50ZEFqc1NvcDdjalhhcnNPNnc3azMzWjdKcmJMbV9LWWhyUg?oc=5",
+   "date": "2026-11-17T06:21:43.000Z",
+   "publisher": "Free Press Journal",
+   "lang": "en"
+  },
+  {
+   "title": "Kazakhstan Potato Harvest Expected to Reach 2.8 Million Tonnes in 2026, Supporting Export Growth - PotatoPro",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTRfOXYza2w0Y0lZWHpKR1M2a25MTEk1aFk5Wm83cmVtd1U1OVJocFdWSFFnZWFLblljYll1Mm9ycjE0Mmk1UWVXLXh5dzFCamJjak9EOTJUTTEybVRxV09ZM1FlaklPVThRZ0hCUVJRZWJrSXZabTg3bGtXREloaUpGR3BaZjZlajJsMHctWWFKYmN6WldDTXJlN1RsY1F5OXlpY3VHM3Z2RTQxR0FHaUxnQlFNSFhtYjVwRC1wT0JlQQ?oc=5",
+   "date": "2026-11-17T05:35:24.000Z",
+   "publisher": "PotatoPro",
+   "lang": "en"
+  },
+  {
+   "title": "Pakistan’s 2027 harvest is being decided now - Business Recorder",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk9KcGpLbDNQQWpJQ1hSNmRZbkl3WGN1RnhyVEhJMmdLb3l6YktZekFiYXQ2NndCUGtsU1ExUm50TUxLZm5TaHVYVl80N1o2bE1UZDVpYkJUS0VWbkI1N2tQelJKc0hLdTg4eEYzdWhMWW85Um95YU5mbkRNbzhsRjZGamFGMklNNmdZ0gFWQVVfeXFMTlRFOTJSZURTaXktZUMxM1ZUUWpIdW5SejQwcnBMQldQYWVpOFlnbHNWR0NXQVNYUTF4QzdxX3RIRExldTZhdDdudl9tbDk5WGVtci1XbXc?oc=5",
+   "date": "2026-11-16T23:46:54.000Z",
+   "publisher": "Business Recorder",
+   "lang": "en"
+  },
+  {
+   "title": "Hard to digest: Andhra Pradesh clocks highest food inflation in India at 13%, dining out gets costlier - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTRPOTdkYWVpb2ZWTVM1Y3V3aGNOS0xPcnYyNjFreWpsX3ROdHpqdXZqanhEbWVNODZkZGVUTUxaUlBUQ2pKdnV0XzViX0RyOXZaMXptOHhWWnpDRnpMZENVNXlMNFBfN3NOUDlJdFJEeHVia0U4bEdBVHlvUGJpak5VNDNwRE8tbkY3VFVyc052blZzS0ZzWnhaSXBKa2J3c1picWFTLTgwazQ0ZzFGT1JEYnhKWkYxSmw1RVdQOHdPWGwzMjA1TEE3ekpqNmZKVC1tcEpMUTlQd0FGZU5ySENibFcyVVVjU1JEQVZSUFFVSlM1LUJ4eVhlOTlGZHd0NDdIeWl5eWrSAY4CQVVfeXFMTTU3cW5DcVJQUzQwZGN1QVhiMnhNU2VQZ3VNbmY4ckt5M1pJWFN0dXF6dDBfOUZiUkRoOXd3cGNuZm16djI5RFoxcEszbVlFZkk1SGtJa3lDejRUTVJlc19SV2FhcEZ6cWpFMmRXQml3Y19NNWVvRWEtWWpDQ0JFdGJna29TWXRQZ3Bqa01sVUk5WktSSUx3eUFVT0xBVUphV045bUxWS0EyTTFMTDBoalFlbm1RRUNqd3k5ZW9QMFB3V2NteDR2N0h1Ulp2ZFVmV2RHTHdwcWhiREFFUHBxWDJIb0tkWGZ6M0xMNVE0RFFMeDNBR0dSVENuSHQxWndLQnpGZVUweVdJRkMwUllR?oc=5",
+   "date": "2026-11-16T19:08:00.000Z",
+   "publisher": "The Times of India",
+   "lang": "en"
   }
  ],
  "report": {
-  "summary_ur": "آج 0 اشیاء مہنگی، 0 سستی ہوئیں اور 76 کے ریٹ برقرار رہے۔",
-  "summary_en": "Today 0 items went up, 0 went down and 76 stayed the same.",
+  "summary_ur": "آج 0 اشیاء مہنگی، 1 سستی ہوئیں اور 75 کے ریٹ برقرار رہے۔ سب سے زیادہ کمی آلو میں آئی (-100%).",
+  "summary_en": "Today 0 items went up, 1 went down and 75 stayed the same. Biggest drop: Potato (-100%).",
   "points_ur": [],
   "points_en": [],
   "advice_ur": "",
   "advice_en": ""
  },
  "snapshots": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ]
 }
