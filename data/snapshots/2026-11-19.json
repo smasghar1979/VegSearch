@@ -1,9 +1,9 @@
 {
  "date": "2026-11-19",
  "prevDate": null,
- "today": "2026-11-19",
- "stale": false,
- "generatedAt": "2026-11-19T09:03:33.550Z",
+ "today": "2026-11-20",
+ "stale": true,
+ "generatedAt": "2026-11-20T04:57:42.475Z",
  "source": {
   "id": "commissioner_karachi",
   "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
@@ -981,36 +981,771 @@
      "r": 104
     }
    ]
+  },
+  {
+   "id": "apple_kala_kulu",
+   "en": "Apple (Kala Kulu) (Grade 1)",
+   "ur": "سیب (کالا کولو) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 171,
+   "w": 181,
+   "r": 208,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 171,
+     "w": 181,
+     "r": 208
+    }
+   ]
+  },
+  {
+   "id": "apple_kala_kulu_g2",
+   "en": "Apple (Kala Kulu) (Grade 2)",
+   "ur": "سیب (کالا کولو) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 160,
+   "r": 184,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 160,
+     "r": 184
+    }
+   ]
+  },
+  {
+   "id": "apple_golden",
+   "en": "Apple (Golden) (Grade 1)",
+   "ur": "سیب (گولڈن) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 229,
+   "w": 243,
+   "r": 267,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 229,
+     "w": 243,
+     "r": 267
+    }
+   ]
+  },
+  {
+   "id": "apple_golden_g2",
+   "en": "Apple (Golden) (Grade 2)",
+   "ur": "سیب (گولڈن) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 210,
+   "r": 241,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 210,
+     "r": 241
+    }
+   ]
+  },
+  {
+   "id": "banana",
+   "en": "Banana (Grade 1)",
+   "ur": "کیلا (درجہ اول)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": 76,
+   "w": 81,
+   "r": 93,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 76,
+     "w": 81,
+     "r": 93
+    }
+   ]
+  },
+  {
+   "id": "banana_g2",
+   "en": "Banana (Grade 2)",
+   "ur": "کیلا (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": null,
+   "w": 60,
+   "r": 69,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 60,
+     "r": 69
+    }
+   ]
+  },
+  {
+   "id": "mosambi",
+   "en": "Mosambi (Sweet Lime) (Grade 1)",
+   "ur": "موسمی (درجہ اول)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": null,
+   "w": 132,
+   "r": 152,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 132,
+     "r": 152
+    }
+   ]
+  },
+  {
+   "id": "mosambi_g2",
+   "en": "Mosambi (Sweet Lime) (Grade 2)",
+   "ur": "موسمی (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": null,
+   "w": 115,
+   "r": 132,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 115,
+     "r": 132
+    }
+   ]
+  },
+  {
+   "id": "guava",
+   "en": "Guava",
+   "ur": "امرود",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 127,
+   "w": 135,
+   "r": 155,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 127,
+     "w": 135,
+     "r": 155
+    }
+   ]
+  },
+  {
+   "id": "papaya",
+   "en": "Papaya (Grade 1)",
+   "ur": "پپیتا (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 148,
+   "w": 157,
+   "r": 180,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 148,
+     "w": 157,
+     "r": 180
+    }
+   ]
+  },
+  {
+   "id": "papaya_g2",
+   "en": "Papaya (Grade 2)",
+   "ur": "پپیتا (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 130,
+   "r": 150,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 130,
+     "r": 150
+    }
+   ]
+  },
+  {
+   "id": "melon",
+   "en": "Melon (Grade 1)",
+   "ur": "خربوزہ (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 104,
+   "w": 110,
+   "r": 127,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 104,
+     "w": 110,
+     "r": 127
+    }
+   ]
+  },
+  {
+   "id": "melon_g2",
+   "en": "Melon (Grade 2)",
+   "ur": "خربوزہ (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 100,
+   "r": 115,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 100,
+     "r": 115
+    }
+   ]
+  },
+  {
+   "id": "watermelon",
+   "en": "Watermelon",
+   "ur": "تربوز",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 100,
+   "r": 115,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 100,
+     "r": 115
+    }
+   ]
+  },
+  {
+   "id": "chikoo",
+   "en": "Chikoo (Sapodilla) (Grade 1)",
+   "ur": "چیکو (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 169,
+   "w": 179,
+   "r": 206,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 169,
+     "w": 179,
+     "r": 206
+    }
+   ]
+  },
+  {
+   "id": "chikoo_g2",
+   "en": "Chikoo (Sapodilla) (Grade 2)",
+   "ur": "چیکو (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 160,
+   "r": 184,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 160,
+     "r": 184
+    }
+   ]
+  },
+  {
+   "id": "pear",
+   "en": "Pear",
+   "ur": "ناشپاتی",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 500,
+   "r": 575,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 500,
+     "r": 575
+    }
+   ]
+  },
+  {
+   "id": "grapefruit",
+   "en": "Grapefruit (Grade 1)",
+   "ur": "گریپ فروٹ (درجہ اول)",
+   "cat": "fruit",
+   "unit": "piece",
+   "a": 17,
+   "w": 18,
+   "r": 20,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 17,
+     "w": 18,
+     "r": 20
+    }
+   ]
+  },
+  {
+   "id": "grapefruit_g2",
+   "en": "Grapefruit (Grade 2)",
+   "ur": "گریپ فروٹ (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "piece",
+   "a": null,
+   "w": 15,
+   "r": 17,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 15,
+     "r": 17
+    }
+   ]
+  },
+  {
+   "id": "garma",
+   "en": "Garma Melon",
+   "ur": "گرما",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 120,
+   "r": 138,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 120,
+     "r": 138
+    }
+   ]
+  },
+  {
+   "id": "amlok",
+   "en": "Amlok (Date Plum)",
+   "ur": "املوک",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 190,
+   "w": 201,
+   "r": 231,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 190,
+     "w": 201,
+     "r": 231
+    }
+   ]
+  },
+  {
+   "id": "watermelon_long",
+   "en": "Watermelon (Long)",
+   "ur": "تربوز لمبا",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 100,
+   "r": 115,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 100,
+     "r": 115
+    }
+   ]
+  },
+  {
+   "id": "pomegranate_irani",
+   "en": "Pomegranate (Irani) (Grade 1)",
+   "ur": "انار (ایرانی) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 400,
+   "r": 460,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 400,
+     "r": 460
+    }
+   ]
+  },
+  {
+   "id": "grapes_sundarkhani",
+   "en": "Grapes (Sundarkhani)",
+   "ur": "انگور (سندرخانی)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 380,
+   "r": 437,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 380,
+     "r": 437
+    }
+   ]
+  },
+  {
+   "id": "guava_larkana",
+   "en": "Guava (Larkana)",
+   "ur": "امرود (لاڑکانہ)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 130,
+   "r": 150,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 130,
+     "r": 150
+    }
+   ]
+  },
+  {
+   "id": "dates_muzafati",
+   "en": "Dates (Irani Muzafati) (Grade 1)",
+   "ur": "کھجور (ایرانی مضافاتی) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 580,
+   "r": 667,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 580,
+     "r": 667
+    }
+   ]
+  },
+  {
+   "id": "dates_muzafati_g2",
+   "en": "Dates (Irani Muzafati) (Grade 2)",
+   "ur": "کھجور (ایرانی مضافاتی) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 500,
+   "r": 575,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 500,
+     "r": 575
+    }
+   ]
+  },
+  {
+   "id": "dates_zahidi",
+   "en": "Dates (Zahidi Basra) (Grade 1)",
+   "ur": "کھجور (زاہدی بصرہ) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 500,
+   "r": 575,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 500,
+     "r": 575
+    }
+   ]
+  },
+  {
+   "id": "dates_zahidi_g2",
+   "en": "Dates (Zahidi Basra) (Grade 2)",
+   "ur": "کھجور (زاہدی بصرہ) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 450,
+   "r": 518,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 450,
+     "r": 518
+    }
+   ]
+  },
+  {
+   "id": "grapes_round",
+   "en": "Grapes (Round)",
+   "ur": "انگور گول",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 308,
+   "w": 326,
+   "r": 375,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 308,
+     "w": 326,
+     "r": 375
+    }
+   ]
   }
  ],
- "alerts": [],
+ "alerts": [
+  {
+   "level": "medium",
+   "items": [
+    "tomato",
+    "tomato_g2",
+    "onion",
+    "onion_small",
+    "potato",
+    "potato_g2",
+    "potato_red"
+   ],
+   "title_ur": "ایران کی جانب سے ٹماٹر، پیاز اور آلو کی برآمد پر پابندی",
+   "title_en": "Iran Bans Tomato, Onion, and Potato Exports",
+   "summary_ur": "ایران نے ٹماٹر، پیاز اور آلو باہر بھیجنے پر پابندی لگا دی ہے جس سے ضرورت پڑنے پر پاکستان کے لیے متبادل سپلائی بند ہو سکتی ہے۔",
+   "summary_en": "Iran has suspended exports of tomatoes, onions, and potatoes, which may restrict import options for Pakistan during seasonal supply gaps.",
+   "source_indexes": [
+    3,
+    8
+   ],
+   "expected_effect_en": "Risk of price hikes in Karachi wholesale markets if domestic supply faces any shortages.",
+   "expected_effect_ur": "مقامی منڈیوں میں مال کم ہونے کی صورت میں ٹماٹر اور پیاز کی قیمتیں بڑھ سکتی ہیں۔",
+   "sources": [
+    {
+     "title": "Iranian tomato export suspension threatens winter supplies in Tajikistan - FreshPlaza",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzQ2LVlhaHE3cnpVYkJqQldJQzJneWtZQ21PRlUtMEgxWkc0eUVkNm0tLWp5UW1XcG93Vm40RUV6OS13eTdLcjNkVE9kNjQwNC1DeklnTEh3cnJUMTFxTDhRYklENlc3dy16U0ViUGVlWkhpbVk5cE1SNGhQMTE3aklkUXQyWmFIeDY4bXZjT2dzSGxSSzFfS1drZXdRT09XQ2VUeDZQSnl2WmJ1U3FzSFd2QVNMQTQ4YW1FT0Vn?oc=5",
+     "date": "2026-11-19T20:37:30.000Z",
+     "publisher": "FreshPlaza",
+     "lang": "en"
+    },
+    {
+     "title": "Iran bans tomato, potato and onion exports: What does this mean for Tajikistan? - Азия-Плюс",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB6Ry1GUjlubExyS2lBM3VvUUdOalZNb0pGYm9hYnNndDg2VXV3aUlkdktGRjcxNFhjczFKR0JaRV9YemgydHVFc2JqakFGX1c0TkZSUUl3d1l5dUFoTjYxY1pXdHo5OWs2ZlBjYlI0OHFaT0VwOTlmaG16UGNCVVBYd25EVlZGd3BUa0ttemIybURjb2YwX0lmanM2dXc5VkxSSFU5dnBqZ0VMZTZJ?oc=5",
+     "date": "2026-11-19T08:57:31.000Z",
+     "publisher": "Азия-Плюс",
+     "lang": "en"
+    }
+   ]
+  },
+  {
+   "level": "low",
+   "items": [
+    "potato",
+    "potato_g2",
+    "potato_red"
+   ],
+   "title_ur": "روس کے لیے آلو کی برآمدی شرائط میں آسانی",
+   "title_en": "Pakistan Eases Potato Export Rules to Russia",
+   "summary_ur": "حکومت نے روس کو آلو برآمد کرنے کے لیے قواعد و ضوابط آسان کر دیے ہیں تاکہ نئی فصل باہر بھیجی جا سکے۔",
+   "summary_en": "Pakistan has simplified export procedures for potatoes to Russia to facilitate larger export volumes.",
+   "source_indexes": [
+    14,
+    15
+   ],
+   "expected_effect_en": "Increased export demand could keep domestic potato prices firm as new harvests arrive.",
+   "expected_effect_ur": "برآمد بڑھنے سے منڈی میں آلو کی قیمتیں مستحکم یا قدرے تیز رہ سکتی ہیں۔",
+   "sources": [
+    {
+     "title": "Pakistan Eases Export Rules for Key Agricultural Products to Russia - times of islamabad",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHYxQm5BWHNHRmpSSFFaVDZhdFR3RzFIRFNNWllnMm53Tl93ZUZBM21kOFU0OHdqLWtsZktVdVRoMElMSVpDRHV4eFFJNkd2QU9kZ2ZrWlIyYlIteWJQWXloMDRTa05CWERDZlRjN1FSZmdBUUUzTVhTZXBvenBLQVdjSlVXWEg4N2Q5TGZiazRaTXF2eVJncU50TFBmZTVRNElrRGJnb2NaLWU1?oc=5",
+     "date": "2026-11-18T16:17:15.000Z",
+     "publisher": "times of islamabad",
+     "lang": "en"
+    },
+    {
+     "title": "Pakistan eases export rules for potatoes, kinnow to Russia - Business Recorder",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWo3Um1yd1c2TzdDcEdpR1IxMnVOcjZ5aEZxdGRFWjhVeDZ0Skl5amg4N0ozTWk5M2hVdUdlR3lDOGNxVGYzRTd6dHk3YkxuQnI5R1VTUy1GZXJ2SnM2Y1l2eVB0UWFMUUItRk5sQTZCRmZPb1Z3bUtSMG1yS2x3dHlwMHFOWWRIX0N2MC1zbnJ1Sk1TcFJmVTdFSTZ3Z9IBVkFVX3lxTE5nbmMxaWIzeW00R2VLNmxjNEVzUmk5N001bXluZEVYazBHM3AwbVc5eUhWS0RHV25nNm9yU2pIVklNeTBLeUpYeEpuVnNBUFhQV00zaHl3?oc=5",
+     "date": "2026-11-18T15:30:47.000Z",
+     "publisher": "Business Recorder",
+     "lang": "en"
+    }
+   ]
+  },
+  {
+   "level": "low",
+   "items": [
+    "all"
+   ],
+   "title_ur": "ڈیزل سستا ہونے پر کرایوں میں کمی کی ہدایت",
+   "title_en": "Government Pushes for Transport Fare Cuts",
+   "summary_ur": "پیٹرول اور ڈیزل کی قیمتیں کم ہونے کے بعد حکومت نے ٹرانسپورٹرز سے مال برداری کے کرایوں میں کمی کا مطالبہ کیا ہے۔",
+   "summary_en": "Following recent fuel price reductions, the government is directing transporters to slash goods freight charges.",
+   "source_indexes": [
+    2,
+    6
+   ],
+   "expected_effect_en": "Lower transport costs could slightly reduce the arrival cost of vegetables into Karachi wholesale markets.",
+   "expected_effect_ur": "مال برداری سستی ہونے سے کراچی منڈی تک سبزیوں کی ترسیل کے اخراجات میں معمولی کمی آ سکتی ہے۔",
+   "sources": [
+    {
+     "title": "Govt seeks fare cuts after fuel price drop - The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYThUMGU3Um1UV0h1Y09qX2FUQS1mOWFjcHZOblIzcFdXQzVVek95aGtMblAwSFRfdGJ4ODZtMDl5MGV6c3ZISDlNZGpWTERvUmkwbVI4VnE5WDRRVlVmbUV0STNlMjBBVXFUVEhmMk1YeXdBNGdPekFNRmhacHdfb202VWVCUdIBjgFBVV95cUxNMWdqZjlBQ2Q3cVR5MlBUOXAySjllRVlBUmptUjZUVWJqN0hvcVVSZFMxa3RzWHVBTDZsbWsxY2lyMmpoM2tVcXN4T1EzNURONExSRVQ0c0lhS3NhWWNCaTZ4UV82alVBTDgtMUIzd2lkU001VVBzaU5OZ0VCZHl5VERFMXBWN2VrOGxSXy1B?oc=5",
+     "date": "2026-11-19T22:36:48.000Z",
+     "publisher": "The Express Tribune",
+     "lang": "en"
+    },
+    {
+     "title": "Ahsan Iqbal Makes Big Announcement for Transport Fares - ProPakistani",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHRuVzk5UGxIeWdaSGpoTkZNQVhSTVNyRTNEcElwWS1Kakxhems5N3pweFI4SzlmWkdnazZNdXdDZHBuU2lISjlIY09uUjZrTTBIcWVCM3RTdmNjSUhWSnM4V3V5Z2dyT3ZuV21rdlFDeEQxVUVaMXhpSTlYSVFDOFdfdjdGazZLQXBxQjJHRFFwU05X0gGaAUFVX3lxTFBGWEM1RDY2bDlhZWpZVVJkbTF5emM1cV9DOFNEd1NxV0c1VVpOODZOTUhsVnRWa3pWZXlwTDBnM192Q3ZyQnJwemxFd19mbW9oRG9PbDExdnZRMno5U05DNEtDMmZMMVdEOEJlaElpa3c3ODhiNV95TjRCdklwRVRyTDZNUk5qcmRQMjFaTHZ6Slk2clI2Z1EydUE?oc=5",
+     "date": "2026-11-19T14:05:11.000Z",
+     "publisher": "ProPakistani",
+     "lang": "en"
+    }
+   ]
+  }
+ ],
  "news": [
   {
-   "title": "Bharatiya Kisan Sangh calls for irrigation network in Punjab, Haryana, Rajasthan and J&K using Indus river - The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRWdQUE03WUJjblExd0JpV0tOdEE2aEJaWUxfNzNqZGMzU2NzbUx0aC1KY0Y2aXNmM1FyNUt0T0IwN1ZoVUJ3UUVXN19IY0s4eEc3TE1BbFF4TVk1N0RXajkyeXFaSk9OV2NLTmlaaFh3WGxIaWZNSWJTYl9kR3VoRG1neHFyZU85WHdKX2NOUzBhLXJBRGluNXdkeVNVNXlYcFhNOW9td0l4VFRoS2pja1VacGs5SzZEYzN0UnRxVnl2RDlyUWNlNnh3c0FjMU52NDlKYUI1ZElfa0VmSm15aERPbmdycWxoNWRBeUFMeDA4T295MGRhVXhqVWJhV0NnOTN4alVqS1Zabm94MnpNNmdGaDl2YmtIYzg3aHAwRVBxeXQ40gGeAkFVX3lxTE53b0RrTUlocVZaNEMtYWJFT0ZrQW13SzJRMDE0eVc3bEhleFUzTHdNZzBWWXFsSWpsY2NYc0x3SHkwR3pSZUJ4TnN4VXJFYTNfWW9icWJfZ2FmNW8yRklUWkpMVmxWOHgyemlXd0Q0THpxbHN4SVpRR2J1dWg3czVJQzlZd2tFbXdLNVlWUVBYbEFySDI1ZGtOREtPSm1nQWkyMEhYRWtsMFVYcnJfNkI2bV9tZVEzRDFEQmhrS1ZCV0xLVzY4SXNZbHRmWkEtQ0dCOWxLZ2hhdFFlUmVvYVluSi1yYTJLWFlmT3hBbndGdEJ5dGRVZGJjWUkxZGJKQmFlVFducXNfT1BmRlVvV0d0Tlo1VURwbG5GWllnTEE?oc=5",
-   "date": "2026-11-19T04:50:40.000Z",
-   "publisher": "The Economic Times",
+   "title": "Govt seeks fare cuts after fuel price drop - The Express Tribune",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYThUMGU3Um1UV0h1Y09qX2FUQS1mOWFjcHZOblIzcFdXQzVVek95aGtMblAwSFRfdGJ4ODZtMDl5MGV6c3ZISDlNZGpWTERvUmkwbVI4VnE5WDRRVlVmbUV0STNlMjBBVXFUVEhmMk1YeXdBNGdPekFNRmhacHdfb202VWVCUdIBjgFBVV95cUxNMWdqZjlBQ2Q3cVR5MlBUOXAySjllRVlBUmptUjZUVWJqN0hvcVVSZFMxa3RzWHVBTDZsbWsxY2lyMmpoM2tVcXN4T1EzNURONExSRVQ0c0lhS3NhWWNCaTZ4UV82alVBTDgtMUIzd2lkU001VVBzaU5OZ0VCZHl5VERFMXBWN2VrOGxSXy1B?oc=5",
+   "date": "2026-11-19T22:36:48.000Z",
+   "publisher": "The Express Tribune",
    "lang": "en"
   },
   {
-   "title": "Lahore News HD, Latest News and headlines - Lahore News",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84RmtUT2FGc3h5MzdoUlRlejd1c1p6S3VwQXNlaHdySTdYR2JZbWZPenVYWFlnUVVXVlprRjVvZWpHWkNWVVFvZlN3LTNmU18ybGY5bU1aYmFmdw?oc=5",
-   "date": "2026-11-18T18:28:23.000Z",
-   "publisher": "Lahore News",
-   "lang": "ur"
-  },
-  {
-   "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xeW1xbjVlcUhiaWg2UEdaVk9vWFhzaDgxbTk5a3YxeEU4a29iZE53ZGJ5YzA4ZkJnVmJISkh4M0hZWDRRVUYwLW84cUE1aGFy0gFWQVVfeXFMTk5NMHVZR0psVXQ3RDRFWUk5Z3BIQ09BcUNWNml1MEI4VmNhQU50ZFFTVlF5WUxPRHRNbndwcS0yemJIQ0tsNV9yQ3pOc3dWM2UtZlJiNUE?oc=5",
-   "date": "2026-11-18T18:07:24.000Z",
-   "publisher": "Business Recorder",
+   "title": "Iranian tomato export suspension threatens winter supplies in Tajikistan - FreshPlaza",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzQ2LVlhaHE3cnpVYkJqQldJQzJneWtZQ21PRlUtMEgxWkc0eUVkNm0tLWp5UW1XcG93Vm40RUV6OS13eTdLcjNkVE9kNjQwNC1DeklnTEh3cnJUMTFxTDhRYklENlc3dy16U0ViUGVlWkhpbVk5cE1SNGhQMTE3aklkUXQyWmFIeDY4bXZjT2dzSGxSSzFfS1drZXdRT09XQ2VUeDZQSnl2WmJ1U3FzSFd2QVNMQTQ4YW1FT0Vn?oc=5",
+   "date": "2026-11-19T20:37:30.000Z",
+   "publisher": "FreshPlaza",
    "lang": "en"
   },
   {
-   "title": "Petrol, diesel prices fall further by Rs3 per litre each - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbldjY0gxYzdfWTZtRmU3RmVTd0FzSXFFd3ZDU0FSaE9lTWFUdWlObmtzN2JCX1BPbHUxME1mZTRTU1VDZlZKVXU4WFFPZ3l4Q0hKNGtrNkI3VXJBTE5PcnVwdUE2azVGbXB5T21qbWtoZE5VMjdtTV9vUnFkTGdqZjIxeElEaVVOMGFWUDZRZXpKckN2dmxWWDZhMNIBVkFVX3lxTE1QZjdSeEJyTEdscjlFWmVsRHFDNDNYV2tUUWVuRnNidnh0VUNzanFxLURSM01QeFJic2dYTlpCUlp2WmlvR29HNDBRazdoS0hSTGNXc0h3?oc=5",
-   "date": "2026-11-18T17:22:21.000Z",
-   "publisher": "Business Recorder",
+   "title": "Ahsan Iqbal Makes Big Announcement for Transport Fares - ProPakistani",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHRuVzk5UGxIeWdaSGpoTkZNQVhSTVNyRTNEcElwWS1Kakxhems5N3pweFI4SzlmWkdnazZNdXdDZHBuU2lISjlIY09uUjZrTTBIcWVCM3RTdmNjSUhWSnM4V3V5Z2dyT3ZuV21rdlFDeEQxVUVaMXhpSTlYSVFDOFdfdjdGazZLQXBxQjJHRFFwU05X0gGaAUFVX3lxTFBGWEM1RDY2bDlhZWpZVVJkbTF5emM1cV9DOFNEd1NxV0c1VVpOODZOTUhsVnRWa3pWZXlwTDBnM192Q3ZyQnJwemxFd19mbW9oRG9PbDExdnZRMno5U05DNEtDMmZMMVdEOEJlaElpa3c3ODhiNV95TjRCdklwRVRyTDZNUk5qcmRQMjFaTHZ6Slk2clI2Z1EydUE?oc=5",
+   "date": "2026-11-19T14:05:11.000Z",
+   "publisher": "ProPakistani",
+   "lang": "en"
+  },
+  {
+   "title": "Iran bans tomato, potato and onion exports: What does this mean for Tajikistan? - Азия-Плюс",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB6Ry1GUjlubExyS2lBM3VvUUdOalZNb0pGYm9hYnNndDg2VXV3aUlkdktGRjcxNFhjczFKR0JaRV9YemgydHVFc2JqakFGX1c0TkZSUUl3d1l5dUFoTjYxY1pXdHo5OWs2ZlBjYlI0OHFaT0VwOTlmaG16UGNCVVBYd25EVlZGd3BUa0ttemIybURjb2YwX0lmanM2dXc5VkxSSFU5dnBqZ0VMZTZJ?oc=5",
+   "date": "2026-11-19T08:57:31.000Z",
+   "publisher": "Азия-Плюс",
    "lang": "en"
   },
   {
@@ -1022,37 +1757,9 @@
   },
   {
    "title": "Pakistan eases export rules for potatoes, kinnow to Russia - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yTi1yNHRhbXJpbDdKWWtxaXNzTmUxaHAtWmlVOXZWVHl1SlZKN2w1SG1VODZTZVhxNnVyTkx2Z2VMNjVmRFR2aTF5MWVYaVFN0gFWQVVfeXFMTmduYzFpYjN5bTRHZUs2bGM0RXNSaTk3TTVteW5kRVhrMEczcDBtVzl5SFZLREdXbmc2b3JTakhWSU15MEt5Slh4Sm5Wc0FQWFBXTTNoeXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWo3Um1yd1c2TzdDcEdpR1IxMnVOcjZ5aEZxdGRFWjhVeDZ0Skl5amg4N0ozTWk5M2hVdUdlR3lDOGNxVGYzRTd6dHk3YkxuQnI5R1VTUy1GZXJ2SnM2Y1l2eVB0UWFMUUItRk5sQTZCRmZPb1Z3bUtSMG1yS2x3dHlwMHFOWWRIX0N2MC1zbnJ1Sk1TcFJmVTdFSTZ3Z9IBVkFVX3lxTE5nbmMxaWIzeW00R2VLNmxjNEVzUmk5N001bXluZEVYazBHM3AwbVc5eUhWS0RHV25nNm9yU2pIVklNeTBLeUpYeEpuVnNBUFhQV00zaHl3?oc=5",
    "date": "2026-11-18T15:30:47.000Z",
    "publisher": "Business Recorder",
-   "lang": "en"
-  },
-  {
-   "title": "Onion farmers seek measures to ensure Rs 3,000 per quintal amid surplus production outlook - The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaXBwYWV2ZTRoOElzcGNIeVZ2dFYyb3R0RFg0TVVNWTB5Zlc4RXFDVHpZMWNtT0NjbzBpLWNmajlpWGVOTDRxdVlQWFNiY1lSSFo5ang5LUtPZFFGeGNlYWNscFcyUHJ1TXFzMDZyVEVHWEdxNDBMbnRJLURKLVFrWFFpV1ZLNGk4UEVWTVAzdm9mdTNIUlRwX3Naa1d6elVSSjZkN3ZvZzA4Zk9iZ0ltcUwybmhZbmlKR1o0cmc0Rm54T1FMOUdTLXUwN3JBRnBGTHIwb1pXRTFkcGJuVVZFMG00THFaOUExU1BWZ1R4S2dvcTZjUWxDTGVzOThObHZiMlNwcG1FY18?oc=5",
-   "date": "2026-11-18T10:00:54.000Z",
-   "publisher": "The Economic Times",
-   "lang": "en"
-  },
-  {
-   "title": "Mandi Bahauddin Farmer Earns Millions Through Successful Dragon Fruit Farming - Aaj News - Aaj English TV",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0dUSXpEYmtOR0RTWlliRURtY016NjBUckZaN2xoWmJqSW9WZ0pWQTItSEw1d1NUTlVXZkJpRGZZV0xiaWlzM0Q1YWhLMzR5cWhRd1Y4empvOU5xMGg1TThaU0lVb21Tck5fc1lyejBRU1hPVHh0VVAzZ3VGdHVmeDdGTVFFSDhBWC1pYWVMbTJpM3piQmNJR2ZBUlQ2cTNseVc0QTA2emZSSGVSbXJWTHItVWoya0xXTFU0ZXJPdG9xUdIBU0FVX3lxTE92WHIwT1c4cFZGSFJkeTBrNGRYcEs3NUdmQzNBd0ZtQkl1MU1HZkh0UTBKMFpvWTZYLVZ5c0ZfaEJybndyU2ZsbjUtOVVqalU4Z3RZ?oc=5",
-   "date": "2026-11-18T06:35:13.000Z",
-   "publisher": "Aaj English TV",
-   "lang": "en"
-  },
-  {
-   "title": "Dany Group buys former US Consul General residence in Karachi for over $25 million: report - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFNWWkdjNU5UaHhyOWstd3E4THhFN3h2cGpKUmJaSnNGNjYyeDJUMzhxRGprMXZsaXVQS2MzSFl0MXM2eGVoNDU5dk5hQU9VdUZtNXhyaXpxSjBCZG52VVdLUTVlS1ZCWmdiVFpsNmhTbE93a2ZpMVB5RGlCT1VqSGEzOFBxU2pzTkNmSnF0OFFvTnEwUU1pTVpuTy10YTEyY3lGTGRmWXN0RC1PWGZUT3VOUUMtZnQ3LXZ2ZHhLa1JQaFBvQ0M40gFWQVVfeXFMT3VTVG5tV3hhR2JKQVNpZGw3enJ2emZzb2hsUXFDeXYxdms3TDlxUkJjWGZScHRWWndUd3BkOXpiTHpBOE01QVJxMVpoZkVobHExN2pGeUE?oc=5",
-   "date": "2026-11-18T05:37:29.000Z",
-   "publisher": "Business Recorder",
-   "lang": "en"
-  },
-  {
-   "title": "Pakistan, Korea Strengthen Agricultural Research and Technology Cooperation - Daily Independent",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkpXYmx6SzhHWG85RXlJNkE1Qk1XUVZpYS1hY3VPVk11aFNYN3J4aTBEODh0VkNLMkZOZ0xTTFRaLU16SWxWR2pacTZvYUgtSkczcXQ5RFF0OUhmR18tVFRmWWdoYks0OHc1OENNSmVodkxVZXpyanNIeFFvT2FGZzlYajQ4MENoTTEzUG9fT2t1dllRalJzSlk0TGRYaVFRaTl6WHlhb1p4ckF3U2w2emlpamJRUnhoX0JXVEQzYw?oc=5",
-   "date": "2026-11-17T15:31:25.000Z",
-   "publisher": "Daily Independent",
    "lang": "en"
   },
   {
@@ -1063,142 +1770,16 @@
    "lang": "en"
   },
   {
-   "title": "Nashik: 22-Hour Daily Power Cut In 35 Villages from November 18 To Ensure Darna Water Supply - Free Press Journal",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU05lM3pLNjBQakxvS2RuSE5YWmpzdWlFRmxQcEtVR29UQTllQTlPSERSaGlVejFzVHBZNEIxMGFJWjRJdUxmQU1BdGlSbC00SUNOMF9Ydk1HSjh0Nml1UEFDT2hpVk1DX3FJTDJ1NmI0Z0NrM0hreGlHS2xxbUZ5UlF3cUZjN0N3dlY4Qnh4QlNwZGFaQ2FIY0FOTDg1ZmwyV1pRVzhFc3lNc2JsUllLQkRocnd4NllUVmloYmpXTl9pMG5FbS1wUXFTSWrSAcwBQVVfeXFMUFNOZTN6SzYwUGpMb0tkbkhOWFpqc3VpRUZsUHBLVUdvVEE5ZUE5T0hEUmhpVXoxc1RwWTRCMTBhSVo0SXVMZkFNQXRpUmwtNElDTjBfWHZNR0o4dDZpdVBBQ09oaVZNQ19xSUwydTZiNGdDazNIa3hpR0tscW1GeVJRd3FGYzdDd3ZWOEJ4eEJTcGRhWkNhSGNBTkw4NWZsMldaUVc4RXN5TXNibFJZS0JEaHJ3eDZZVFZpaGJqV05faTBuRW0tcFFxU0lq?oc=5",
-   "date": "2026-11-17T12:51:21.000Z",
-   "publisher": "Free Press Journal",
-   "lang": "en"
-  },
-  {
-   "title": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83UHZNaFoxcFN0MnpwbnhoaUU3ZnpibGhyWmNvTlg5MmFIWTlWVWUwdXhpTjZVcFJsU1Zqb3FZWTFGNlVnUHVIVERyamo5TVNfeDlLUXFB0gFWQVVfeXFMTzdQdk1oWjFwU3QyenBueGhpRTdmemJsaHJaY29OWDkyYUhZOVZVZTB1eGlONlVwUmxTVmpvcVlZMUY2VWdQdUhURHJqajlNU194OUtRcUE?oc=5",
-   "date": "2026-11-17T10:40:48.000Z",
-   "publisher": "Business Recorder",
-   "lang": "en"
-  },
-  {
    "title": "Several traders and shopkeepers in Spin Boldak district of Kandahar province say that more than 50 percent of their trade and economic activity has stalled since the closure of the Pakistan border. They say the Taliban’s ban on importing right-hand drive vehic - Facebook",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3dMNUVFalluWkpFczA0aXpfNTQ4MUVkWjlfZHcxT3NDRmp6X2c5RHV4aGdxV1NTZGt5SmhNMThPNmpNMDVkWlNtaENhcDZTMWdsdEo4cndjUld0VFFWenJZU3VwdjBENHpKQ3owR1M5aHVaS21tdGZYNUpqQ0JpdnMtZ1NVMlBZNUw5N3QwV1luSHlqYUl0OE5obi1QZWpvYnkwNVRIT242TXYzYml4R3JrT3MxcThVZFEwSXFXR0UwMkM1ZkpQc3dxUGd3VzdLWXpORkVB?oc=5",
    "date": "2026-11-17T09:27:16.000Z",
    "publisher": "Facebook",
    "lang": "en"
-  },
-  {
-   "title": "Ukraine increases onion exports to the EU 4.3-fold despite declining European imports - UkrAgroConsult",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXVreUxEM2hteGJuTG1Ca0o0UlEwOE9jdEc2X0pYNkk4UXJhaWJWS05fMHZJcFJ6dy1FYUsyejhjMy11d1JsUDFQTkE3czAtNXFOWDhLbTN5LXF4Z0xaOWFETTVSeGx5LVlQS19pWkVTVVdJdDlKcVkwVFRCbXlvWUZfdm9VM2Z4UE9zYnFyUUU5dWZsOFRKbkprOThwMG9oT3pjX1pTeWNDY2lpYzBCajVkUFJwU2NjRGZiWUlB?oc=5",
-   "date": "2026-11-17T08:30:55.000Z",
-   "publisher": "UkrAgroConsult",
-   "lang": "en"
-  },
-  {
-   "title": "Border Closures and Iran War Push Millions of Afghans Deeper Into Poverty, Report Says - thekabultribune.com",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BaW40WFFzaE50QlppcGhmWkx2SE9jQ01oaWc2S0hmWkZWa0NyQW1ZZm8xcHRzampXWG5SVGprNEJ1X01aOVBFc3dhRTlubEE?oc=5",
-   "date": "2026-11-17T06:19:39.000Z",
-   "publisher": "thekabultribune.com",
-   "lang": "en"
-  },
-  {
-   "title": "Kazakhstan Potato Harvest Expected to Reach 2.8 Million Tonnes in 2026, Supporting Export Growth - PotatoPro",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTRfOXYza2w0Y0lZWHpKR1M2a25MTEk1aFk5Wm83cmVtd1U1OVJocFdWSFFnZWFLblljYll1Mm9ycjE0Mmk1UWVXLXh5dzFCamJjak9EOTJUTTEybVRxV09ZM1FlaklPVThRZ0hCUVJRZWJrSXZabTg3bGtXREloaUpGR3BaZjZlajJsMHctWWFKYmN6WldDTXJlN1RsY1F5OXlpY3VHM3Z2RTQxR0FHaUxnQlFNSFhtYjVwRC1wT0JlQQ?oc=5",
-   "date": "2026-11-17T05:35:24.000Z",
-   "publisher": "PotatoPro",
-   "lang": "en"
-  },
-  {
-   "title": "Pakistan’s 2027 harvest is being decided now - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk9KcGpLbDNQQWpJQ1hSNmRZbkl3WGN1RnhyVEhJMmdLb3l6YktZekFiYXQ2NndCUGtsU1ExUm50TUxLZm5TaHVYVl80N1o2bE1UZDVpYkJUS0VWbkI1N2tQelJKc0hLdTg4eEYzdWhMWW85Um95YU5mbkRNbzhsRjZGamFGMklNNmdZ0gFWQVVfeXFMTlRFOTJSZURTaXktZUMxM1ZUUWpIdW5SejQwcnBMQldQYWVpOFlnbHNWR0NXQVNYUTF4QzdxX3RIRExldTZhdDdudl9tbDk5WGVtci1XbXc?oc=5",
-   "date": "2026-11-16T23:46:54.000Z",
-   "publisher": "Business Recorder",
-   "lang": "en"
-  },
-  {
-   "title": "Hard to digest: Andhra Pradesh clocks highest food inflation in India at 13%, dining out gets costlier - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTRPOTdkYWVpb2ZWTVM1Y3V3aGNOS0xPcnYyNjFreWpsX3ROdHpqdXZqanhEbWVNODZkZGVUTUxaUlBUQ2pKdnV0XzViX0RyOXZaMXptOHhWWnpDRnpMZENVNXlMNFBfN3NOUDlJdFJEeHVia0U4bEdBVHlvUGJpak5VNDNwRE8tbkY3VFVyc052blZzS0ZzWnhaSXBKa2J3c1picWFTLTgwazQ0ZzFGT1JEYnhKWkYxSmw1RVdQOHdPWGwzMjA1TEE3ekpqNmZKVC1tcEpMUTlQd0FGZU5ySENibFcyVVVjU1JEQVZSUFFVSlM1LUJ4eVhlOTlGZHd0NDdIeWl5eWrSAY4CQVVfeXFMTTU3cW5DcVJQUzQwZGN1QVhiMnhNU2VQZ3VNbmY4ckt5M1pJWFN0dXF6dDBfOUZiUkRoOXd3cGNuZm16djI5RFoxcEszbVlFZkk1SGtJa3lDejRUTVJlc19SV2FhcEZ6cWpFMmRXQml3Y19NNWVvRWEtWWpDQ0JFdGJna29TWXRQZ3Bqa01sVUk5WktSSUx3eUFVT0xBVUphV045bUxWS0EyTTFMTDBoalFlbm1RRUNqd3k5ZW9QMFB3V2NteDR2N0h1Ulp2ZFVmV2RHTHdwcWhiREFFUHBxWDJIb0tkWGZ6M0xMNVE0RFFMeDNBR0dSVENuSHQxWndLQnpGZVUweVdJRkMwUllR?oc=5",
-   "date": "2026-11-16T19:08:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
-  },
-  {
-   "title": "One year of closed borders: How food import dependence and regional conflict have fueled rising poverty in Afghanistan - IFPRI",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS2Z5cDF1Mm1NT1NhaUJNOGdwX2RfX2drOG9CYXJWc2ZuQ0d6Vi00aHQ3dGJSRHp5bFNxcGFBOEFXTU55Uk9tUVhwVkI1b1pNbWRqTkoxWkNRWHJJalA3ZEJfd3VnQ1dqUVpzdkJuckp4Z0JvdllrZzQ5RnNCNmZwTC1vQmVsM3NEcTdGRUtjdkxhSEdsZTRoTjREeW1IYV9NQWNmOVlpdndkR0c0MTZ0d2FTcy1xUFBRY3VKSFhRMkNKQ3NNNk5jU1UwRk5fSjRPT3JQanZSTFNmdUZXanc?oc=5",
-   "date": "2026-11-16T18:49:49.000Z",
-   "publisher": "IFPRI",
-   "lang": "en"
-  },
-  {
-   "title": "Florida flash flooding disrupts specialty crop operations - Fruit Growers News",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1FEbC01c3NqSnQxSDhJb25lWVVuUlBkOHRDX3ppOTdyc1hhRUxwVmtCaTFQSHNFbVg4SmhnTjIwZEtXcHJQcWJROHAyWjFuc0lkaFgwbHk4T0tOQzdPM0pPM1IzUURabk9Cemd0S3QtRkVBUnVYbnJVdzN3Rk80WEx6dThhUWM?oc=5",
-   "date": "2026-11-16T16:29:58.000Z",
-   "publisher": "Fruit Growers News",
-   "lang": "en"
-  },
-  {
-   "title": "Moroccan tomato, potato, and onion prices expected to ease within three weeks - Hortidaily",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzVBTmVWOU1vdzJKdC1wOEM5MlI1RS1WdXNta21GY0ViMWdoQlBfa1hEWG1WNml3UW1vRDZQU3R1WUFXNU91OTJNd3FxLXQ2Z2NkX1F4T3kwYjZiNkFpZGVwLURqNDBhSmpENGZ0d3pvT3ZJTkdDVlVSdjd4V3hwNU9MVzhqano2c3hFX1pGZWdzdlJmSVk4QTZWVFNJY21FbkZrbkxBc3pyMFRqY05VcGpmUWdaU3c3bkpN?oc=5",
-   "date": "2026-11-16T13:31:51.000Z",
-   "publisher": "Hortidaily",
-   "lang": "en"
-  },
-  {
-   "title": "Afghan fruit exports face delays of up to a month via Iran - FreshPlaza",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWm9hRUloYkpVUkZKV0pUVGhFYTJnakN3MEJoWmNzZ2NVblp5NzlDUkF1SjVpUktQX0YzN3YzSE84V2lGc3dNTFhMaXBpRlAxdFJndnkwZjJEVW9sSXByV3JMRUEwYXk5YTRoemJlVXRQVU9IY3RfRy1jSU5SNllTNG85RUhsZXVzeXBTUmJ3ZFZ1bTZkbzd0VW8zaks3ZEdoM1NVdWc3QTJsaktreEZTZ0pjdDFDT0U?oc=5",
-   "date": "2026-11-16T13:22:58.000Z",
-   "publisher": "FreshPlaza",
-   "lang": "en"
-  },
-  {
-   "title": "Gold prices fall in Pakistan as strong US dollar weighs on global market - ARYnews.tv",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWtYZExmek83OXNBMVItM0FGSWZGR3pYdlhzdmpsS0RjcDU1TmF2VmZFUnNVRzctamNLdFVISTBBdmctcGVZZlFQcW02alpJR1JKOFZnbHhrdFN0eVF5dndzTGk4VHpMS0lqbDhBSS01WTFaQkkyU1dJWXpWd1VfRmJUU0pHZzJVRjdSdlZIcDJwQ1hMR0Nz?oc=5",
-   "date": "2026-11-16T12:00:45.000Z",
-   "publisher": "ARYnews.tv",
-   "lang": "en"
-  },
-  {
-   "title": "Pakistan inflation to ease to 5% to 7% target range during 2027 financial year, says central bank - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0xneVJfQ0hwdkd6RU9NNERaRFBPc3luTGVUVHBYS25Dd255RFp1ZVdfY1ZwVk9rQXhqdXlVZlA1S241czFUVU9HOWFFZmpuZloxUUN5SmpzSjhfLUNwMzl3U05yU2FPdDZmSzZZLTM4dV9hZmEzTmFHSjhEQklqVDd6SVpFV2dqX1pOVzNXVnN3NUlHVXJKZmJVWGRRb25nWGVHVkZ2NmZDNjhTR29wUjdSNGx5WDM2TXl4czJEdjJkRFN1ZzU5c0ZRTzEwSEpT?oc=5",
-   "date": "2026-11-16T11:50:09.000Z",
-   "publisher": "Reuters",
-   "lang": "en"
-  },
-  {
-   "title": "Taliban Turn To Iran To Address Medicine Shortages In Afghanistan - Afghanistan International",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NVhucURWNm11cTMycE9YX0hwQk5ONk5ZVW9QMkMzeURmN3ctdjBYaGpuejUtMEFDYkpiMTdMOFk0WldLSi04VEtEejhBc00?oc=5",
-   "date": "2026-11-16T11:32:11.000Z",
-   "publisher": "Afghanistan International",
-   "lang": "en"
-  },
-  {
-   "title": "‘Potato Se Gold Banane Ka Formula Phone Mein Hai?’: Ravi Kishan targets Rahul Gandhi - The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3JPTkdNNXBSX05BQzFfb19nQmpSSlFhR3h1V0lSSjRuQTdDdW5Ta1VNdmx0b2xNd3pmbDdlRll0RHF0SEpFTF9KVGVBTW1LWUhLNGxyZGN4QXJhX1RxejY1UFVLVGlBUEJRLTRCek1jQ1FDZm11SWZBdEVTRWZ3RTJLd2l0c1dyNzBJU3o1Vko2RkFKTldLMWNFRUVkN1NLTEZ2WWJZMXZ6LUE3aHNSVUVja0JZOUNKTWxSOVhqcmJhc1pic3BnamhFa3JBSnhiYlJaSW9SSHF0ak5yTC1McjBfd3TSAeoBQVVfeXFMTkgwMkJXNlpJTzZWOFF2ZDdLVkV5SFVseGRETWZnNXBrYkpsY3NKLTdTN1VGRHdkdG5OWmxQdHBKeEhpaW4tazl2WTZIM2xXTmJQbi0xeno4bGpjbnI0UzVSM2toa202VGhUQllpdlZpRFpyOFJpcVFFejFYYi12b1pSNTc5NXNGMWh6RG9qVDE4T2NScnNscXJyOWRLRVhtcHhSYkJLbnRINWRyU0VzUnBFeUNSRkJhaE0tVE9XbkV3VzRpeVdfc3RvTFphYXRyUEJYWTRxT0hFSFQ3bnNuRG1WYk42elN5OUh3?oc=5",
-   "date": "2026-11-16T07:18:40.000Z",
-   "publisher": "The Economic Times",
-   "lang": "en"
-  },
-  {
-   "title": "Automart: car prices in Karachi - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55Mk9GUkJjaW5QX0pHOGxTUFE2QVgtZjRkRHpjMFd1dDF3NFhkRWItdTRPeFdwN3ZlQ0xscjU2ekxQYnNjcGRnMlVMRk52X3phdUFpN0FSZjZmWGtoUTNURThhMUhRc081RkFraDRxaHpQVlV1XzdHS2hn0gFWQVVfeXFMT21Pa2c2M0FYeWgxQlV0ZUw2a293VmpsMDNCTjZ1MkRjbElyLTV5ZVdPaHdqQ3pxd3l0NS1jdEhDMTF0MW9WeS1vWFM0eEZNV3hRQkRDRUE?oc=5",
-   "date": "2026-11-15T23:18:14.000Z",
-   "publisher": "Business Recorder",
-   "lang": "en"
-  },
-  {
-   "title": "Onion success sprouts amid drought in Kalaburagi - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWm1FTEhKUWVrYy1GZlIyVVJIaFRVal9ORmNUYzZrY3dHWnhRa1RiSkV0N3lTS1NlSWZUZTFhTW9Ydm1fRHE5aXJKMkFZMEhGV3JyZ3lrVk9ybEVkQ1ltSkltTDdFWTktR2JkRFZCOXA4Zy1fZ2p6THhLX1hQeTRUbDR0eFExVnZLd3kxSTJ2T1hUWHpvMUh1dzBmdWNUYjZkNFJBRTdtZ29rUGN2dkN1R0FlZkxUNExnNHVVbEZ2NktSQdIBxwFBVV95cUxPcUdHODEyekhlclEyZUp2aEVqeGJvc1hwMTFibEJ2RFhrTFplR3hyeUJtbW10R3RiTHFSU0xYYTlKNXluTlNfcXRpV1N6YVNxaTZRaElGdWgyaTctOVVPcmVTdERMb1BFMkRYVWFKaFlBREk3U19FZldleVY5Z1FZSVkwRmdZMnZKc1p1bmFaYmh0c0Y2LThxRDlfc091NjFGdXFsOUhUdVRWTmx3ZUdkTjhOblFWRV83MmFYaWp3Z0I0dExGTHpB?oc=5",
-   "date": "2026-11-15T17:27:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
-  },
-  {
-   "title": "Road subsidy for potato exports as Bengal fights glut - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbjcyY1N0cVlaVi1nMTVpTGstd3lsREFPX0pZZ05ta0RWRFVRbHlfSloxazJPQ2FXdmpaSWoxemNNaDItNUUtX0Y3NDNrVHZFclNMVVRmbFloWVducWtkZnpKdFVmVXROV3NjWmtzeDBuR3pTaldzc0ZsX1Ewa1FZMzZDQi11MVRSSmFsS1BFX3VBSkVsbFdpbmZ6c0FReXJsV3c0X3F1dGNxVGRXUjdMVXBzRk1YZkdSVnBnTkN3Yk1YSTRFVFE00gHMAUFVX3lxTE1XRll1V1pQaEFsa0tuWU1kRzdvV2Q1NTREcWVDWkNhSXpDeE8yQ3hvQXpBbXVuTGhHblhockRtNGctM3FYRmNrelFESUpzamxud2RON3hTVVZhYkFjSmlMSmJSRTlZbWIxNnNTUlZRaUdzR3lObHZQRlp1aHhTbHlyaEZucUl2bWdTX2lvZU1aemZOeFJ5T1YycFBBZXJzRnpZWDFCOEIxWFlMVWQtQlY1Nk5ObU9MR0JEQW1zZFNkZHRxNEpJZVBBeVBLeg?oc=5",
-   "date": "2026-11-15T13:59:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
   }
  ],
  "report": {
-  "summary_ur": "آج 0 اشیاء مہنگی، 0 سستی ہوئیں اور 46 کے ریٹ برقرار رہے۔",
-  "summary_en": "Today 0 items went up, 0 went down and 46 stayed the same.",
+  "summary_ur": "آج 0 اشیاء مہنگی، 0 سستی ہوئیں اور 76 کے ریٹ برقرار رہے۔",
+  "summary_en": "Today 0 items went up, 0 went down and 76 stayed the same.",
   "points_ur": [],
   "points_en": [],
   "advice_ur": "",

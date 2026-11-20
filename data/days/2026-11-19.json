@@ -14,6 +14,12 @@
    "url": "https://commissionerkarachi.gos.pk/storage/price-lists/xmTpStDAj9ib9GGHGE59EuJb9yl6aWTaWsdI3bRa.jpg",
    "listedDate": "2026-11-19",
    "printedDate": "2026-11-19"
+  },
+  {
+   "kind": "fruits",
+   "url": "https://commissionerkarachi.gos.pk/storage/price-lists/fRBRMHG0qwacGed3KSUHJbGT0W3khgVgyjwDxSpu.jpg",
+   "listedDate": "2026-11-19",
+   "printedDate": "2026-11-19"
   }
  ],
  "items": [
@@ -476,7 +482,307 @@
    "a": 47,
    "w": 50,
    "r": 58
+  },
+  {
+   "id": "banana",
+   "en": "Banana (Grade 1)",
+   "ur": "کیلا (درجہ اول)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": 76,
+   "w": 81,
+   "r": 93
+  },
+  {
+   "id": "banana_g2",
+   "en": "Banana (Grade 2)",
+   "ur": "کیلا (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": null,
+   "w": 60,
+   "r": 69
+  },
+  {
+   "id": "papaya",
+   "en": "Papaya (Grade 1)",
+   "ur": "پپیتا (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 148,
+   "w": 157,
+   "r": 180
+  },
+  {
+   "id": "papaya_g2",
+   "en": "Papaya (Grade 2)",
+   "ur": "پپیتا (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 130,
+   "r": 150
+  },
+  {
+   "id": "apple_kala_kulu",
+   "en": "Apple (Kala Kulu) (Grade 1)",
+   "ur": "سیب (کالا کولو) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 171,
+   "w": 181,
+   "r": 208
+  },
+  {
+   "id": "apple_kala_kulu_g2",
+   "en": "Apple (Kala Kulu) (Grade 2)",
+   "ur": "سیب (کالا کولو) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "apple_golden",
+   "en": "Apple (Golden) (Grade 1)",
+   "ur": "سیب (گولڈن) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 229,
+   "w": 243,
+   "r": 267
+  },
+  {
+   "id": "apple_golden_g2",
+   "en": "Apple (Golden) (Grade 2)",
+   "ur": "سیب (گولڈن) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 210,
+   "r": 241
+  },
+  {
+   "id": "grapefruit",
+   "en": "Grapefruit (Grade 1)",
+   "ur": "گریپ فروٹ (درجہ اول)",
+   "cat": "fruit",
+   "unit": "piece",
+   "a": 17,
+   "w": 18,
+   "r": 20
+  },
+  {
+   "id": "grapefruit_g2",
+   "en": "Grapefruit (Grade 2)",
+   "ur": "گریپ فروٹ (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "piece",
+   "a": null,
+   "w": 15,
+   "r": 17
+  },
+  {
+   "id": "melon",
+   "en": "Melon (Grade 1)",
+   "ur": "خربوزہ (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 104,
+   "w": 110,
+   "r": 127
+  },
+  {
+   "id": "melon_g2",
+   "en": "Melon (Grade 2)",
+   "ur": "خربوزہ (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "watermelon",
+   "en": "Watermelon",
+   "ur": "تربوز",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "watermelon_long",
+   "en": "Watermelon (Long)",
+   "ur": "تربوز لمبا",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "mosambi",
+   "en": "Mosambi (Sweet Lime) (Grade 1)",
+   "ur": "موسمی (درجہ اول)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": null,
+   "w": 132,
+   "r": 152
+  },
+  {
+   "id": "mosambi_g2",
+   "en": "Mosambi (Sweet Lime) (Grade 2)",
+   "ur": "موسمی (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": null,
+   "w": 115,
+   "r": 132
+  },
+  {
+   "id": "chikoo",
+   "en": "Chikoo (Sapodilla) (Grade 1)",
+   "ur": "چیکو (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 169,
+   "w": 179,
+   "r": 206
+  },
+  {
+   "id": "chikoo_g2",
+   "en": "Chikoo (Sapodilla) (Grade 2)",
+   "ur": "چیکو (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "dates_muzafati",
+   "en": "Dates (Irani Muzafati) (Grade 1)",
+   "ur": "کھجور (ایرانی مضافاتی) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 580,
+   "r": 667
+  },
+  {
+   "id": "dates_muzafati_g2",
+   "en": "Dates (Irani Muzafati) (Grade 2)",
+   "ur": "کھجور (ایرانی مضافاتی) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 500,
+   "r": 575
+  },
+  {
+   "id": "dates_zahidi",
+   "en": "Dates (Zahidi Basra) (Grade 1)",
+   "ur": "کھجور (زاہدی بصرہ) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 500,
+   "r": 575
+  },
+  {
+   "id": "dates_zahidi_g2",
+   "en": "Dates (Zahidi Basra) (Grade 2)",
+   "ur": "کھجور (زاہدی بصرہ) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 450,
+   "r": 518
+  },
+  {
+   "id": "garma",
+   "en": "Garma Melon",
+   "ur": "گرما",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 120,
+   "r": 138
+  },
+  {
+   "id": "amlok",
+   "en": "Amlok (Date Plum)",
+   "ur": "املوک",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 190,
+   "w": 201,
+   "r": 231
+  },
+  {
+   "id": "guava",
+   "en": "Guava",
+   "ur": "امرود",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 127,
+   "w": 135,
+   "r": 155
+  },
+  {
+   "id": "pomegranate_irani",
+   "en": "Pomegranate (Irani) (Grade 1)",
+   "ur": "انار (ایرانی) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 400,
+   "r": 460
+  },
+  {
+   "id": "grapes_sundarkhani",
+   "en": "Grapes (Sundarkhani)",
+   "ur": "انگور (سندرخانی)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 380,
+   "r": 437
+  },
+  {
+   "id": "grapes_round",
+   "en": "Grapes (Round)",
+   "ur": "انگور گول",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 308,
+   "w": 326,
+   "r": 375
+  },
+  {
+   "id": "guava_larkana",
+   "en": "Guava (Larkana)",
+   "ur": "امرود (لاڑکانہ)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 130,
+   "r": 150
+  },
+  {
+   "id": "pear",
+   "en": "Pear",
+   "ur": "ناشپاتی",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 500,
+   "r": 575
   }
  ],
- "updatedAt": "2026-11-19T08:50:47.615Z"
+ "updatedAt": "2026-11-20T04:56:36.519Z"
 }
