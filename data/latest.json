@@ -1,9 +1,9 @@
 {
  "date": "2026-11-20",
  "prevDate": "2026-11-19",
- "today": "2026-11-21",
+ "today": "2026-11-22",
  "stale": true,
- "generatedAt": "2026-11-21T08:11:27.461Z",
+ "generatedAt": "2026-11-22T04:53:09.464Z",
  "source": {
   "id": "commissioner_karachi",
   "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
@@ -1955,22 +1955,22 @@
   }
  ],
  "report": {
-  "summary_ur": "آج منڈی میں آلو کی قیمت میں غیر معمولی اتار چڑھاؤ دیکھا گیا ہے۔ بارڈر کی بندش اور ایران سے سپلائی رکنے سے پیاز اور پھلوں کے ریٹ بڑھنے کا خدشہ ہے۔ دوسری جانب ملک میں ٹماٹر کی قیمتیں فی الحال مستحکم اور مناسب رہ سکتی ہیں۔",
-  "summary_en": "Today Sabzi Mandi shows notable fluctuations with potato rates unquoted or sharply down. Trade disruptions from Iran and Pak-Afghan border closures may push up onion and fresh fruit prices. Meanwhile, tomato prices are likely to remain affordable in the short term.",
+  "summary_ur": "آج منڈی میں آلو کے سرکاری نرخ میں بڑا اتار چڑھاؤ دیکھا گیا ہے۔ بارڈر اور ایران کی برآمدی پابندیوں کی وجہ سے پیاز اور پھلوں کی ترسیل متاثر ہونے کا خدشہ ہے۔ مجموعی طور پر منڈی میں مال کی آمد پر نظر رکھنے کی ضرورت ہے۔",
+  "summary_en": "Potato wholesale list rates showed an unusual sharp drop or reset today. Border closures and Iran export bans may tighten arrivals of onions, tomatoes, and imported fruits soon. Traders should watch supply lines closely.",
   "points_ur": [
-   "آلو کی قیمت پچھلے ریٹ 30 روپے سے گر کر صفر درج ہوئی ہے جو سپلائی یا لسٹنگ میں رکاوٹ ظاہر کرتی ہے۔",
-   "آلو کے ریٹ میں پچھلے 7 دنوں کے دوران 100% کی بڑی کمی نوٹ کی گئی ہے۔",
-   "ایران کی جانب سے پیاز، ٹماٹر اور آلو کی برآمد پر پابندی سے آنے والے دنوں میں قیمتیں چڑھ سکتی ہیں۔",
-   "پاک افغان بارڈر کی بندش سے سیب، انگور اور پیاز کی منڈی میں آمد متاثر ہونے کا خطرہ ہے۔"
+   "آلو کی سرکاری قیمت 30 روپے فی کلو سے کم ہو کر عارضی طور پر 0 روپے درج ہوئی ہے۔",
+   "گزشتہ 7 دنوں میں آلو کی قیمت میں نمایاں تبدیلی اور کمی دیکھی گئی ہے۔",
+   "ایران کی جانب سے برآمدات پر پابندی سے ٹماٹر اور پیاز کی قیمتیں آئندہ دنوں میں چڑھ سکتی ہیں۔",
+   "پاک افغان بارڈر کی بندش کی وجہ سے سیب، انگور اور پیاز کی رسد سست پڑ سکتی ہے۔"
   ],
   "points_en": [
-   "Potato dropped from 30 PKR to 0 PKR today, signaling possible missing arrivals or listing issues.",
-   "The 7-day trend for potatoes shows a steep 100% decline in recorded wholesale rates.",
-   "Iran's export ban on onions and tomatoes could soon push local prices higher.",
-   "Spin Boldak border closure may disrupt fresh fruit and onion arrivals from Afghanistan."
+   "Potato official price shifted sharply from 30 PKR/kg to 0 PKR/kg on the list.",
+   "Potatoes show a steep 100% downward trend over the past 7 days.",
+   "Iran's export ban on onions and tomatoes could push up prices if local supply dips.",
+   "Pak-Afghan border closure may slow arrivals of Afghan fruits and onions into Karachi."
   ],
-  "advice_ur": "پیاز اور درآمدی پھلوں کی خریداری میں احتیاط برتیں اور ٹماٹر کا اضافی اسٹاک کرنے سے گریز کریں۔革ل۔",
-  "advice_en": ""
+  "advice_ur": "آج زیادہ مال خریدنے میں احتیاط برتیں اور پیاز و پھل سٹاک کرنے سے پہلے منڈی میں مال کی آمد ضرور چیک کریں۔",
+  "advice_en": "Be cautious with bulk purchases today and keep a close eye on onion and fruit arrivals before stocking up."
  },
  "snapshots": [
   "2026-11-19",
