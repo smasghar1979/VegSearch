@@ -4,27 +4,24 @@
    "level": "medium",
    "items": [
     "tomato",
-    "tomato_g2",
     "onion",
-    "onion_small",
-    "potato",
-    "potato_g2"
+    "potato"
    ],
    "title_ur": "ایران کی جانب سے ٹماٹر، پیاز اور آلو کی برآمد پر پابندی",
-   "title_en": "Iran Bans Exports of Tomatoes, Potatoes, and Onions",
-   "summary_ur": "ایران نے ٹماٹر، آلو اور پیاز کی بیرونی برآمدات پر پابندی لگا دی ہے جس سے خطے کی سپلائی متاثر ہو سکتی ہے۔",
-   "summary_en": "Iran has suspended exports of tomatoes, potatoes, and onions to protect its domestic market, impacting regional winter availability.",
+   "title_en": "Iran Bans Tomato, Onion, and Potato Exports",
+   "summary_ur": "ایران نے ٹماٹر، پیاز اور آلو کی برآمد پر پابندی لگا دی ہے جس سے خطے میں رسد متاثر ہو سکتی ہے۔",
+   "summary_en": "Iran has suspended exports of tomatoes, potatoes, and onions, which could affect regional cross-border supply into Pakistan.",
    "source_indexes": [
-    22,
-    26
+    21,
+    27
    ],
-   "expected_effect_en": "Closure of Iranian imports could put upward price pressure on tomatoes and onions in Pakistan if local supplies encounter winter delays.",
-   "expected_effect_ur": "ایران سے مال بند ہونے سے پاکستان میں کسی بھی ہنگامی کمی کے وقت ٹماٹر اور پیاز کی قیمتیں بڑھنے کا خدشہ رہے گا۔",
+   "expected_effect_en": "Possible reduction in imported supplies leading to upward price pressure on tomatoes and onions in coming weeks.",
+   "expected_effect_ur": "آنے والے دنوں میں کراچی کی منڈیوں میں ٹماٹر اور پیاز کی قیمتوں میں اضافے کا خدشہ ہے۔",
    "sources": [
     {
      "title": "Iranian tomato export suspension threatens winter supplies in Tajikistan - FreshPlaza",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FQU09PSzRFYTRNNmxxRWVkVDU5Vk45TThHX2NjcWZQdmQ1bmZreHpCaWlmY2hJSWk4MU13czJza1RDZnRocTQwRlJHblJXaHUzelBBMjExTFAxajhzZ2UtRGNTSDhnajhfX1JRMU01ZVh2ckVPZHZ6eWd1UUFzREF0U2tFTzZGVmowdmhuOUZyLWZ3cUFHdVpNR29RMWgxQWp4ajdrR2p3d0VBekp5ZUVyd3RhaHpfMVJvd0N5SXQ4dw?oc=5",
-     "date": "2026-11-19T15:19:19.000Z",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzQ2LVlhaHE3cnpVYkJqQldJQzJneWtZQ21PRlUtMEgxWkc0eUVkNm0tLWp5UW1XcG93Vm40RUV6OS13eTdLcjNkVE9kNjQwNC1DeklnTEh3cnJUMTFxTDhRYklENlc3dy16U0ViUGVlWkhpbVk5cE1SNGhQMTE3aklkUXQyWmFIeDY4bXZjT2dzSGxSSzFfS1drZXdRT09XQ2VUeDZQSnl2WmJ1U3FzSFd2QVNMQTQ4YW1FT0Vn?oc=5",
+     "date": "2026-11-19T20:37:30.000Z",
      "publisher": "FreshPlaza",
      "lang": "en"
     },
@@ -38,53 +35,32 @@
    ]
   },
   {
-   "level": "medium",
-   "items": [
-    "apple_kala_kulu",
-    "apple_golden",
-    "grapes_sundarkhani",
-    "grapes_round",
-    "pomegranate_irani",
-    "onion"
-   ],
-   "title_ur": "پاک افغان اسپن بولدک بارڈر بند، تجارتی سرگرمیاں معطل",
-   "title_en": "Pak-Afghan Spin Boldak Border Closure Halts Trade",
-   "summary_ur": "اسپن بولدک بارڈر کی بندش سے پاک افغان تجارتی سرگرمیاں پچاس فیصد سے زیادہ رک گئی ہیں اور گاڑیاں پھنس گئی ہیں۔",
-   "summary_en": "Cross-border trade between Pakistan and Afghanistan has stalled significantly at the Spin Boldak crossing due to border closures.",
-   "source_indexes": [
-    38
-   ],
-   "expected_effect_en": "Disruption of Afghan transit trade could slow down fresh fruit and onion arrivals into Karachi, potentially pushing up prices.",
-   "expected_effect_ur": "افغانستان سے پھلوں اور پیاز کی ترسیل رکنے سے منڈی میں مال کم ہوگا اور دام چڑھ سکتے ہیں۔",
-   "sources": [
-    {
-     "title": "Several traders and shopkeepers in Spin Boldak district of Kandahar province say that more than 50 percent of their trade and economic activity has stalled since the closure of the Pakistan border. They say the Taliban’s ban on importing right-hand drive vehic - Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3dMNUVFalluWkpFczA0aXpfNTQ4MUVkWjlfZHcxT3NDRmp6X2c5RHV4aGdxV1NTZGt5SmhNMThPNmpNMDVkWlNtaENhcDZTMWdsdEo4cndjUld0VFFWenJZU3VwdjBENHpKQ3owR1M5aHVaS21tdGZYNUpqQ0JpdnMtZ1NVMlBZNUw5N3QwV1luSHlqYUl0OE5obi1QZWpvYnkwNVRIT242TXYzYml4R3JrT3MxcThVZFEwSXFXR0UwMkM1ZkpQc3dxUGd3VzdLWXpORkVB?oc=5",
-     "date": "2026-11-17T09:27:16.000Z",
-     "publisher": "Facebook",
-     "lang": "en"
-    }
-   ]
-  },
-  {
    "level": "low",
    "items": [
     "tomato",
     "tomato_g2"
    ],
-   "title_ur": "پاکستان میں ٹماٹر کی قیمتوں میں 30 فیصد کمی",
-   "title_en": "Tomato Prices Drop 30% Across Pakistan",
-   "summary_ur": "ملک میں نئی فصل کی بہتر سپلائی کی وجہ سے ٹماٹر کی قیمتوں میں تیس فیصد تک بڑی کمی ریکارڈ کی گئی ہے۔",
-   "summary_en": "Weekly inflation data indicates tomato prices fell sharply by around 30% due to improved supplies in wholesale markets.",
+   "title_ur": "ملک بھر میں ٹماٹر کے داموں میں بڑی کمی",
+   "title_en": "Tomato Prices Drop Nearly 30% in Pakistan",
+   "summary_ur": "منڈیوں میں ٹماٹر کی بہتر رسد کے باعث ہفتہ وار مہنگائی میں کمی اور ٹماٹر تیس فیصد تک سستا ہوا ہے۔",
+   "summary_en": "Weekly inflation eased as tomato prices plunged by around 30% across wholesale markets in Pakistan.",
    "source_indexes": [
+    5,
     11,
     12,
     13,
     14
    ],
-   "expected_effect_en": "Tomato prices in Karachi mandis and retail shops are likely to remain low and affordable in the coming days.",
-   "expected_effect_ur": "کراچی منڈی اور عام دکانوں پر ٹماٹر سستے داموں دستیاب رہیں گے اور قیمتوں میں کمی برقرار رہنے کی امید ہے۔",
+   "expected_effect_en": "Tomato prices remain soft and supplies plentiful in the short term.",
+   "expected_effect_ur": "قلیل مدت میں ٹماٹر کے دام مستحکم اور سستے رہنے کی امید ہے۔",
    "sources": [
+    {
+     "title": "Weekly inflation falls to 10.41% as fuel, vegetable prices decline - Profit by Pakistan Today",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnJQTHd6WXVvN213eGVVaERwcjFvanN5VW5PUnpKTURFZ1RMUWthaV91b1RPWXpsNVUwUDVoOV9xbS1zWFRPUTRvQ0I4T2VLSDF5Z3ZlY2NrZ3NhOWdoNlZYdTgzcVI2ekZfRHJuWHpyeEdqN25PQVJxUURYbXJmTU8zdllTM29OWWJUY3hyWlV3RmJRLU8yUVpUWlU0eXZ5YmtqY2dMa3BEdnduTldPdjhiT21jU25V?oc=5",
+     "date": "2026-11-20T17:36:52.000Z",
+     "publisher": "Profit by Pakistan Today",
+     "lang": "en"
+    },
     {
      "title": "Weekly Inflation Falls by 0.65%, Annual Rate Drops to 10.41% - Aik News",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MSFpMSlRaNlFENjl0cHdtU0lrVEpBLTNTa0g2TnYxNGpMdThFcFBGT2NVOHFDXzExbTNkd2Q1R2g5UEdDYmpGUjNEZG5oQ0F6?oc=5",
@@ -118,23 +94,21 @@
   {
    "level": "low",
    "items": [
-    "potato",
-    "potato_g2",
-    "potato_red"
+    "potato"
    ],
-   "title_ur": "روس کے لیے آلو کی برآمدی شرائط میں نرمی",
-   "title_en": "Pakistan Eases Export Rules for Potatoes to Russia",
-   "summary_ur": "حکومت نے روس کو آلو کی برآمد آسان بنانے کے لیے قرنطینہ اور دستاویزات کے قواعد نرم کر دیے ہیں۔",
-   "summary_en": "Pakistan has relaxed regulations to boost outbound shipments of potatoes and kinnow to the Russian market.",
+   "title_ur": "روس کے لیے آلو کی برآمدی شرائط میں آسانی",
+   "title_en": "Pakistan Eases Potato Export Rules to Russia",
+   "summary_ur": "حکومت نے روس کے لیے آلو کی برآمد آسان بنا دی ہے جس سے پاکستانی آلو کی مانگ میں اضافہ ہوگا۔",
+   "summary_en": "Pakistan has eased export regulations for potatoes to Russia, opening up opportunities for local produce.",
    "source_indexes": [
-    31
+    32
    ],
-   "expected_effect_en": "Smooth exports will clear excess Rabi potato harvests, maintaining stable prices without causing domestic shortages.",
-   "expected_effect_ur": "آلو کی زیادہ برآمد سے مارکیٹ میں وافر مال کھپ جائے گا اور کسانوں کے ریٹ مستحکم رہیں گے۔",
+   "expected_effect_en": "Higher export demand may support wholesale potato prices and prevent sharp gluts.",
+   "expected_effect_ur": "برآمدات بڑھنے سے منڈی میں آلو کے ریٹ مستحکم رہنے کی توقع ہے۔",
    "sources": [
     {
      "title": "Pakistan eases export rules for potatoes, kinnow to Russia - Business Recorder",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWo3Um1yd1c2TzdDcEdpR1IxMnVOcjZ5aEZxdGRFWjhVeDZ0Skl5amg4N0ozTWk5M2hVdUdlR3lDOGNxVGYzRTd6dHk3YkxuQnI5R1VTUy1GZXJ2SnM2Y1l2eVB0UWFMUUItRk5sQTZCRmZPb1Z3bUtSMG1yS2x3dHlwMHFOWWRIX0N2MC1zbnJ1Sk1TcFJmVTdFSTZ3Z9IBVkFVX3lxTE5nbmMxaWIzeW00R2VLNmxjNEVzUmk5N001bXluZEVYazBHM3AwbVc5eUhWS0RHV25nNm9yU2pIVklNeTBLeUpYeEpuVnNBUFhQV00zaHl3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmJqR013QS1zWFcwRTZEMldVSXlCQXAtQ1hyMm45YzJtVXRRTThleUduaHFBOGJIVlVlSVJvQ183YXVST3NsaXZXTVFMaFJ0Nlhid29iS25OZGhfQ2VWdXUtU1BodEZONFIydktOOWo1bm5FNm9icE1FUGthdU1SLVd6eVRxUDNNX3RCam5lTW1UZ05TX2xTSzd1NlBXcFl3ZGxLSGJvdzhvVVBfYWZGd2d2TTFJai0wQUZRaWJXZHVaQdIBVkFVX3lxTE5nbmMxaWIzeW00R2VLNmxjNEVzUmk5N001bXluZEVYazBHM3AwbVc5eUhWS0RHV25nNm9yU2pIVklNeTBLeUpYeEpuVnNBUFhQV00zaHl3?oc=5",
      "date": "2026-11-18T15:30:47.000Z",
      "publisher": "Business Recorder",
      "lang": "en"
@@ -144,59 +118,10 @@
  ],
  "articles": [
   {
-   "title": "Onion Prices May Sting: Nashik Expects 49% Drop In Kharif And Late Kharif Output - News18",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNFlaeUNqUXpfTzVPTTMxaU1JXzRabVluOXdqOXNoUDdUSjdfU1g5Ny1mZTZUeGVodWVDQmczaFFxdGhIQmdSaG5OdTRGUlg1RmpheE9sS2Q1V3dSRmNoV3RscHVIbXo1ZGxvZThvS0dwemRtYTV3VjBWbFJtOWdGbDFJclZaRHVVRXJBalhxeVJFVy05UXNTUWVjNW1yVkQ0UFdKb3hvUXpzRGVtRk1TRUtSTkNYOUwwWE03YzZjUXdheHdUZmFIb0lkT3JYbmhGaDN3VFRR0gHbAUFVX3lxTE9vNUxMdXMwUkdsR2dKemRQaEQzMHYwZ21YcjdaQWFpaGxKOFpzOVRwUWlhZzFsQU13M2ZNclcyTmNwNmgyTDA2dHU3ejVHcUhkRnY4RFVJQ2Z4X2N2MEdSTjl1bDhlX0JxeHZPXzdtb0tTVzUwSTV1QkNnd3NFaUJrel9QWi1rLUZxYzRCZnVYeWpQb1VoU0hpWDNVR1BMazdQdTZSVndQUUlRMWp4bEJFU1BtWkVxSFN2d21CcktBVTdXOUpKUGpKbVRXUVJHQmNsY0MtRVVSSDFyNA?oc=5",
-   "date": "2026-11-21T05:23:59.000Z",
-   "publisher": "News18",
-   "lang": "en"
-  },
-  {
-   "title": "Nashik onion output set to drop by nearly half amid drought and acreage drop - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHV1aHBDQ2Vxb0tMZUpNN3VhUzc3LUVCNzJoQ0lpalhyangxM2kzSUtjdWRwWXpfaXI3azg5NmlmYzFidFZLZC1IclU0Y1pHamthSDdHMWQxdmVGVUphTUpvSzdRRnRlNUxEa1JWWl9ZdTZNR0RQbWZPN3NGNk44bFFwWHpRSUdqc2EyMUJVd1o1T2NybzdQay1SaUtMWVhYZFNQbEtvZFZxNFk2UGFLSWwwaU1Sb1I5cHpRVE9ZSk9ZVU1COTZKUUNjdVpLVXBITWdMUC1qbEt0YVJGc2Y0M0Q0Y1DSAeoBQVVfeXFMTlUxM3FCek5FSC00SEpDdVZXbHJ0RUh6UVk4VG5SclVMRHRYTXo0VnpKNV9RNWN6eU0yS0xUVG5YNjdfUk9rTWNzMUdPVm9SR2VvR09mM3d1SVdraGluVGxFV2oxOG5WR2Vrb3E3eWF3UEkyWXg1a3kzUjhtQ21uZmQ1c3Z1R3UycjhOeldvNk5kUVhoU3FkYTlLV2sycG1nQ0FqeHBTdEQ3a0hjdUxjazB4aGEwbjk4OXZtV3hDUG9kZ0dVNXZBb20xOGNHQUpuNm5vUC1zWUdjUUcxMG5Vd3BlWGxVNFlPVVNB?oc=5",
-   "date": "2026-11-21T04:29:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
-  },
-  {
-   "title": "Philadelphia Onions and Potatoes Market Steady - USDA Report Nov 20, 2026 - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3c0N1BLUWtzU2dmck0xYVJFT3V3em1BMzlNUG9zNmJ4Q1E5ZTB2aWJpd0R0SWMwbkZab0xMLUY4c0EtYmNydExBTEk1cUhTZ3dhRXY5UmJEeG85UVR2bHJqa3pKcF8zYWU1QnR4X1F4U0NTS2hHanc2WDBxN2VOMWZxb2FvVV9BWWU3aUV0bk5WcWZ1TnBZWFI2dlF3ZHlmWTNRNw?oc=5",
-   "date": "2026-11-20T19:00:30.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
-   "title": "New York Terminal Market Onions and Potatoes Prices Hold Steady - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWNkWXRBdUVrQnR1RHlvWUM1SkV4a2RGVW9CRzAzSnVpako4aTRvV1RlangxNGFUZUhRcFdFZmRHRVdackpLbUZ5UV92cUpTZ3U3cTk1SEVSTkg1NzNFTTNLNk0yWkZ0R3NPaGNmbmZEd1NwNXRNUjZIUm5vUWt1Q1VPclc1ZS1vRHNibE1FdXZuT215RC14SQ?oc=5",
-   "date": "2026-11-20T18:50:23.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
-   "title": "Akvan damages crops, govt promises aid - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlZpWVF4XzVveTJ0V1pGNUR4ci1GRGRLZTc2dlRxVHRUNVU0ekIzcXpnV0E4NzNFX0VQZmFhdDNJVTZ5TmhGSXJCM2c2OTlKTjJZTHBfajR3RmZxakFHajJmZU1CZlBTMjJaOEZUa1VtTUJMMDF4QTlXdXkwbUNvQW5TX05qNk93N2NpRmtfSnplZkNpcHAtMnlXRVpqUmZBWXN0dlFEMXJtLVF3ME5mbEhoUnhibGvSAbwBQVVfeXFMT1N3ZFNQc1VUVXdFNGlxZ0FqNVhvTjdkLVdaRFF2bWhSWUdFajJ6dUdXdGZhOGdCU2FxaHY3Q2JFdmk0Y2VDWTZINy1EMm1aRG9oMFhPQ1FXUVNIQ1B6Wkk4Uy1yUHlyeEJWVDZGa2cwWUtpRnJyVnRfY3cyeGJSWXF2VzJVR0JqMjdoT2pkeGdlT2dOV3paVkN4QlkxQnVrRzJmSkhuZnZwRFRwM3ZBV1JydXNmSEtJUkNxWTA?oc=5",
-   "date": "2026-11-20T15:52:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
-  },
-  {
-   "title": "Drought hits onion production; prices rise to ₹70 per kg - The Hindu",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdW9iMFl4aHlyczllcVB3U19sY2pZQTVlcjZMM3Fpc0R5NXZERVRwOEFuZHFCUDNVSTZpOGZTX1lTQ3Vveko3V3dPN3o5QTFqQjd0Yk96MFFPOFVOcDd4anc4SzBZaElMaVBRbVNNSTdTc2I5V0NIcFBlTUk0LUMxSzRqaGpLZmFSZDYtYnVnNFNEZ3AzNHA4T2NPektjTVdTS0doT2lQbEQwcmUzYUtUM21aVU92RWgzWXlVdVNDS2XSAccBQVVfeXFMT0kxYU9vYmRSdXRPQVFBLVNhallhRXNYMThfT1M1M3oyRUozd214X0FDWU4tSnZkUWNRR0c1bmlicjZ6cjJCMnFoTmdFeTZvQXhOTHdvY2s3eFhCbkN2bDV6M0Y4Z256ZWRBMzBya29Vc0ZsNXpvLWxxU2kxX2hCMFY0SjBsRno2Q21uNF96TzdYbzVEd2NFY1lQdFNIbnhqbWRkanBEaWNqY3JmZzEwNWtIZmxwRVJjSlNZZ2ROUlc4MUVoSHdSQQ?oc=5",
-   "date": "2026-11-20T14:48:51.000Z",
-   "publisher": "The Hindu",
-   "lang": "en"
-  },
-  {
-   "title": "Scientists Successfully Grow Edible Potatoes in Simulated Moon Soil - Aik News",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNcnQxR3ZfbnJsOERnOFFrQk41ZjRwTWIxYVp1Y083MzNmdkdpejJGY3FVdzltcEhzSmdHZXg2Vmh5djNXTWhjb1ZGZGlOdGxX?oc=5",
-   "date": "2026-11-20T13:51:58.000Z",
-   "publisher": "Aik News",
-   "lang": "en"
-  },
-  {
-   "title": "Potato prices rise in the UK amid drought and lower production - УкрАгроКонсалт",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFh4d1BTR202UnlvNHdxWmwxY2w5U016elVKSmZDblVJN0RHMmozczA4ZFJzckNobjVkRFRWZmttNWxrTEpXQVVNWG83dkdQVlNTVU9xb1NiWEdzaEVjUnVKSWlXcjlFYmNpSkYtaGF2N0tZQUpCWThPa3VuVHR6dllBdlIya2pOSTdUVnB6OXkydmg2YU1QbTJfTk84QjA?oc=5",
-   "date": "2026-11-20T13:28:43.000Z",
-   "publisher": "УкрАгроКонсалт",
+   "title": "Weekly inflation falls to 10.41% as fuel, vegetable prices decline - Profit by Pakistan Today",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnJQTHd6WXVvN213eGVVaERwcjFvanN5VW5PUnpKTURFZ1RMUWthaV91b1RPWXpsNVUwUDVoOV9xbS1zWFRPUTRvQ0I4T2VLSDF5Z3ZlY2NrZ3NhOWdoNlZYdTgzcVI2ekZfRHJuWHpyeEdqN25PQVJxUURYbXJmTU8zdllTM29OWWJUY3hyWlV3RmJRLU8yUVpUWlU0eXZ5YmtqY2dMa3BEdnduTldPdjhiT21jU25V?oc=5",
+   "date": "2026-11-20T17:36:52.000Z",
+   "publisher": "Profit by Pakistan Today",
    "lang": "en"
   },
   {
@@ -228,59 +153,10 @@
    "lang": "en"
   },
   {
-   "title": "Scientists Grow Safe-to-Eat Potatoes in Moon Soil - ProPakistani",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM2gzVUZremlVSldDTVhqWmRpcjdkVndCd29HYjFzTE1PUXlEdkY0a1c0SHByTU8tdXZTdzUyaGxrbHlabWowc0NCUlZ3c3FGSkowNl9rM1JvVXZEM1pYNzR3UWFFNmRtU1NCOFluVHJIRERoOVZ0VGV1cHFSYU02LTlQQzR2LW0tbzdwZ3d30gGTAUFVX3lxTE5GTlZiVWhGVGNRZFdsV3JnTWFxdjJXeXZTaFdaV2dmOXp1V2NNcV8zMDhaeGh2WVN0WmVVRHhQbnJsZDBacDJiOGRpbElPeFkzY0YtN1ZEazBCSXZodjM4YmszX3hENTdXb1hEbXgxa1VDMGpUazQzQ3ZtVWduMFpSVkdRbE8wMzVXR2VBNGxHSHBVTQ?oc=5",
-   "date": "2026-11-20T10:42:11.000Z",
-   "publisher": "ProPakistani",
-   "lang": "en"
-  },
-  {
-   "title": "Chennai grocery bills rise as small onion hits Rs 220/kg, rice and pulses add to household costs - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPM215Z05YcmJXbzB6ekFOSDFJWklYcDZTQmk5M3pQNTlNNThxd3FHbzU1d0V4LVViUnpEam5Qa3FfbHlHVHAweFFPQW9SWmdzbjZRNGVEeGZldElob0JoN09sM0VFSkMtenlCWUpRTWZocEVpRmFJbWxKV0RFMUw1cDl0aFZsR1hSeldVQmMxT1dIWnd4d3NCWEJiU1pXY3NfQzU5NlJDc3hwQlFVdHJzVzdFZG50VzBZd0l0UVk0VWdCWUJlcTRDd0Z6X2gzWVU4eEx6RjNFRUlyNHM2RXhUT0ZKalhXZGhOQXFEeG9mWTdMWnhNZUoxWWYtTGVCdmR0S1RoMtIBhAJBVV95cUxPM215Z05YcmJXbzB6ekFOSDFJWklYcDZTQmk5M3pQNTlNNThxd3FHbzU1d0V4LVViUnpEam5Qa3FfbHlHVHAweFFPQW9SWmdzbjZRNGVEeGZldElob0JoN09sM0VFSkMtenlCWUpRTWZocEVpRmFJbWxKV0RFMUw1cDl0aFZsR1hSeldVQmMxT1dIWnd4d3NCWEJiU1pXY3NfQzU5NlJDc3hwQlFVdHJzVzdFZG50VzBZd0l0UVk0VWdCWUJlcTRDd0Z6X2gzWVU4eEx6RjNFRUlyNHM2RXhUT0ZKalhXZGhOQXFEeG9mWTdMWnhNZUoxWWYtTGVCdmR0S1RoMg?oc=5",
-   "date": "2026-11-20T03:42:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
-  },
-  {
-   "title": "Scientists succeed in growing potatoes in moon soil - Dawn",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GZkJhZ0huU1lkRHNRbUkwZ2gyYk5qeHotQXowazJmR0FKYVpYVjh5Um9PY2RiRllRT3UzUjBYWWsxYXFwUkFOYw?oc=5",
-   "date": "2026-11-20T01:50:02.000Z",
-   "publisher": "Dawn",
-   "lang": "en"
-  },
-  {
-   "title": "Detroit Onion and Potato Market Report: Steady Prices November 19, 2026 - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWC1pY1QyTThDSTNtWkE5Wm9weEI0S2ZVb3FBeURCaHE1SmhUYUQyWGtDYmdsSFhxMTRQSy1hTG1zSXdoOGFXOGwwOXY4TFdobXhMY3k2THdlZmNBSi1UbGZkVURYb1JVWjZIMF9wUmdFRUIwQlRVQWVoY05sLTJiemYzLTlKMEpZc3NaQnlMdDQzbTZZQ2w1ZWROYkl1QV9jMUV6aWFnNA?oc=5",
-   "date": "2026-11-19T18:40:26.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
-   "title": "Columbia Terminal Market: Steady Onion and Potato Prices - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmRQbzVWMFltbTRXeDRIN1BUY18tR1dJN3QwWjhWTUpoYUh4ZE1US00xcUlkck85TzRjckkzd09lbkh2cHRXM2dITWNvalRLRzFxWm5JZ281UXE3S3hSaGk2MjlORlFxWThmc1lxdklUQTduLTZ5Q191YjRhc3lsZU00N2g4dGdDRlhKai1Ma1RlYjlMazktVQ?oc=5",
-   "date": "2026-11-19T18:30:23.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
    "title": "Iranian tomato export suspension threatens winter supplies in Tajikistan - FreshPlaza",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FQU09PSzRFYTRNNmxxRWVkVDU5Vk45TThHX2NjcWZQdmQ1bmZreHpCaWlmY2hJSWk4MU13czJza1RDZnRocTQwRlJHblJXaHUzelBBMjExTFAxajhzZ2UtRGNTSDhnajhfX1JRMU01ZVh2ckVPZHZ6eWd1UUFzREF0U2tFTzZGVmowdmhuOUZyLWZ3cUFHdVpNR29RMWgxQWp4ajdrR2p3d0VBekp5ZUVyd3RhaHpfMVJvd0N5SXQ4dw?oc=5",
-   "date": "2026-11-19T15:19:19.000Z",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzQ2LVlhaHE3cnpVYkJqQldJQzJneWtZQ21PRlUtMEgxWkc0eUVkNm0tLWp5UW1XcG93Vm40RUV6OS13eTdLcjNkVE9kNjQwNC1DeklnTEh3cnJUMTFxTDhRYklENlc3dy16U0ViUGVlWkhpbVk5cE1SNGhQMTE3aklkUXQyWmFIeDY4bXZjT2dzSGxSSzFfS1drZXdRT09XQ2VUeDZQSnl2WmJ1U3FzSFd2QVNMQTQ4YW1FT0Vn?oc=5",
+   "date": "2026-11-19T20:37:30.000Z",
    "publisher": "FreshPlaza",
-   "lang": "en"
-  },
-  {
-   "title": "India’s onion production to decline by 6% but export potential remains strong - УкрАгроКонсалт",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmxXYzBpOXNGbmFyN09LZDdCWFl1ODFVRXc0TFpjZFFFSV93X3lvTEF4YXBya3N5cmJLRjBlVnQ2MklxMUZabDMxekM3X2Q1N0JoeEhhd1hjbVJxQ0t0QjhFWHBmMW53ZkUyaFljWXFtUmlKY2dGazBfYVhKanNTYUw1NmhEYzIxZXpnZ21kOTNvREtsQkE3cG5jUThGdVFPVXFkNy1CT0Y3Nm95UjdrMg?oc=5",
-   "date": "2026-11-19T14:39:23.000Z",
-   "publisher": "УкрАгроКонсалт",
-   "lang": "en"
-  },
-  {
-   "title": "Mumbai households feel grocery squeeze as onion, rice, pulses and cooking oil prices rise - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON3hOdTJjNmxUamlfZUhkZmxycmQwMFFKWW55SUp1NDk0akVxT0tBa0wxdWhlRjhmc0dGS3RLRU9QWmNkV1o4TnZRczRCVk10RVF4Yno4N0xCeDEzOXFaZThuZ3hnbDBISUlNR2R5REFYQThsc2JGVnVfcE52NkJJb29aZ0N2NG1NZHlEZ0l2Mm05LW1vOTVTOEp6UmtZVXNONlo1SG9fMzFqZmsyOTUzVjlvNnRhTGhVczk0LXZPNUhSOFFSa0NfVWlYUldmMFdpOEFFRmJHemVNczFTajhZYWJGdFVUUV9MSTVaNmJpcGc2TDDSAfgBQVVfeXFMUC1KSG11YWlqWHNxWHdXdUxRWDBVYnFTNlAxVmZBNTZmQXp3N2J6eEs0UW5fSVhCc2ljM1JNYWoyM05WTHc5WnBXUnljQ3BzZTB6V2dRR2Ytc0UyMkZKRU1GSl9IVmJRX3UyLURMTnpuN1RUeGNkY3MtWmdsUzFvbVNFT2hSNDNnemF6am81UWNyVExfYW1Cb0huemlZd2RTV1BoNnJ0Y2NlSzg5cEhkdUhJcC1OSVV0V25VQlFXZ2t4RE5hdU5TaXJPZENSUmdjQmhOWThyOThiM1YtdWFOcDVnZ3pUR25zbmlmMmg0a2wxOEZlbVBUb1E?oc=5",
-   "date": "2026-11-19T11:47:00.000Z",
-   "publisher": "The Times of India",
    "lang": "en"
   },
   {
@@ -291,47 +167,12 @@
    "lang": "en"
   },
   {
-   "title": "Atlanta Onions and Potatoes Market Report - November 18, 2026 - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVkyQ3QxaEZaMUt0UmlncGw5RFpEbXlvOF93T25YbHFGZWE3UlBoNE1CVGhkcmxqT24yRmt4dnZFQnNwaXJBUlRiRzBjWnlXVEhGNWp0U2VoMUZvNHJpbXJ6cURRS245Ykx3aHd4b3YzVTJmZEZTamJSLVdjbWp0V2NSdkhpcFRhOTRiOU9iXzRDSHFrQUhGLXhzSWVFNFplUUk3VFhwLU1UN1dRMi16cXVn?oc=5",
-   "date": "2026-11-18T18:51:06.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
-   "title": "Miami Terminal Market: Steady Onion and Potato Prices - USDA Report - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUdYOXhtb1phT0ZGLThnQUJ4c0lpdzRjdXlvUkFrY3BmbGhEV0pDc3Vpd0hOM3FQdXhDdUJzOUZGRFdZV1VGZEhvRklJWTdCR1BpUjJHZXI3Q0REQkYtdjhRc0I2U3p5QWJWMnhoV0x0YmNXajZsQ3pkMEhnOXRsbFJNZXRPMVliMng0c1VPa2FFb3R1VjNr?oc=5",
-   "date": "2026-11-18T18:00:29.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
    "title": "Pakistan eases export rules for potatoes, kinnow to Russia - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWo3Um1yd1c2TzdDcEdpR1IxMnVOcjZ5aEZxdGRFWjhVeDZ0Skl5amg4N0ozTWk5M2hVdUdlR3lDOGNxVGYzRTd6dHk3YkxuQnI5R1VTUy1GZXJ2SnM2Y1l2eVB0UWFMUUItRk5sQTZCRmZPb1Z3bUtSMG1yS2x3dHlwMHFOWWRIX0N2MC1zbnJ1Sk1TcFJmVTdFSTZ3Z9IBVkFVX3lxTE5nbmMxaWIzeW00R2VLNmxjNEVzUmk5N001bXluZEVYazBHM3AwbVc5eUhWS0RHV25nNm9yU2pIVklNeTBLeUpYeEpuVnNBUFhQV00zaHl3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmJqR013QS1zWFcwRTZEMldVSXlCQXAtQ1hyMm45YzJtVXRRTThleUduaHFBOGJIVlVlSVJvQ183YXVST3NsaXZXTVFMaFJ0Nlhid29iS25OZGhfQ2VWdXUtU1BodEZONFIydktOOWo1bm5FNm9icE1FUGthdU1SLVd6eVRxUDNNX3RCam5lTW1UZ05TX2xTSzd1NlBXcFl3ZGxLSGJvdzhvVVBfYWZGd2d2TTFJai0wQUZRaWJXZHVaQdIBVkFVX3lxTE5nbmMxaWIzeW00R2VLNmxjNEVzUmk5N001bXluZEVYazBHM3AwbVc5eUhWS0RHV25nNm9yU2pIVklNeTBLeUpYeEpuVnNBUFhQV00zaHl3?oc=5",
    "date": "2026-11-18T15:30:47.000Z",
    "publisher": "Business Recorder",
    "lang": "en"
-  },
-  {
-   "title": "Onion farmers seek measures to ensure Rs 3,000 per quintal amid surplus production outlook - The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaXBwYWV2ZTRoOElzcGNIeVZ2dFYyb3R0RFg0TVVNWTB5Zlc4RXFDVHpZMWNtT0NjbzBpLWNmajlpWGVOTDRxdVlQWFNiY1lSSFo5ang5LUtPZFFGeGNlYWNscFcyUHJ1TXFzMDZyVEVHWEdxNDBMbnRJLURKLVFrWFFpV1ZLNGk4UEVWTVAzdm9mdTNIUlRwX3Naa1d6elVSSjZkN3ZvZzA4Zk9iZ0ltcUwybmhZbmlKR1o0cmc0Rm54T1FMOUdTLXUwN3JBRnBGTHIwb1pXRTFkcGJuVVZFMG00THFaOUExU1BWZ1R4S2dvcTZjUWxDTGVzOThObHZiMlNwcG1FY18?oc=5",
-   "date": "2026-11-18T10:00:54.000Z",
-   "publisher": "The Economic Times",
-   "lang": "en"
-  },
-  {
-   "title": "Philadelphia Onion and Potato Market Steady; White Onions Higher - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmQyQk4tcWl2bnpVVnFpR20yNHpkaG1pdUdYOWtaR014TVpZSF9JdF9xVjItdkZKZnBWTk5QU3g4Mmk2UUtWV2RRaC1uMFd1a0pOTUtOaE1BcGxIaDViRl9ERHdVaS1xZzROT0JaZzllV1A5T2REYXM3WnZVVGxuUHhDTUt4dGkwNjkzNncyTUdKNU1Fckw2ZUtaX0FMMWYwRTFlYXRCeWt1WGZNSm1WVQ?oc=5",
-   "date": "2026-11-17T18:20:26.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
-   "title": "Several traders and shopkeepers in Spin Boldak district of Kandahar province say that more than 50 percent of their trade and economic activity has stalled since the closure of the Pakistan border. They say the Taliban’s ban on importing right-hand drive vehic - Facebook",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3dMNUVFalluWkpFczA0aXpfNTQ4MUVkWjlfZHcxT3NDRmp6X2c5RHV4aGdxV1NTZGt5SmhNMThPNmpNMDVkWlNtaENhcDZTMWdsdEo4cndjUld0VFFWenJZU3VwdjBENHpKQ3owR1M5aHVaS21tdGZYNUpqQ0JpdnMtZ1NVMlBZNUw5N3QwV1luSHlqYUl0OE5obi1QZWpvYnkwNVRIT242TXYzYml4R3JrT3MxcThVZFEwSXFXR0UwMkM1ZkpQc3dxUGd3VzdLWXpORkVB?oc=5",
-   "date": "2026-11-17T09:27:16.000Z",
-   "publisher": "Facebook",
-   "lang": "en"
   }
  ],
- "updatedAt": "2026-11-21T08:11:27.460Z"
+ "updatedAt": "2026-11-22T08:14:07.694Z"
 }
