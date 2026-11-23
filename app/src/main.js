@@ -6,6 +6,7 @@ import { STR } from './i18n.js';
 import { shareAsImage, downloadPdf, shareLink } from './share.js';
 import { loadMarketComparison, renderCompareTab, drawCompareBarChart, handleCompareClick, handleCompareInput, handleCompareChange } from './compare.js';
 import { loadBotLogs, renderBotsTab, handleBotsClick } from './bots.js';
+import { forceState, markCheckedNow, renderForceUpdateModal, handleForceUpdateClick } from './forceUpdate.js';
 
 Chart.register(...registerables);
 Chart.defaults.animation = false;
@@ -146,17 +147,21 @@ function alertsFor(id) {
 // ---------------------------------------------------------------- shell
 function shell(inner, active) {
   const d = state.data;
+  const updLabel = forceState.lastCheckedPkt
+    || (d?.generatedAt ? new Date(d.generatedAt).toLocaleString('en-GB', { timeZone: 'Asia/Karachi', day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit', hour12: true }) + ' PKT' : '');
   return `
   <header class="top">
     <div class="brand"><img class="logo-img" src="./logo.png" alt="" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'logo',textContent:'🥬'}))"><div><b>${t('appName')}</b>
-      <small>${d ? fmtDate(d.date) : ''}</small></div></div>
+      <small>${d ? fmtDate(d.date) : ''}${updLabel ? ` · ${t('lastChecked')}: ${esc(updLabel)}` : ''}</small></div></div>
     <div class="top-actions">
+      <button class="pill" data-fu-act="open">⚡ ${t('forceUpdate')}</button>
       <button class="pill" data-act="lang">${t('langSwitch')}</button>
       <button class="icon" data-act="refresh" title="${t('refresh')}">⟳</button>
     </div>
   </header>
   ${state.offline ? `<div class="banner warn">${t('offline')}</div>` : ''}
   <main>${inner}</main>
+  ${renderForceUpdateModal({ t, esc })}
   <nav class="tabs">
     ${[['report', '📋', 'tabReport'], ['vegetables', '🥦', 'tabVeg'], ['fruits', '🍎', 'tabFruit'], ['search', '🔍', 'tabSearch'], ['alerts', '⚠️', 'tabAlerts'], ['compare', '📈', 'tabCompare'], ['bots', '🤖', 'tabBots']]
       .map(([r, ic, k]) => `<a href="#/${r}" class="${active === r ? 'on' : ''}"><span>${ic}</span>${t(k)}${
@@ -517,7 +522,18 @@ function toast(msg) {
   setTimeout(() => el.remove(), 2500);
 }
 
+async function reloadAll() {
+  state.data = null;
+  state.marketData = null;
+  state.botLogs = null;
+  state.latestDate = null;
+  try { state.data = await loadData(null); state.latestDate = state.data?.date; } catch {}
+  try { state.marketData = await loadMarketComparison(DATA_BASE); } catch {}
+  try { state.botLogs = await loadBotLogs(DATA_BASE); } catch {}
+}
+
 document.addEventListener('click', async (e) => {
+  if (await handleForceUpdateClick(e, { rerender: render, reloadAll, toast, t })) return;
   if (await handleCompareClick(e, cmpCtx(), render, toast)) return;
   if (handleBotsClick(e, state.botLogs, render, toast, t)) return;
   const tr = e.target.closest('tr[data-href]');
@@ -536,7 +552,7 @@ document.addEventListener('click', async (e) => {
   }
   const act = b.dataset.act;
   if (act === 'lang') { state.lang = state.lang === 'ur' ? 'en' : 'ur'; localStorage.setItem('lang', state.lang); return render(); }
-  if (act === 'refresh') { state.data = null; state.marketData = null; state.botLogs = null; state.latestDate = null; return render(); }
+  if (act === 'refresh') { markCheckedNow(); await reloadAll(); return render(); }
   if (act === 'pdf' || act === 'img' || act === 'link') {
     const meta = shareMeta();
     const old = b.innerHTML;
