@@ -54,7 +54,14 @@ async function main() {
 
   let browser = null;
   try {
-    browser = await chromium.launch({ headless: true });
+    browser = await chromium.launch({
+      headless: true,
+      args: [
+        '--disable-blink-features=AutomationControlled',
+        '--no-sandbox',
+        '--disable-dev-shm-usage',
+      ],
+    });
   } catch (e) {
     console.warn('Playwright Chromium launch failed (JSON-only mode):', e.message);
   }

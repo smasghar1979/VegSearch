@@ -122,9 +122,45 @@ export async function tryWooCommerce(baseUrl, categorySlugs = []) {
 }
 
 /**
+ * Recursively scan intercepted XHR/fetch JSON payloads for product-like objects.
+ */
+function extractProductsFromJson(node, out = [], depth = 0) {
+  if (!node || depth > 7 || out.length > 300) return out;
+  if (Array.isArray(node)) {
+    for (const el of node) extractProductsFromJson(el, out, depth + 1);
+    return out;
+  }
+  if (typeof node === 'object') {
+    const rawName = node.product_name || node.title || node.name || node.item_name || node.label;
+    const rawPrice =
+      node.sale_price ?? node.final_price ?? node.selling_price ?? node.discounted_price ?? node.price?.value ?? node.price?.amount ?? node.price;
+    if (typeof rawName === 'string' && rawName.length >= 2 && rawName.length <= 90) {
+      const numPrice = typeof rawPrice === 'number' ? rawPrice : parseFloat(String(rawPrice || '').replace(/[^\d.]/g, ''));
+      if (Number.isFinite(numPrice) && numPrice > 1 && numPrice < 25000) {
+        const pack = [node.unit, node.weight, node.size, node.pack_size, node.variant, rawName].filter(Boolean).join(' ');
+        out.push({ raw_name: rawName.trim(), raw_price: numPrice, pack_text: pack });
+      }
+    }
+    for (const v of Object.values(node)) {
+      if (v && typeof v === 'object') extractProductsFromJson(v, out, depth + 1);
+    }
+  }
+  return out;
+}
+
+/**
  * Generic Playwright product card extractor (runs inside browser context).
  */
 export async function genericPlaywrightExtract(page) {
+  // Scroll smoothly to trigger lazy-loaded product grids
+  await page.evaluate(async () => {
+    for (let y = 0; y < 2400; y += 600) {
+      window.scrollTo(0, y);
+      await new Promise((r) => setTimeout(r, 250));
+    }
+    window.scrollTo(0, 0);
+  }).catch(() => {});
+
   return page.evaluate(() => {
     const out = [];
     const cards = document.querySelectorAll(
@@ -133,12 +169,12 @@ export async function genericPlaywrightExtract(page) {
     for (const el of cards) {
       const text = (el.innerText || '').replace(/\s+/g, ' ').trim();
       if (!text || text.length > 260) continue;
-      const priceMatch = text.match(/(?:Rs\.?|PKR)\s*([0-9,]+(?:\.\d{1,2})?)/i);
+      const priceMatch = text.match(/(?:Rs\.?|PKR|₨)\s*([0-9,]+(?:\.\d{1,2})?)/i);
       if (!priceMatch) continue;
       const price = parseFloat(priceMatch[1].replace(/,/g, ''));
       if (!Number.isFinite(price) || price <= 0 || price > 25000) continue;
       const heading = el.querySelector('h1,h2,h3,h4,h5,.title,.name,[class*="title"],[class*="name"],a,td');
-      const rawName = (heading?.innerText || text.split(/Rs\.?|PKR/i)[0] || '').replace(/\s+/g, ' ').trim();
+      const rawName = (heading?.innerText || text.split(/Rs\.?|PKR|₨/i)[0] || '').replace(/\s+/g, ' ').trim();
       if (rawName.length < 2 || rawName.length > 90) continue;
       out.push({ raw_name: rawName, raw_price: price, pack_text: text });
     }
@@ -169,7 +205,7 @@ export async function runStandardStore({
   let openFailed = false;
   let openError = null;
 
-  const deadline = Date.now() + 45000;
+  const deadline = Date.now() + 60000;
 
   // Step 1: Open Website
   logger.startStep(1, 'Open Website');
@@ -195,14 +231,36 @@ export async function runStandardStore({
       const ctx = await browser.newContext({
         userAgent: USER_AGENT,
         locale: 'en-PK',
-        viewport: { width: 1280, height: 800 },
+        timezoneId: 'Asia/Karachi',
+        viewport: { width: 1366, height: 768 },
+        extraHTTPHeaders: {
+          'Accept-Language': 'en-PK,en-US;q=0.9,en;q=0.8',
+          'sec-ch-ua-platform': '"Windows"',
+        },
+      });
+      await ctx.addInitScript(() => {
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        Object.defineProperty(navigator, 'languages', { get: () => ['en-PK', 'en-US', 'en'] });
+        Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+        window.chrome = window.chrome || { runtime: {} };
       });
       const page = await ctx.newPage();
+      const intercepted = [];
+      page.on('response', async (res) => {
+        try {
+          const ct = res.headers()['content-type'] || '';
+          if (res.ok() && ct.includes('application/json')) {
+            const json = await res.json();
+            extractProductsFromJson(json, intercepted);
+          }
+        } catch {}
+      });
       try {
         const targetUrl = playwrightConfig?.url || meta.url;
-        await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 22000 });
-        await page.waitForTimeout(1500);
-        logger.pass(`Opened ${targetUrl} in headless Chromium.`);
+        await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 25000 });
+        await page.waitForLoadState('networkidle', { timeout: 6000 }).catch(() => {});
+        await page.waitForTimeout(1800);
+        logger.pass(`Opened ${targetUrl} in stealth Chromium.`);
 
         // Step 2: Select Location / Options
         logger.startStep(2, 'Select Location / Options');
@@ -244,6 +302,7 @@ export async function runStandardStore({
             // continue other category URLs
           }
         }
+        if (intercepted.length) rawItems.push(...intercepted);
         if (visited.length) {
           logger.pass(`Checked ${visited.length} category page(s): ${meta.categories.join(', ')}.`);
         } else {
