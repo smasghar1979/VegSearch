@@ -53,7 +53,13 @@ async function main() {
   } else if (!flag('--rebuild')) {
     if (!hasGemini()) console.warn('⚠ GEMINI_API_KEY missing — price lists cannot be read. Add it as a GitHub secret.');
     let lists = [];
-    try { lists = await commissioner.findLists(); } catch (e) { console.error('Commissioner page failed:', e.message); failed++; }
+    for (let t = 0; t < 2 && !lists.length; t++) {
+      try { lists = await commissioner.findLists(); } catch (e) {
+        console.error(`Commissioner page attempt ${t + 1} failed:`, e.message);
+        if (t === 1) failed++;
+        else await new Promise((r) => setTimeout(r, 4000));
+      }
+    }
     for (const l of lists) {
       const date = l.date || today;
       if (date > today) continue;
@@ -96,8 +102,8 @@ async function main() {
   }
   writeOutputs(latest);
   console.log(`Published latest.json for ${latest.date} (prev ${latest.prevDate}), ${latest.items.length} items, ${latest.alerts.length} alerts`);
-  if (failed > 0 && saved === 0 && attempted > 0) {
-    console.error(`::error::All ${failed} new price list ingestion(s) failed — check GEMINI_API_KEY or source availability.`);
+  if (failed > 0 && saved === 0) {
+    console.error(`::error::Price list ingestion failed (${failed} error(s)) — check GEMINI_API_KEY or source availability.`);
     process.exitCode = 1;
   }
 }
