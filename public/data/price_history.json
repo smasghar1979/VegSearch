@@ -1,9 +1,214 @@
 {
-  "updated_at": "2026-11-23T15:40:10.702Z",
+  "updated_at": "2026-11-23T17:16:49.854Z",
   "date_pkt": "2026-11-23",
   "stores": {
     "carrefour": {},
-    "metro": {},
+    "metro": {
+      "ginger": {
+        "price": 112,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 112
+          }
+        ]
+      },
+      "garlic_china": {
+        "price": 112,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 112
+          }
+        ]
+      },
+      "tomato": {
+        "price": 34,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 34
+          }
+        ]
+      },
+      "cauliflower": {
+        "price": 100,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 100
+          }
+        ]
+      },
+      "cucumber": {
+        "price": 88,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 88
+          }
+        ]
+      },
+      "cabbage": {
+        "price": 44,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 44
+          }
+        ]
+      },
+      "capsicum": {
+        "price": 41,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 41
+          }
+        ]
+      },
+      "bottle_gourd_round": {
+        "price": 29,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 29
+          }
+        ]
+      },
+      "banana": {
+        "price": 139,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 139
+          }
+        ]
+      },
+      "pomegranate": {
+        "price": 299,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 299
+          }
+        ]
+      },
+      "apple_kala_kulu": {
+        "price": 107,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 107
+          }
+        ]
+      },
+      "grapefruit": {
+        "price": 29,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 29
+          }
+        ]
+      },
+      "orange": {
+        "price": 34,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 34
+          }
+        ]
+      },
+      "papaya": {
+        "price": 140,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 140
+          }
+        ]
+      },
+      "onion": {
+        "price": 812,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 812
+          }
+        ]
+      },
+      "dates": {
+        "price": 579,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 579
+          }
+        ]
+      },
+      "plum": {
+        "price": 3000,
+        "last_checked_date": "2026-11-23",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-23",
+        "log": [
+          {
+            "d": "2026-11-23",
+            "p": 3000
+          }
+        ]
+      }
+    },
     "freshbasket": {
       "tomato": {
         "price": 140,
