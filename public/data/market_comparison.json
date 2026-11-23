@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T19:26:41.762Z",
+  "generated_at": "2026-11-23T19:29:37.410Z",
   "date_pkt": "2026-11-24",
-  "run_at_pkt": "24 Nov, 12:26 am PKT",
+  "run_at_pkt": "24 Nov, 12:29 am PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -480,7 +480,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "bottle_gourd": {
           "id": "bottle_gourd",
@@ -727,7 +727,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "banana": {
           "id": "banana",
@@ -779,7 +779,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "kiwi": {
           "id": "kiwi",
@@ -948,7 +948,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apricot": {
           "id": "apricot",
@@ -1026,7 +1026,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         }
       }
     },
