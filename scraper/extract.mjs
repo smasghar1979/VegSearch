@@ -62,6 +62,8 @@ ${rules(extraIds)}`;
   const media = buf ? { inline_data: { mime_type: mime, data: buf.toString('base64') } } : { text: `DOCUMENT TEXT:\n${text.slice(0, 60000)}` };
   const first = await geminiJSON([{ text: prompt }, media], { schema: SCHEMA });
   if (!first.is_price_list || !first.items?.length) return first;
+  // Save 50% of daily Gemini quota when first pass already extracted a full list
+  if (first.items.length >= 12) return clean(first);
 
   // Second pass: verification against the image (catches mis-aligned rows / misread digits).
   try {
