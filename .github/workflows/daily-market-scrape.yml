@@ -1,0 +1,39 @@
+name: Daily Market Comparative Scrape
+
+on:
+  schedule:
+    - cron: '30 2 * * *' # 07:30 AM PKT
+    - cron: '30 5 * * *' # 10:30 AM PKT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-markets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Run 12 Karachi grocery scraper bots
+        run: node scrapers/run-all.js
+
+      - name: Commit updated market comparison & bot logs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/market_comparison.json public/data/price_history.json public/data/bot_logs.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(market): update 12-store comparison & bot logs [skip ci]"
+            git push
+          fi

@@ -1,0 +1,919 @@
+{
+  "latest_date": "2026-11-23",
+  "dates": [
+    "2026-11-23"
+  ],
+  "days": {
+    "2026-11-23": {
+      "date": "2026-11-23",
+      "run_at": "2026-11-23T14:10:21.412Z",
+      "run_at_pkt": "23 Nov, 7:10 pm PKT",
+      "total_duration_ms": 26128,
+      "summary": {
+        "total_bots": 12,
+        "working": 2,
+        "partial": 0,
+        "failed": 10,
+        "total_items": 92,
+        "total_price_changes": 0
+      },
+      "bots": [
+        {
+          "store_id": "carrefour",
+          "store_name": "Carrefour Pakistan",
+          "store_name_ur": "کیریفور پاکستان",
+          "url": "https://www.carrefour.pk",
+          "categories_targeted": [
+            "Fresh Vegetables",
+            "Fresh Fruits"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 1,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://www.carrefour.pk: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for Carrefour Pakistan.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        },
+        {
+          "store_id": "metro",
+          "store_name": "Metro Pakistan",
+          "store_name_ur": "میٹرو پاکستان",
+          "url": "https://www.metro-online.pk",
+          "categories_targeted": [
+            "Fresh Vegetables",
+            "Fresh Fruits"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 1430,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://www.metro-online.pk: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 1430,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for Metro Pakistan.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        },
+        {
+          "store_id": "freshbasket",
+          "store_name": "Fresh Basket",
+          "store_name_ur": "فریش باسکٹ",
+          "url": "https://freshbasket.com.pk",
+          "categories_targeted": [
+            "Fresh Vegetables",
+            "Fresh Fruits"
+          ],
+          "status": "success",
+          "items_checked": 58,
+          "yesterday_items": 58,
+          "price_changes": 0,
+          "duration_ms": 1346,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": "2026-11-23",
+          "steps_passed": 6,
+          "total_steps": 6,
+          "failed_step": null,
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Fetched 3 JSON endpoint(s) at https://freshbasket.com.pk (354 raw entries).",
+              "status": "passed",
+              "duration_ms": 1292,
+              "error_reason": null
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Karachi catalog endpoint targeted directly via JSON.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Scanned Fresh Vegetables, Fresh Fruits via JSON API.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Found 354 raw entries; matched & standardized 58 unique vegetables/fruits.",
+              "status": "passed",
+              "duration_ms": 54,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "0 price(s) changed, 58 unchanged vs previous run.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "Saved 58 standardized rates for Fresh Basket.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            }
+          ]
+        },
+        {
+          "store_id": "diamond",
+          "store_name": "Diamond Super Market",
+          "store_name_ur": "ڈائمنڈ سپر مارکیٹ",
+          "url": "https://www.dsmonline.pk",
+          "categories_targeted": [
+            "Fresh Vegetables",
+            "Fresh Fruits"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 2429,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://www.dsmonline.pk: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 2429,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for Diamond Super Market.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        },
+        {
+          "store_id": "hydri",
+          "store_name": "Hydri Super Market",
+          "store_name_ur": "حیدری سپر مارکیٹ",
+          "url": "https://www.hydrisupermarket.com.pk",
+          "categories_targeted": [
+            "Fresh Vegetables",
+            "Fresh Fruits"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 2411,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://www.hydrisupermarket.com.pk: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 2411,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for Hydri Super Market.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        },
+        {
+          "store_id": "cartpk",
+          "store_name": "CartPK",
+          "store_name_ur": "کارٹ پی کے",
+          "url": "https://www.cartpk.com",
+          "categories_targeted": [
+            "Vegetables",
+            "Fruits",
+            "Herbs"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 477,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://www.cartpk.com: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 477,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for CartPK.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        },
+        {
+          "store_id": "fruitsabzi",
+          "store_name": "Fruit Sabzi",
+          "store_name_ur": "فروٹ سبزی",
+          "url": "https://fruitsabzi.pk",
+          "categories_targeted": [
+            "Vegetables",
+            "Fruits",
+            "Herbs"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 2316,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://fruitsabzi.pk: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 2316,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for Fruit Sabzi.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        },
+        {
+          "store_id": "vegevista",
+          "store_name": "VegeVista",
+          "store_name_ur": "ویجی وسٹا",
+          "url": "https://vegevista.pk",
+          "categories_targeted": [
+            "Fresh Vegetables",
+            "Fresh Fruits",
+            "Herbs"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 20012,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON fetch timeout (20s)"
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://vegevista.pk: JSON fetch timeout (20s)",
+              "status": "failed",
+              "duration_ms": 20012,
+              "error_reason": "JSON fetch timeout (20s)"
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for VegeVista.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON fetch timeout (20s)"
+            }
+          ]
+        },
+        {
+          "store_id": "royalbasket",
+          "store_name": "Royal Basket",
+          "store_name_ur": "رائل باسکٹ",
+          "url": "https://royalbasket.pk",
+          "categories_targeted": [
+            "Vegetables",
+            "Fruits"
+          ],
+          "status": "success",
+          "items_checked": 34,
+          "yesterday_items": 34,
+          "price_changes": 0,
+          "duration_ms": 976,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": "2026-11-23",
+          "steps_passed": 6,
+          "total_steps": 6,
+          "failed_step": null,
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Fetched 2 JSON endpoint(s) at https://royalbasket.pk (280 raw entries).",
+              "status": "passed",
+              "duration_ms": 891,
+              "error_reason": null
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Karachi catalog endpoint targeted directly via JSON.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Scanned Vegetables, Fruits via JSON API.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Found 280 raw entries; matched & standardized 34 unique vegetables/fruits.",
+              "status": "passed",
+              "duration_ms": 85,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "0 price(s) changed, 34 unchanged vs previous run.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "Saved 34 standardized rates for Royal Basket.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            }
+          ]
+        },
+        {
+          "store_id": "arysahulat",
+          "store_name": "ARY Sahulat Bazar",
+          "store_name_ur": "اے آر وائی سہولت بازار",
+          "url": "https://arysahulatbazar.pk",
+          "categories_targeted": [
+            "Vegetables",
+            "Fruits"
+          ],
+          "status": "failed",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 1742,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 3,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 6,
+            "title": "Save Results",
+            "error_reason": "0 items extracted and no cache"
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Fetched 1 JSON endpoint(s) at https://arysahulatbazar.pk (100 raw entries).",
+              "status": "passed",
+              "duration_ms": 1723,
+              "error_reason": null
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Karachi catalog endpoint targeted directly via JSON.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Scanned Vegetables, Fruits via JSON API.",
+              "status": "passed",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Loaded 100 raw entries but 0 matched master vegetable/fruit items.",
+              "status": "warning",
+              "duration_ms": 19,
+              "error_reason": "No matching produce items extracted"
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for ARY Sahulat Bazar.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "0 items extracted and no cache"
+            }
+          ]
+        },
+        {
+          "store_id": "kravemart",
+          "store_name": "Krave Mart",
+          "store_name_ur": "کریو مارٹ",
+          "url": "https://kravemart.com",
+          "categories_targeted": [
+            "Fresh Vegetables",
+            "Fresh Fruits"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 1,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://kravemart.com: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for Krave Mart.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        },
+        {
+          "store_id": "narkh",
+          "store_name": "Narkh Karachi",
+          "store_name_ur": "نرخ کراچی",
+          "url": "https://www.narkh.pk/en/karachi",
+          "categories_targeted": [
+            "Vegetables",
+            "Fruits"
+          ],
+          "status": "blocked",
+          "items_checked": 0,
+          "yesterday_items": null,
+          "price_changes": 0,
+          "duration_ms": 2221,
+          "used_cache": false,
+          "last_checked_date": "2026-11-23",
+          "price_last_changed_date": null,
+          "steps_passed": 0,
+          "total_steps": 6,
+          "failed_step": {
+            "step_number": 1,
+            "title": "Open Website",
+            "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+          },
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "Open Website",
+              "detail": "Failed to open https://www.narkh.pk/en/karachi: JSON endpoints returned no items and Playwright browser is unavailable in this environment.",
+              "status": "failed",
+              "duration_ms": 2221,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            },
+            {
+              "step_number": 2,
+              "title": "Select Location / Options",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 3,
+              "title": "Navigate Categories",
+              "detail": "Skipped because website could not be opened.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 4,
+              "title": "Extract & Standardize Rates",
+              "detail": "Skipped rate extraction because site load failed.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 5,
+              "title": "Compare Against Previous Run",
+              "detail": "No previous cached prices available to compare.",
+              "status": "skipped",
+              "duration_ms": 1,
+              "error_reason": null
+            },
+            {
+              "step_number": 6,
+              "title": "Save Results",
+              "detail": "No rates saved for Narkh Karachi.",
+              "status": "failed",
+              "duration_ms": 1,
+              "error_reason": "JSON endpoints returned no items and Playwright browser is unavailable in this environment."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

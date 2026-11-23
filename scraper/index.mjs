@@ -24,7 +24,7 @@ async function ingest(days, { buf, mime, url, kind, date, listedDate }) {
   const ext = await extractPriceList({ buf, mime, hintDate: date, extraIds });
   if (!ext.is_price_list || !ext.items?.length) {
     console.warn(`Not a price list / no items: ${url}`);
-    return;
+    return false;
   }
   if (ext.date && ext.date !== date) console.warn(`Printed date ${ext.date} differs from listed date ${date}; using ${date}`);
   const items = normalizeItems(ext.items);
@@ -37,6 +37,7 @@ async function ingest(days, { buf, mime, url, kind, date, listedDate }) {
   saveDay(day);
   days[date] = day;
   console.log(`Saved ${items.length} ${kind} items for ${date}`);
+  return true;
 }
 
 async function main() {
@@ -44,6 +45,7 @@ async function main() {
   const days = loadDays();
   console.log(`Today (PKT): ${today}. Stored days: ${Object.keys(days).length}`);
 
+  let attempted = 0, saved = 0, failed = 0;
   if (opt('--file')) {
     const file = opt('--file');
     const date = opt('--date') || today;
@@ -51,16 +53,19 @@ async function main() {
   } else if (!flag('--rebuild')) {
     if (!hasGemini()) console.warn('⚠ GEMINI_API_KEY missing — price lists cannot be read. Add it as a GitHub secret.');
     let lists = [];
-    try { lists = await commissioner.findLists(); } catch (e) { console.error('Commissioner page failed:', e.message); }
+    try { lists = await commissioner.findLists(); } catch (e) { console.error('Commissioner page failed:', e.message); failed++; }
     for (const l of lists) {
       const date = l.date || today;
       if (date > today) continue;
       if (days[date]?.files?.some((f) => f.url === l.url)) { console.log(`Already have ${l.kind} for ${date}`); continue; }
-      if (!hasGemini()) continue;
+      if (!hasGemini()) { failed++; continue; }
+      attempted++;
       try {
         const { buf, mime } = await fetchBinary(l.url);
-        await ingest(days, { buf, mime, url: l.url, kind: l.kind, date, listedDate: l.date });
+        if (await ingest(days, { buf, mime, url: l.url, kind: l.kind, date, listedDate: l.date })) saved++;
+        else failed++;
       } catch (e) {
+        failed++;
         console.error(`Failed ${l.kind} ${l.url}:`, e.message);
       }
     }
@@ -91,6 +96,10 @@ async function main() {
   }
   writeOutputs(latest);
   console.log(`Published latest.json for ${latest.date} (prev ${latest.prevDate}), ${latest.items.length} items, ${latest.alerts.length} alerts`);
+  if (failed > 0 && saved === 0 && attempted > 0) {
+    console.error(`::error::All ${failed} new price list ingestion(s) failed — check GEMINI_API_KEY or source availability.`);
+    process.exitCode = 1;
+  }
 }
 
 main().catch((e) => {

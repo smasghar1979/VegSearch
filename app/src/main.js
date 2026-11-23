@@ -4,6 +4,8 @@ import './style.css';
 import { Chart, registerables } from 'chart.js';
 import { STR } from './i18n.js';
 import { shareAsImage, downloadPdf, shareLink } from './share.js';
+import { loadMarketComparison, renderCompareTab, drawCompareBarChart, handleCompareClick, handleCompareInput, handleCompareChange } from './compare.js';
+import { loadBotLogs, renderBotsTab, handleBotsClick } from './bots.js';
 
 Chart.register(...registerables);
 Chart.defaults.animation = false;
@@ -21,6 +23,8 @@ const state = {
   mode: localStorage.getItem('mode') || 'auto', // 'w' mandi, 'r' retail, 'auto'
   range: 7,
   data: null,
+  marketData: null,
+  botLogs: null,
   latestDate: null,
   offline: false,
   filter: 'all',
@@ -70,8 +74,18 @@ function effMode() {
 const pv = (o, m = effMode()) => (o ? (m === 'w' ? o.w ?? o.r : o.r ?? o.w) : null);
 const prevPv = (it, m = effMode()) => (m === 'w' ? it.pw ?? it.pr : it.pr ?? it.pw);
 
+function latestInfo(it, m = effMode()) {
+  const now = pv(it, m);
+  if (now != null && now > 0) return { val: now, prev: prevPv(it, m), date: state.data?.date, isFallback: false };
+  const s = (it.series || []).filter((p) => pv(p, m) != null && pv(p, m) > 0);
+  if (!s.length) return { val: null, prev: null, date: null, isFallback: false };
+  const last = s[s.length - 1];
+  const prevPt = s.length > 1 ? s[s.length - 2] : null;
+  return { val: pv(last, m), prev: prevPt ? pv(prevPt, m) : null, date: last.d, isFallback: true };
+}
+
 function change(it) {
-  const now = pv(it), prev = prevPv(it);
+  const { val: now, prev } = latestInfo(it);
   if (now == null || prev == null) return { diff: null, pct: null, dir: prev == null && now != null ? 'new' : 'none' };
   const diff = Math.round((now - prev) * 100) / 100;
   const pct = prev ? (diff / prev) * 100 : 0;
@@ -144,7 +158,7 @@ function shell(inner, active) {
   ${state.offline ? `<div class="banner warn">${t('offline')}</div>` : ''}
   <main>${inner}</main>
   <nav class="tabs">
-    ${[['report', '📋', 'tabReport'], ['vegetables', '🥦', 'tabVeg'], ['fruits', '🍎', 'tabFruit'], ['search', '🔍', 'tabSearch'], ['alerts', '⚠️', 'tabAlerts'], ['compare', '📈', 'tabCompare']]
+    ${[['report', '📋', 'tabReport'], ['vegetables', '🥦', 'tabVeg'], ['fruits', '🍎', 'tabFruit'], ['search', '🔍', 'tabSearch'], ['alerts', '⚠️', 'tabAlerts'], ['compare', '📈', 'tabCompare'], ['bots', '🤖', 'tabBots']]
       .map(([r, ic, k]) => `<a href="#/${r}" class="${active === r ? 'on' : ''}"><span>${ic}</span>${t(k)}${
         r === 'alerts' && d?.alerts?.filter((a) => a.level === 'high').length ? `<i class="dot"></i>` : ''}</a>`).join('')}
   </nav>`;
@@ -258,7 +272,7 @@ function routeCat() {
 function filteredPriceItems(cat) {
   const d = state.data;
   const q = state.query.trim().toLowerCase();
-  let items = d.items.filter((i) => pv(i) != null);
+  let items = d.items.filter((i) => latestInfo(i).val != null);
   const f = cat ? state.dir : state.filter;
   if (cat) items = items.filter((i) => i.cat === cat);
   else if (f === 'veg' || f === 'fruit') items = items.filter((i) => i.cat === f);
@@ -269,12 +283,15 @@ function filteredPriceItems(cat) {
 }
 
 function priceListHtml(cat = routeCat()) {
-  return filteredPriceItems(cat).map((it) => `
+  return filteredPriceItems(cat).map((it) => {
+    const info = latestInfo(it);
+    return `
     <a class="row" href="#/item/${it.id}">
-      <div class="nm"><b>${esc(name(it))}</b><small>${esc(altName(it))} · ${unit(it)}</small></div>
+      <div class="nm"><b>${esc(name(it))}</b><small>${esc(altName(it))} · ${unit(it)}${info.isFallback ? ` · ${shortDate(info.date)}` : ''}</small></div>
       ${sparkline(it)}
-      <div class="pr"><b>${money(pv(it))}</b>${badge(change(it))}</div>
-    </a>`).join('') || `<p class="muted center">${t('noResults')}</p>`;
+      <div class="pr"><b>${money(info.val)}</b>${badge(change(it))}</div>
+    </a>`;
+  }).join('') || `<p class="muted center">${t('noResults')}</p>`;
 }
 
 function viewCatalog(cat) {
@@ -317,7 +334,7 @@ function viewItem(id) {
       ${sourceBadge()}
     </div>
     <div class="bigprice">
-      <div><span class="muted">${t('today')}</span><b>${money(pv(it))}</b></div>
+      <div><span class="muted">${latestInfo(it).isFallback ? shortDate(latestInfo(it).date) : t('today')}</span><b>${money(latestInfo(it).val)}</b></div>
       ${it.w != null && it.r != null ? `<div class="both"><span>${t('mandi')}: <b>${num(it.w)}</b></span><span>${t('retail')}: <b>${num(it.r)}</b></span></div>` : ''}
       <div class="chgs"><div>${t('vsYesterday')}<br>${badge(ch)}</div>
         <div>${t('in7days')}<br>${c7 ? badge({ diff: c7.diff, pct: c7.pct, dir: c7.diff > 0 ? 'up' : c7.diff < 0 ? 'down' : 'same' }) : '—'}</div></div>
@@ -373,27 +390,26 @@ function viewAlerts() {
     <a class="src" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}<small> — ${esc(n.publisher)}, ${shortDate(n.date.slice(0, 10))}</small></a>`).join('')}</div>` : ''}`;
 }
 
+function cmpCtx() {
+  return {
+    data: state.data,
+    marketData: state.marketData,
+    lang: state.lang,
+    t,
+    esc,
+    num,
+    money,
+    shortDate,
+    latestInfo,
+  };
+}
+
 function viewCompare() {
-  const d = state.data;
-  const items = d.items.filter((i) => pv(i) != null);
-  const sel = state.compare.filter((id) => items.some((i) => i.id === id));
-  const rangeBtn = (n, k) => `<button data-range="${n}" class="${state.range === n ? 'on' : ''}">${t(k)}</button>`;
-  const hasHistory = (d.dates || []).length >= 2;
-  return `
-  ${modeToggle()}
-  <p class="hint">${t('compareHint')}</p>
-  <div class="chips wrap">${items.map((i) => `<button class="chip ${sel.includes(i.id) ? 'on' : ''}" data-cmp="${i.id}">${esc(name(i))}</button>`).join('')}</div>
-  <section id="capture" class="sheet">
-    <div class="sheet-head"><div class="title">📈 ${t('tabCompare')}</div><div class="date">${fmtDate(d.date)}</div></div>
-    <div class="seg no-capture">${rangeBtn(7, 'days7')}${rangeBtn(15, 'days15')}${rangeBtn(30, 'days30')}</div>
-    <div class="chartbox tall" dir="ltr">${hasHistory ? '<canvas id="cmpChart"></canvas>' : `<p class="muted center">${t('noHistory')}</p>`}</div>
-    <table class="rates"><thead><tr><th>${t('item')}</th><th>${t('yesterday')}</th><th>${t('today')}</th><th>${t('in7days')}</th></tr></thead>
-    <tbody>${sel.map((id) => { const it = items.find((i) => i.id === id); const c7 = change7(it);
-      return `<tr data-href="#/item/${id}"><td>${esc(name(it))}</td><td>${num(prevPv(it))}</td><td><b>${num(pv(it))}</b></td>
-      <td class="${c7?.diff > 0 ? 'up' : c7?.diff < 0 ? 'down' : ''}">${c7 ? pctTxt(c7.pct) : '—'}</td></tr>`; }).join('')}</tbody></table>
-    ${sheetFoot()}
-  </section>
-  ${actionBar('compare')}`;
+  return renderCompareTab(cmpCtx());
+}
+
+function viewBots() {
+  return renderBotsTab({ botLogs: state.botLogs, lang: state.lang, t, esc });
 }
 
 // ---------------------------------------------------------------- charts
@@ -422,20 +438,7 @@ function drawCharts(route) {
     }));
   }
   if (route.name === 'compare') {
-    const cv = $('#cmpChart');
-    if (!cv) return;
-    const items = state.compare.map((id) => state.data.items.find((i) => i.id === id)).filter(Boolean);
-    const dates = (state.data.dates || []).slice(-state.range);
-    charts.push(new Chart(cv, {
-      type: 'line',
-      data: { labels: dates.map(shortDate), datasets: items.map((it, k) => {
-        const map = Object.fromEntries((it.series || []).map((p) => [p.d, pv(p)]));
-        return { label: name(it), data: dates.map((d) => map[d] ?? null), borderColor: PALETTE[k % 5], backgroundColor: PALETTE[k % 5],
-          tension: 0.25, pointRadius: 3, borderWidth: 3, spanGaps: true };
-      }) },
-      options: { responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
-        plugins: { legend: { rtl, position: 'bottom' }, tooltip: { rtl } } },
-    }));
+    drawCompareBarChart(cmpCtx());
   }
 }
 
@@ -467,11 +470,17 @@ async function render() {
       return;
     }
   }
-  if (!state.data?.items?.length) {
+  if (route.name === 'compare' && !state.marketData) {
+    state.marketData = await loadMarketComparison(DATA_BASE);
+  }
+  if (route.name === 'bots' && !state.botLogs) {
+    state.botLogs = await loadBotLogs(DATA_BASE);
+  }
+  if (!state.data?.items?.length && route.name !== 'bots') {
     app.innerHTML = shell(`<div class="card center"><p>${t('noData')}</p></div>`, route.name);
     return;
   }
-  const views = { report: viewReport, vegetables: () => viewCatalog('veg'), fruits: () => viewCatalog('fruit'), search: viewSearch, prices: viewSearch, item: () => viewItem(route.id), alerts: viewAlerts, compare: viewCompare };
+  const views = { report: viewReport, vegetables: () => viewCatalog('veg'), fruits: () => viewCatalog('fruit'), search: viewSearch, prices: viewSearch, item: () => viewItem(route.id), alerts: viewAlerts, compare: viewCompare, bots: viewBots };
   const active = route.name === 'item' ? (state.lastTab || 'search') : route.name === 'prices' ? 'search' : route.name;
   if (route.name !== 'item') state.lastTab = active;
   app.innerHTML = shell((views[route.name] || viewReport)(), active);
@@ -509,6 +518,8 @@ function toast(msg) {
 }
 
 document.addEventListener('click', async (e) => {
+  if (await handleCompareClick(e, cmpCtx(), render, toast)) return;
+  if (handleBotsClick(e, state.botLogs, render, toast, t)) return;
   const tr = e.target.closest('tr[data-href]');
   if (tr && !document.body.classList.contains('capturing')) { location.hash = tr.dataset.href; return; }
   const b = e.target.closest('button');
@@ -525,7 +536,7 @@ document.addEventListener('click', async (e) => {
   }
   const act = b.dataset.act;
   if (act === 'lang') { state.lang = state.lang === 'ur' ? 'en' : 'ur'; localStorage.setItem('lang', state.lang); return render(); }
-  if (act === 'refresh') { state.data = null; state.latestDate = null; return render(); }
+  if (act === 'refresh') { state.data = null; state.marketData = null; state.botLogs = null; state.latestDate = null; return render(); }
   if (act === 'pdf' || act === 'img' || act === 'link') {
     const meta = shareMeta();
     const old = b.innerHTML;
@@ -541,7 +552,8 @@ document.addEventListener('click', async (e) => {
   }
 });
 
-document.addEventListener('change', (e) => {
+document.addEventListener('change', async (e) => {
+  if (await handleCompareChange(e, cmpCtx(), render)) return;
   if (e.target.matches('select[data-act="archive"]')) {
     const d = e.target.value;
     location.hash = d === state.latestDate ? '#/report' : `#/report?d=${d}`;
@@ -549,6 +561,7 @@ document.addEventListener('change', (e) => {
 });
 
 document.addEventListener('input', (e) => {
+  if (handleCompareInput(e, cmpCtx(), render)) return;
   if (e.target.id === 'q') {
     state.query = e.target.value;
     const list = $('.list');
