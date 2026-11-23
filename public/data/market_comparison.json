@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T17:16:49.854Z",
+  "generated_at": "2026-11-23T18:59:37.339Z",
   "date_pkt": "2026-11-23",
-  "run_at_pkt": "23 Nov, 10:16 pm PKT",
+  "run_at_pkt": "23 Nov, 11:59 pm PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -51,7 +51,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "garlic_china": {
           "id": "garlic_china",
@@ -64,7 +64,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "tomato": {
           "id": "tomato",
@@ -77,7 +77,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "cauliflower": {
           "id": "cauliflower",
@@ -90,7 +90,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "cucumber": {
           "id": "cucumber",
@@ -103,7 +103,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "cabbage": {
           "id": "cabbage",
@@ -116,7 +116,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "capsicum": {
           "id": "capsicum",
@@ -129,7 +129,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "bottle_gourd_round": {
           "id": "bottle_gourd_round",
@@ -142,7 +142,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "banana": {
           "id": "banana",
@@ -155,7 +155,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pomegranate": {
           "id": "pomegranate",
@@ -168,7 +168,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_kala_kulu": {
           "id": "apple_kala_kulu",
@@ -181,7 +181,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "grapefruit": {
           "id": "grapefruit",
@@ -194,7 +194,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "orange": {
           "id": "orange",
@@ -207,7 +207,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "papaya": {
           "id": "papaya",
@@ -220,7 +220,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "onion": {
           "id": "onion",
@@ -233,7 +233,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "dates": {
           "id": "dates",
@@ -246,7 +246,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "plum": {
           "id": "plum",
@@ -259,7 +259,7 @@
           "last_checked_date": "2026-11-23",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
-          "status": "updated_today"
+          "status": "unchanged"
         }
       }
     },
