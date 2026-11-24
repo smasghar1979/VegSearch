@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T12:18:21.378Z",
+  "generated_at": "2026-11-24T17:21:07.388Z",
   "date_pkt": "2026-11-24",
-  "run_at_pkt": "24 Nov, 5:18 pm PKT",
+  "run_at_pkt": "24 Nov, 10:21 pm PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -35,10 +35,10 @@
       "name_ur": "میٹرو پاکستان",
       "url": "https://www.metro-online.pk",
       "status": "ok",
-      "item_count": 17,
+      "item_count": 15,
       "last_checked_date": "2026-11-24",
       "site_reported_date": null,
-      "price_last_changed_date": "2026-11-23",
+      "price_last_changed_date": "2026-11-24",
       "items": {
         "ginger": {
           "id": "ginger",
@@ -87,19 +87,6 @@
           "raw_price": 100,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 100 / 1kg",
-          "last_checked_date": "2026-11-24",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
-          "status": "unchanged"
-        },
-        "cucumber": {
-          "id": "cucumber",
-          "raw_name": "Cucumber Farmi Premium Per 250GM",
-          "price": 88,
-          "unit": "kg",
-          "raw_price": 22,
-          "pack_unit": "250g",
-          "original_pack_label": "Rs. 22 / 250g",
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
@@ -238,28 +225,15 @@
         "dates": {
           "id": "dates",
           "raw_name": "OK ZAHIDI DATES 1KG",
-          "price": 579,
+          "price": 599,
           "unit": "kg",
-          "raw_price": 579,
+          "raw_price": 599,
           "pack_unit": "1kg",
-          "original_pack_label": "Rs. 579 / 1kg",
+          "original_pack_label": "Rs. 599 / 1kg",
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
-          "status": "unchanged"
-        },
-        "plum": {
-          "id": "plum",
-          "raw_name": "Plums Sweet 250GM",
-          "price": 3000,
-          "unit": "kg",
-          "raw_price": 750,
-          "pack_unit": "250g",
-          "original_pack_label": "Rs. 750 / 250g",
-          "last_checked_date": "2026-11-24",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-24",
+          "status": "updated_today"
         }
       }
     },
@@ -727,7 +701,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "grapes": {
           "id": "grapes",
@@ -766,7 +740,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "kiwi": {
           "id": "kiwi",
@@ -831,7 +805,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_kala_kulu": {
           "id": "apple_kala_kulu",
@@ -870,7 +844,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pomegranate": {
           "id": "pomegranate",
@@ -883,7 +857,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pear": {
           "id": "pear",
@@ -896,7 +870,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pineapple": {
           "id": "pineapple",
@@ -1000,7 +974,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         }
       }
     },
@@ -1138,7 +1112,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_gala": {
           "id": "apple_gala",
@@ -1177,7 +1151,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "persimmon": {
           "id": "persimmon",
@@ -1190,7 +1164,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pear": {
           "id": "pear",
@@ -1203,7 +1177,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "mosambi": {
           "id": "mosambi",
@@ -1229,7 +1203,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "coconut": {
           "id": "coconut",
@@ -1255,7 +1229,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_kala_kulu": {
           "id": "apple_kala_kulu",
@@ -1268,7 +1242,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "lemon": {
           "id": "lemon",
