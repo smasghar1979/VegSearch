@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T06:23:43.312Z",
+  "updated_at": "2026-11-24T12:18:21.378Z",
   "date_pkt": "2026-11-24",
   "stores": {
     "carrefour": {},
@@ -823,7 +823,7 @@
         ]
       },
       "banana": {
-        "price": 850,
+        "price": 25,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-24",
@@ -834,7 +834,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 850
+            "p": 25
           }
         ]
       },
@@ -871,7 +871,7 @@
         ]
       },
       "apple": {
-        "price": 450,
+        "price": 470,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-24",
@@ -882,7 +882,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 450
+            "p": 470
           }
         ]
       },
@@ -967,10 +967,10 @@
         ]
       },
       "coconut": {
-        "price": 500,
+        "price": 440,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -978,15 +978,15 @@
           },
           {
             "d": "2026-11-24",
-            "p": 500
+            "p": 440
           }
         ]
       },
       "pomegranate": {
-        "price": 1250,
+        "price": 1850,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -994,7 +994,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 1250
+            "p": 1850
           }
         ]
       },
@@ -1031,10 +1031,10 @@
         ]
       },
       "persimmon": {
-        "price": 750,
+        "price": 895,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1042,15 +1042,15 @@
           },
           {
             "d": "2026-11-24",
-            "p": 750
+            "p": 895
           }
         ]
       },
       "pear": {
-        "price": 1030,
+        "price": 1050,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1058,7 +1058,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 1030
+            "p": 1050
           }
         ]
       },
@@ -1159,7 +1159,7 @@
         ]
       },
       "mango": {
-        "price": 55,
+        "price": 85,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-24",
@@ -1170,7 +1170,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 55
+            "p": 85
           }
         ]
       },
@@ -1286,10 +1286,10 @@
         ]
       },
       "chikoo": {
-        "price": 452,
+        "price": 460,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1297,7 +1297,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 452
+            "p": 460
           }
         ]
       },
@@ -1350,10 +1350,10 @@
         ]
       },
       "apple_golden": {
-        "price": 784,
+        "price": 740,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1361,15 +1361,15 @@
           },
           {
             "d": "2026-11-24",
-            "p": 784
+            "p": 740
           }
         ]
       },
       "persimmon": {
-        "price": 784,
+        "price": 880,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1377,15 +1377,15 @@
           },
           {
             "d": "2026-11-24",
-            "p": 784
+            "p": 880
           }
         ]
       },
       "pear": {
-        "price": 624,
+        "price": 960,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1393,7 +1393,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 624
+            "p": 960
           }
         ]
       },
@@ -1414,10 +1414,10 @@
         ]
       },
       "grapefruit": {
-        "price": 59,
+        "price": 54,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1425,7 +1425,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 59
+            "p": 54
           }
         ]
       },
@@ -1446,10 +1446,10 @@
         ]
       },
       "kiwi": {
-        "price": 1080,
+        "price": 1600,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1457,15 +1457,15 @@
           },
           {
             "d": "2026-11-24",
-            "p": 1080
+            "p": 1600
           }
         ]
       },
       "apple_kala_kulu": {
-        "price": 740,
+        "price": 720,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-24",
         "log": [
           {
             "d": "2026-11-23",
@@ -1473,7 +1473,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 740
+            "p": 720
           }
         ]
       },
