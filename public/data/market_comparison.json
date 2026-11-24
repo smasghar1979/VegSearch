@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T17:21:07.388Z",
+  "generated_at": "2026-11-24T17:46:01.168Z",
   "date_pkt": "2026-11-24",
-  "run_at_pkt": "24 Nov, 10:21 pm PKT",
+  "run_at_pkt": "24 Nov, 10:46 pm PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -35,7 +35,7 @@
       "name_ur": "میٹرو پاکستان",
       "url": "https://www.metro-online.pk",
       "status": "ok",
-      "item_count": 15,
+      "item_count": 17,
       "last_checked_date": "2026-11-24",
       "site_reported_date": null,
       "price_last_changed_date": "2026-11-24",
@@ -87,6 +87,19 @@
           "raw_price": 100,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 100 / 1kg",
+          "last_checked_date": "2026-11-24",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-23",
+          "status": "unchanged"
+        },
+        "cucumber": {
+          "id": "cucumber",
+          "raw_name": "Cucumber Farmi Premium Per 250GM",
+          "price": 88,
+          "unit": "kg",
+          "raw_price": 22,
+          "pack_unit": "250g",
+          "original_pack_label": "Rs. 22 / 250g",
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
@@ -225,15 +238,28 @@
         "dates": {
           "id": "dates",
           "raw_name": "OK ZAHIDI DATES 1KG",
-          "price": 599,
+          "price": 579,
           "unit": "kg",
-          "raw_price": 599,
+          "raw_price": 579,
           "pack_unit": "1kg",
-          "original_pack_label": "Rs. 599 / 1kg",
+          "original_pack_label": "Rs. 579 / 1kg",
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "updated_today"
+        },
+        "plum": {
+          "id": "plum",
+          "raw_name": "Plums Sweet 250GM",
+          "price": 3000,
+          "unit": "kg",
+          "raw_price": 750,
+          "pack_unit": "250g",
+          "original_pack_label": "Rs. 750 / 250g",
+          "last_checked_date": "2026-11-24",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-23",
+          "status": "unchanged"
         }
       }
     },

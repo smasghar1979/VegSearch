@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:21:07.388Z",
+  "updated_at": "2026-11-24T17:46:01.168Z",
   "date_pkt": "2026-11-24",
   "stores": {
     "carrefour": {},
@@ -245,7 +245,7 @@
         ]
       },
       "dates": {
-        "price": 599,
+        "price": 579,
         "last_checked_date": "2026-11-24",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-24",
@@ -256,7 +256,7 @@
           },
           {
             "d": "2026-11-24",
-            "p": 599
+            "p": 579
           }
         ]
       },
