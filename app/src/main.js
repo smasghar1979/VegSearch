@@ -76,9 +76,16 @@ const pv = (o, m = effMode()) => (o ? (m === 'w' ? o.w ?? o.r : o.r ?? o.w) : nu
 const prevPv = (it, m = effMode()) => (m === 'w' ? it.pw ?? it.pr : it.pr ?? it.pw);
 
 function latestInfo(it, m = effMode()) {
-  const now = pv(it, m);
-  if (now != null && now > 0) return { val: now, prev: prevPv(it, m), date: state.data?.date, isFallback: false };
   const s = (it.series || []).filter((p) => pv(p, m) != null && pv(p, m) > 0);
+  const now = pv(it, m);
+  if (now != null && now > 0) {
+    let prev = prevPv(it, m);
+    if (prev == null || prev <= 0) {
+      const earlier = s.filter((p) => p.d < state.data?.date);
+      if (earlier.length) prev = pv(earlier[earlier.length - 1], m);
+    }
+    return { val: now, prev: prev > 0 ? prev : null, date: state.data?.date, isFallback: false };
+  }
   if (!s.length) return { val: null, prev: null, date: null, isFallback: false };
   const last = s[s.length - 1];
   const prevPt = s.length > 1 ? s[s.length - 2] : null;
@@ -94,7 +101,7 @@ function change(it) {
 }
 
 function seriesFor(it, days) {
-  const s = (it.series || []).filter((p) => pv(p) != null);
+  const s = (it.series || []).filter((p) => pv(p) != null && pv(p) > 0);
   return days ? s.slice(-days) : s;
 }
 
@@ -488,8 +495,13 @@ async function render() {
   const views = { report: viewReport, vegetables: () => viewCatalog('veg'), fruits: () => viewCatalog('fruit'), search: viewSearch, prices: viewSearch, item: () => viewItem(route.id), alerts: viewAlerts, compare: viewCompare, bots: viewBots };
   const active = route.name === 'item' ? (state.lastTab || 'search') : route.name === 'prices' ? 'search' : route.name;
   if (route.name !== 'item') state.lastTab = active;
-  app.innerHTML = shell((views[route.name] || viewReport)(), active);
-  drawCharts(route);
+  try {
+    app.innerHTML = shell((views[route.name] || viewReport)(), active);
+    drawCharts(route);
+  } catch (err) {
+    console.error('Render error:', err);
+    app.innerHTML = shell(`<div class="card center"><p>${esc(err.message || String(err))}</p><button class="btn" data-act="refresh">⟳ ${t('refresh')}</button></div>`, active);
+  }
   if (route.name === 'item') window.scrollTo(0, 0);
 }
 

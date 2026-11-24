@@ -181,7 +181,9 @@ function renderBotCard(b, prevBot, lang, t, esc) {
             <b>❌ Step ${b.failed_step.step_number} (${esc(b.failed_step.title)})</b>
             <p>${esc(b.failed_step.error_reason)}</p>
             <button type="button" class="btn small-btn pdf" data-bot-debug="${esc(b.store_id)}">📋 ${t('copyDebug')}</button>
-          </div>` : ''}
+            ${b.items_checked > 0 ? `<div style="margin-top:8px"><a class="btn small-btn scan-btn" href="#/compare">📊 ${t('marketCompare')} →</a></div>` : ''}
+      </div>` : ''}
+        ${b.items_checked > 0 ? `<div style="margin-top:8px"><a class="btn small-btn scan-btn" href="#/compare">📊 ${t('marketCompare')} →</a></div>` : ''}
       </div>` : ''}
   </div>`;
 }

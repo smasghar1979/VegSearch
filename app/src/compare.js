@@ -47,18 +47,20 @@ function saveCustomStores() {
 }
 
 function getSelectedStores(marketData) {
+  const stores = marketData?.stores || {};
+  const okIds = Object.values(stores).filter((s) => s.item_count > 0).map((s) => s.id);
+  const customIds = cmpState.customStores.filter((c) => c.visible !== false).map((c) => c.id);
   if (cmpState.selectedStores) return cmpState.selectedStores;
   try {
     const saved = JSON.parse(localStorage.getItem(LS_SELECTED) || 'null');
     if (Array.isArray(saved) && saved.length) {
-      cmpState.selectedStores = saved;
-      return saved;
+      // Auto-include any newly working stores that weren't active before
+      const merged = [...new Set([...saved, ...okIds, ...customIds])];
+      cmpState.selectedStores = merged;
+      return merged;
     }
   } catch {}
-  const stores = marketData?.stores || {};
-  const okIds = Object.values(stores).filter((s) => s.item_count > 0).map((s) => s.id);
-  const customIds = cmpState.customStores.filter((c) => c.visible !== false).map((c) => c.id);
-  const init = [...(okIds.length ? okIds : ['metro', 'freshbasket', 'royalbasket', 'carrefour']), ...customIds];
+  const init = [...new Set([...(okIds.length ? okIds : ['metro', 'freshbasket', 'royalbasket', 'carrefour']), ...customIds])];
   cmpState.selectedStores = init;
   return init;
 }
@@ -105,14 +107,25 @@ function buildRows(ctx) {
   const activeCols = all.filter((c) => selSet.has(c.id));
   const q = cmpState.query.trim().toLowerCase();
 
-  let items = (data?.items || []).filter((i) => i.cat === cmpState.cat);
+  const byId = new Map();
+  for (const it of data?.items || []) {
+    if (it.cat === cmpState.cat) byId.set(it.id, it);
+  }
+  for (const col of activeCols) {
+    for (const id of Object.keys(col.items || {})) {
+      if (!byId.has(id) && MASTER_MAP[id]?.cat === cmpState.cat) {
+        byId.set(id, { ...MASTER_MAP[id], w: null, r: null, series: [] });
+      }
+    }
+  }
+  let items = [...byId.values()];
   if (q) items = items.filter((i) => `${i.en} ${i.ur} ${i.id}`.toLowerCase().includes(q));
 
   return {
     activeCols,
     rows: items.map((it) => {
-      const mandi = it.w ?? latestInfo(it, 'w').val;
-      const retail = it.r ?? latestInfo(it, 'r').val;
+      const mandi = it.w > 0 ? it.w : latestInfo(it, 'w').val;
+      const retail = it.r > 0 ? it.r : latestInfo(it, 'r').val;
       const base = cmpState.baseline === 'w' ? (mandi ?? retail) : (retail ?? mandi);
 
       const offers = [];
@@ -138,7 +151,9 @@ function buildRows(ctx) {
 
 function fmtShort(d, lang) {
   if (!d) return '—';
-  const dt = new Date(d + 'T12:00:00');
+  const iso = String(d).slice(0, 10);
+  const dt = new Date(iso + 'T12:00:00');
+  if (Number.isNaN(dt.getTime())) return String(d);
   return new Intl.DateTimeFormat(lang === 'ur' ? 'ur-PK' : 'en-GB', { day: 'numeric', month: 'short', numberingSystem: 'latn' }).format(dt);
 }
 
