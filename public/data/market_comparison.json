@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T12:18:21.378Z",
+  "generated_at": "2026-11-24T15:45:39.459Z",
   "date_pkt": "2026-11-24",
-  "run_at_pkt": "24 Nov, 5:18 pm PKT",
+  "run_at_pkt": "24 Nov, 8:45 pm PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -727,7 +727,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "grapes": {
           "id": "grapes",
@@ -766,7 +766,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "kiwi": {
           "id": "kiwi",
@@ -831,7 +831,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_kala_kulu": {
           "id": "apple_kala_kulu",
@@ -870,7 +870,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pomegranate": {
           "id": "pomegranate",
@@ -883,7 +883,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pear": {
           "id": "pear",
@@ -896,7 +896,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pineapple": {
           "id": "pineapple",
@@ -1000,7 +1000,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         }
       }
     },
@@ -1138,7 +1138,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_gala": {
           "id": "apple_gala",
@@ -1177,7 +1177,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "persimmon": {
           "id": "persimmon",
@@ -1190,7 +1190,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pear": {
           "id": "pear",
@@ -1203,7 +1203,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "mosambi": {
           "id": "mosambi",
@@ -1229,7 +1229,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "coconut": {
           "id": "coconut",
@@ -1255,7 +1255,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_kala_kulu": {
           "id": "apple_kala_kulu",
@@ -1268,7 +1268,7 @@
           "last_checked_date": "2026-11-24",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "lemon": {
           "id": "lemon",
