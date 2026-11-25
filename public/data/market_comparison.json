@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T14:24:06.567Z",
+  "generated_at": "2026-11-25T14:44:54.921Z",
   "date_pkt": "2026-11-25",
-  "run_at_pkt": "25 Nov, 7:24 pm PKT",
+  "run_at_pkt": "25 Nov, 7:44 pm PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -766,7 +766,7 @@
           "last_checked_date": "2026-11-25",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_golden": {
           "id": "apple_golden",
@@ -831,7 +831,7 @@
           "last_checked_date": "2026-11-25",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pomegranate_kandhari": {
           "id": "pomegranate_kandhari",
@@ -1112,7 +1112,7 @@
           "last_checked_date": "2026-11-25",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pear": {
           "id": "pear",
@@ -1229,7 +1229,7 @@
           "last_checked_date": "2026-11-25",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "lemon": {
           "id": "lemon",
@@ -1307,7 +1307,7 @@
           "last_checked_date": "2026-11-25",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "tomato": {
           "id": "tomato",
@@ -1372,7 +1372,7 @@
           "last_checked_date": "2026-11-25",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "mint": {
           "id": "mint",
