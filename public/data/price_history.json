@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T03:26:15.054Z",
+  "updated_at": "2026-11-25T06:23:53.648Z",
   "date_pkt": "2026-11-25",
   "stores": {
     "carrefour": {},
@@ -347,10 +347,10 @@
     },
     "freshbasket": {
       "tomato": {
-        "price": 132,
+        "price": 124,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -362,7 +362,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 132
+            "p": 124
           }
         ]
       },
@@ -387,10 +387,10 @@
         ]
       },
       "coriander": {
-        "price": 30,
+        "price": 35,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -402,7 +402,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 30
+            "p": 35
           }
         ]
       },
@@ -487,10 +487,10 @@
         ]
       },
       "potato": {
-        "price": 80,
+        "price": 100,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -502,15 +502,15 @@
           },
           {
             "d": "2026-11-25",
-            "p": 80
+            "p": 100
           }
         ]
       },
       "capsicum": {
-        "price": 25,
+        "price": 30,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -522,7 +522,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 25
+            "p": 30
           }
         ]
       },
@@ -627,10 +627,10 @@
         ]
       },
       "cauliflower": {
-        "price": 346,
+        "price": 300,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -642,7 +642,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 346
+            "p": 300
           }
         ]
       },
@@ -707,10 +707,10 @@
         ]
       },
       "peas": {
-        "price": 584,
+        "price": 524,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -722,15 +722,15 @@
           },
           {
             "d": "2026-11-25",
-            "p": 584
+            "p": 524
           }
         ]
       },
       "cabbage": {
-        "price": 120,
+        "price": 140,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -742,15 +742,15 @@
           },
           {
             "d": "2026-11-25",
-            "p": 120
+            "p": 140
           }
         ]
       },
       "spinach": {
-        "price": 120,
+        "price": 130,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -762,7 +762,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 120
+            "p": 130
           }
         ]
       },
@@ -827,10 +827,10 @@
         ]
       },
       "beans": {
-        "price": 376,
+        "price": 400,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -842,7 +842,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 376
+            "p": 400
           }
         ]
       },
@@ -907,10 +907,10 @@
         ]
       },
       "bitter_gourd": {
-        "price": 196,
+        "price": 180,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -922,7 +922,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 196
+            "p": 180
           }
         ]
       },
@@ -1087,7 +1087,7 @@
         ]
       },
       "apple": {
-        "price": 340,
+        "price": 470,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-25",
@@ -1102,7 +1102,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 340
+            "p": 470
           }
         ]
       },
@@ -1127,10 +1127,10 @@
         ]
       },
       "melon": {
-        "price": 295,
+        "price": 480,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -1142,7 +1142,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 295
+            "p": 480
           }
         ]
       },
@@ -1698,10 +1698,10 @@
         ]
       },
       "persimmon": {
-        "price": 880,
+        "price": 896,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -1713,7 +1713,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 880
+            "p": 896
           }
         ]
       },
@@ -1858,10 +1858,10 @@
         ]
       },
       "guava": {
-        "price": 420,
+        "price": 472,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -1873,7 +1873,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 420
+            "p": 472
           }
         ]
       },
@@ -2194,6 +2194,18 @@
           {
             "d": "2026-11-25",
             "p": 1460
+          }
+        ]
+      },
+      "cabbage": {
+        "price": 120,
+        "last_checked_date": "2026-11-25",
+        "site_reported_date": null,
+        "price_last_changed_date": "2026-11-25",
+        "log": [
+          {
+            "d": "2026-11-25",
+            "p": 120
           }
         ]
       }
