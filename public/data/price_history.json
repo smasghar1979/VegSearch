@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T06:23:53.648Z",
+  "updated_at": "2026-11-25T14:24:06.567Z",
   "date_pkt": "2026-11-25",
   "stores": {
     "carrefour": {},
@@ -1127,7 +1127,7 @@
         ]
       },
       "melon": {
-        "price": 480,
+        "price": 295,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-25",
@@ -1142,12 +1142,12 @@
           },
           {
             "d": "2026-11-25",
-            "p": 480
+            "p": 295
           }
         ]
       },
       "guava": {
-        "price": 430,
+        "price": 465,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-25",
@@ -1162,7 +1162,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 430
+            "p": 465
           }
         ]
       },
@@ -1698,7 +1698,7 @@
         ]
       },
       "persimmon": {
-        "price": 896,
+        "price": 884,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
         "price_last_changed_date": "2026-11-25",
@@ -1713,7 +1713,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 896
+            "p": 884
           }
         ]
       },
@@ -1818,10 +1818,10 @@
         ]
       },
       "apple_kala_kulu": {
-        "price": 720,
+        "price": 712,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-24",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -1833,7 +1833,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 720
+            "p": 712
           }
         ]
       },
@@ -1938,10 +1938,10 @@
         ]
       },
       "strawberry": {
-        "price": 188,
+        "price": 199,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -1953,7 +1953,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 188
+            "p": 199
           }
         ]
       },
@@ -2038,10 +2038,10 @@
         ]
       },
       "onion": {
-        "price": 196,
+        "price": 168,
         "last_checked_date": "2026-11-25",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-23",
+        "price_last_changed_date": "2026-11-25",
         "log": [
           {
             "d": "2026-11-23",
@@ -2053,7 +2053,7 @@
           },
           {
             "d": "2026-11-25",
-            "p": 196
+            "p": 168
           }
         ]
       },
