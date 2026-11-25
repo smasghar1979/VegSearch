@@ -32,7 +32,7 @@ async function ingest(days, { buf, mime, url, kind, date, listedDate }) {
   const map = Object.fromEntries(day.items.map((i) => [i.id, i]));
   for (const it of items) map[it.id] = it;
   day.items = Object.values(map);
-  day.files = [...(day.files || []).filter((f) => f.kind !== kind), { kind, url, listedDate: listedDate || null, printedDate: ext.date || null }];
+  day.files = [...(day.files || []).filter((f) => f.kind !== kind), { kind, url, count: items.length, listedDate: listedDate || null, printedDate: ext.date || null }];
   day.updatedAt = new Date().toISOString();
   saveDay(day);
   days[date] = day;
@@ -63,7 +63,7 @@ async function main() {
     for (const l of lists) {
       const date = l.date || today;
       if (date > today) continue;
-      if (days[date]?.files?.some((f) => f.url === l.url)) { console.log(`Already have ${l.kind} for ${date}`); continue; }
+      if (days[date]?.files?.some((f) => f.url === l.url && (f.count ?? 99) >= 5)) { console.log(`Already have ${l.kind} for ${date}`); continue; }
       if (!hasGemini()) { failed++; continue; }
       attempted++;
       try {

@@ -145,7 +145,8 @@ export async function handleForceUpdateClick(e, { rerender, reloadAll, toast, t 
     return true;
   }
   if (act === 'run-cloud') {
-    const token = localStorage.getItem(LS_GH_TOKEN) || document.getElementById('ghTokenInput')?.value.trim() || '';
+    const inputVal = document.getElementById('ghTokenInput')?.value.trim() || '';
+    const token = inputVal || localStorage.getItem(LS_GH_TOKEN) || '';
     if (!token) {
       forceState.statusText = 'Please paste a GitHub Token (with workflow scope) above, or use "Refresh Published Data Only".';
       rerender();

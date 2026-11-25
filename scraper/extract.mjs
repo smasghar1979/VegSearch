@@ -43,8 +43,9 @@ Extract ONLY vegetables and fruits. For every item row return:
 - grade: 1, 2 or null.
 - name_en, name_ur: names as printed (Urdu script for name_ur), including the grade words.
 - category: veg or fruit. unit: kg by default; "فی درجن" = dozen; "فی دانہ" = piece; "گڈی" = bunch.
-- auction, wholesale, retail: numbers in PKR exactly as printed. Never invent or guess numbers.
-Note: normally wholesale ≈ auction × 1.06 and retail ≈ wholesale × 1.15 — use this only to double-check your reading of digits.
+- auction, wholesale, retail: numbers in PKR exactly as printed. Never invent or guess numbers. Never read a vertical table border line as the digit "1" (for example, "84|" is 84, NOT 841).
+- IMPORTANT: Extract EVERY row from BOTH the right-hand table AND the left-hand table (typically 15 to 45 items per page). Do NOT stop after the first row.
+Note: normally wholesale ≈ auction × 1.06 and retail ≈ wholesale × 1.15, and ALWAYS auction <= wholesale <= retail — use this to catch misread digits.
 
 KNOWN ids:
 ${known.join('\n')}`;
@@ -62,8 +63,8 @@ ${rules(extraIds)}`;
   const media = buf ? { inline_data: { mime_type: mime, data: buf.toString('base64') } } : { text: `DOCUMENT TEXT:\n${text.slice(0, 60000)}` };
   const first = await geminiJSON([{ text: prompt }, media], { schema: SCHEMA });
   if (!first.is_price_list || !first.items?.length) return first;
-  // Save 50% of daily Gemini quota when first pass already extracted a full list
-  if (first.items.length >= 12) return clean(first);
+  // Save 50% of daily Gemini quota when first pass already extracted a full, sane list
+  if (first.items.length >= 12 && !hasSuspiciousRows(first)) return clean(first);
 
   // Second pass: verification against the image (catches mis-aligned rows / misread digits).
   try {
@@ -87,7 +88,21 @@ ${JSON.stringify(first)}`;
   return clean(first);
 }
 
+function hasSuspiciousRows(out) {
+  const items = out?.items || [];
+  if (items.length < 12) return true;
+  return items.some((i) => (i.wholesale && i.retail && i.wholesale > i.retail * 1.1) || (i.auction && i.wholesale && i.auction > i.wholesale * 1.1));
+}
+
 function clean(out) {
-  out.items = (out.items || []).filter((i) => i && i.id && (i.auction != null || i.wholesale != null || i.retail != null));
+  out.items = (out.items || [])
+    .filter((i) => i && i.id && (i.auction != null || i.wholesale != null || i.retail != null))
+    .map((i) => {
+      // Drop clearly corrupted OCR digit (e.g. 841 vs retail 97) rather than publishing wrong rate
+      if (i.wholesale && i.retail && i.wholesale > i.retail * 1.25) {
+        return { ...i, wholesale: Math.round(i.retail / 1.15) };
+      }
+      return i;
+    });
   return out;
 }
