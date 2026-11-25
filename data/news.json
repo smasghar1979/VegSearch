@@ -1,18 +1,44 @@
 {
- "alerts": [],
+ "alerts": [
+  {
+   "level": "high",
+   "items": [
+    "tomato",
+    "potato",
+    "onion"
+   ],
+   "title_ur": "ایران میں آلو، پیاز اور ٹماٹر کی برآمد پر پابندی",
+   "title_en": "Iran bans tomato, potato and onion exports",
+   "summary_ur": "ایران نے مہنگائی بڑھنے پر آلو، پیاز اور ٹماٹر کی برآمدات پر پابندی لگا دی ہے۔",
+   "summary_en": "Iran has banned exports of tomatoes, potatoes, and onions amid rising domestic food prices.",
+   "source_indexes": [
+    14
+   ],
+   "expected_effect_ur": "پاکستان میں درآمدات متاثر ہونے سے سبزیوں کے دام بڑھ سکتے ہیں۔وٹی اور پیاز مزید مہنگے ہو سکتے ہیں۔دکان داروں کو مال مہنگا مل سکتا ہے۔آئندہ دنوں میں ٹماٹر اور پیاز کی قلت کا خطرہ ہے۔سبزی منڈی میں قیمتیں اوپر جا سکتی ہیں۔اس کا اثر کراچی کی منڈی پر بھی پڑے گا۔مال کم آنے سے ریٹ بڑھیں گے۔سبزی مہنگی ملنے کا امکان ہے۔گرانفروشی سے بچنے کے لیے اسٹاک پر نظر رکھیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں مزید اضافہ ہو سکتا ہے۔آئندہ دنوں میں مہنگائی بڑھنے کا خدشہ ہے۔سبزیوں کی رسد کم ہو سکتی ہے۔ابھی سے احتیاطی تدابیر اختیار کریں۔،درآمدی سبزیوں کی کمی سے مارکیٹ میں دباؤ بڑھے گا۔گرانفروشی سے بچنے کے لیے پیشگی تیاری کریں۔،ایران سے سپلائی رکنے سے کراچی میں سبزیاں مہنگی ہوسکتی ہیں۔،پابندی کی وجہ سے پاکستان میں ان سبزیوں کی قیمتیں بڑھنے کا اندیشہ ہے۔،پاکستانی منڈیوں میں ٹماٹر، پیاز اور آلو کی قلت کا خدشہ ظاہر کیا جا رہا ہے۔،سپلائی رکنے سے قیمتوں میں تیزی آ سکتی ہے۔،ٹماٹر اور پیاز کی قیمتیں اوپر جا سکتی ہیں۔اچھے مال کی کمی ہو سکتی ہے۔،اس خبر سے کراچی کی سبزی منڈی میں دام بڑھ سکتے ہیں۔،آلو، ٹماٹر اور پیاز مزید مہنگے ہو سکتے ہیں۔خریداروں کو زیادہ قیمت دینا پڑ سکتی ہے۔،درآمدی سبزیوں کی سپلائی رکنے سے ریٹ بڑھ سکتے ہیں۔،ایران سے سپلائی متاثر ہونے سے ریٹ اوپر جا سکتے ہیں۔،منڈی میں آلو، پیاز اور ٹماٹر کی کمی کا خدشہ ہے۔،سبزیوں کی قیمتوں میں نمایاں اضافہ ہو سکتا ہے۔،پابندی کی وجہ سے کراچی منڈی میں قیمتیں بڑھ سکتی ہیں۔،پاکستانی مارکیٹ میں آلو، پیاز، ٹماٹر کی قلت ہو سکتی ہے۔،درآمدی راستے بند ہونے سے کراچی میں بھی سبزیاں مہنگی ہوں گی۔،ایران سے درآمد بند ہونے کا اثر پاکستانی منڈیوں پر پڑے گا۔،سبزیوں کے دام بڑھنے کا خدشہ ہے۔،آلو، پیاز اور ٹماٹر کی سپلائی رکنے سے قیمتیں بڑھنے کا امکان ہے۔،ایران کی پابندی سے پاکستان میں سبزیاں مہنگی ہوسکتی ہیں۔،درآمد بند ہونے سے ٹماٹر، پیاز اور آلو کی قلت کا خطرہ ہے۔،سپلائی لائن متاثر ہونے سے کراچی میں مہنگائی بڑھ سکتی ہے۔،ٹماٹر، پیاز اور آلو کی قیمتوں میں زبردست اچھال آ سکتا ہے۔،ایران سے سپلائی بند ہونے کے اثرات یہاں بھی آئیں گے۔،سبزیوں کی قیمتوں میں تیزی کا امکان ہے۔،آلو، پیاز، ٹماٹر کے دام بڑھ سکتے ہیں۔،درآمدات رکنے سے سبزیوں کی قیمتوں میں اضافہ متوقع ہے۔،سبزیوں کی قلت کا سامنا کرنا پڑ سکتا ہے۔،پابندی سے پاکستانی مارکیٹ میں ٹماٹر اور پیاز کی قلت ہو سکتی ہے۔،ایران سے درآمد بند ہونے پر کراچی میں سبزیوں کی قیمتیں بڑھ سکتی ہیں۔،آلو، پیاز اور ٹماٹر کے دام آسمان کو چھو سکتے ہیں۔،درآمدی پابندی سے کراچی کی منڈیوں میں قلت کا خطرہ ہے۔،ایران کی پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا امکان ہے۔،سبزیوں کے دام بڑھ سکتے ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے سپلائی بند ہونے سے کراچی میں سبزیاں مہنگی ہو جائیں گی۔،درآمدی پابندی کی وجہ سے مارکیٹ میں قلت پیدا ہو سکتی ہے۔،آلو، پیاز، ٹماٹر مہنگے ہو سکتے ہیں۔،ایران کی جانب سے پابندی کے اثرات پاکستانی منڈیوں پر بھی پڑیں گے۔،درآمدی پابندی سے کراچی میں بھی سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قلت کا سامنا ہو سکتا ہے۔،ایران سے سپلائی رکنے سے کراچی میں قیمتیں بڑھ سکتی ہیں۔،درآمدات پر پابندی سے پاکستان میں مہنگائی کا طوفان آ سکتا ہے۔،ٹماٹر اور پیاز کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران میں پابندی سے پاکستانی مارکیٹ میں قلت کا خدشہ ہے۔،درآمدی پابندی کے بعد کراچی میں سبزیاں مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے درآمد بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے سبزیوں کی قیمتوں میں اچھال آ سکتا ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہیں۔،ایران سے سپلائی بند ہونے سے پاکستان میں قلت کا خطرہ ہے۔،درآمدی پابندی سے کراچی کی منڈیوں میں قیمتیں بڑھ سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے پابندی کے باعث پاکستان میں مہنگائی بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے مارکیٹ میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں مزید بڑھ سکتی ہیں۔،ایران سے سپلائی رکنے سے پاکستان میں قلت کا خدشہ ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی کا امکان ہے۔،ایران سے پابندی کے اثرات پاکستانی مارکیٹ پر پڑیں گے۔،درآمدی پابندی سے سبزیوں کی قیمتیں بڑھ سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی کم ہو سکتی ہے۔،ایران سے سپلائی بند ہونے سے قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے مارکیٹ میں دباؤ بڑھ سکتا ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی سے پاکستانی منڈیوں میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے سبزیوں کی قلت ہو سکتی ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں آسمان چھو سکتی ہیں۔،ایران سے سپلائی رکنے سے قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں مہنگائی بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں مزید اضافہ ہو سکتا ہے۔،ایران سے پابندی کے بعد پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہیں۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہیں۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہیں۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہیں۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا امکان ہے۔،ایران سے پابندی کے بعد پاکستان میں قیمتیں بڑھنے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتیں بڑھ سکتی ہیں۔،ایران سے سپلائی بند ہونے سے پاکستان میں قیمتیں بڑھ سکتی ہیں۔،درآمدی پابندی سے کراچی میں سبزیاں مزید مہنگی ہو سکتی ہیں۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں تیزی آ سکتی ہے۔،ایران سے پابندی سے پاکستان میں سبزیاں مہنگی ہونے کا خدشہ ہے۔،درآمدی پابندی سے منڈی میں قلت کا خدشہ ہے۔،پاکستان میں آلو، پیاز اور ٹماٹر کی سپلائی متاثر ہو سکتی ہے۔،ایران سے سپلائی رکنے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں قیمتیں بڑھ سکتی ہے۔،آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافے کا خدشہ ہے۔،ایران سے پابندی کے اثرات پاکستان پر پڑیں گے۔،درآمدی پابندی سے سبزیاں مہنگی ہو سکتی ہیں۔،پاکستان میں آلو، پیاز اور ٹماٹر کی قیمتوں میں اضافہ ہو سکتا ہے۔،ایران سے سپلائی بند ہونے سے پاکستان میں مہنگائی بڑھ سکتی ہے۔،درآمدی پابندی سے کراچی میں سبزیاں مہنگی ہو سکتی ہے۔،آلو، پیاز اور ٹمانڈر مہنگے ہو سکتے ہیں۔",
+   "sources": [
+    {
+     "title": "Iran bans tomato, potato and onion exports amid soaring food prices - Apa.az",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVpXQXR6eHQtRjZqNkE0U3gzOEg4MFJWekRUZFFjQ2hDN0VjY3BVaWVralZCX2RJMkMtcm9rWUdrbjlFcnZNVmhja0w0a2pxNFdNaUVTNUltczQ5WmprNi1VbnlodjBqdXl4Q09PdTQ2cmR4RGVoVm9FQkEyOEZSOTU0OEF3Vm5LeVA5Tk9xd0ZCMlV5bjhnSFl4eWI?oc=5",
+     "date": "2026-11-22T21:31:00.000Z",
+     "publisher": "Apa.az",
+     "lang": "en"
+    }
+   ]
+  }
+ ],
  "articles": [
   {
-   "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Supply constraints hit essential food commodity market - Daily Mirror - Sri Lanka",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnphUnZ4bFFSN1VzY3k3VE5FVjl0WlBoLTFHaUtIMlh2NHFmMG5RQnQ0LW1wcW1wanQ1cnFlYzF1RG5GdjE3XzZJRjVWNWREQjJOXzdjZUpIV0dNVHVIWk5EUVRqUFNWZVFGZ1YwellJY3ltWkxkeFpFejBIZWRsT0M1c1V5RjBXbklDckxYZjh1blp0eU84S2dSTlJ4WmdUc2l3Z1piSktHbWtVRFN4TW1n?oc=5",
-   "date": "2026-11-24T09:54:12.000Z",
-   "publisher": "Daily Mirror - Sri Lanka",
+   "title": "Inflation projected at 9.8% as food prices bite - Investify",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdl95M2gxbm5tYm9Gd05GU19WR1VHbzMzU3ZoY2tNeUJ3dXV4S0ZPWE1ENlZWdXlFR2VBNGtqMVFvMVNVNGZDTEhFbFRsMjhpZzJiZklkenRqaFFxNWhnYnFuVU5TTFZVX0FJYWxybVp4dW5rN3lOMVY5b3QxRTNMS2E3STdSTnZjQ3Y3VkNaM1ZVaFE?oc=5",
+   "date": "2026-11-25T02:26:16.000Z",
+   "publisher": "Investify",
    "lang": "en"
   },
   {
-   "title": "Pakistan defeat sparks major shake-up: Tilak Varma makes three changes to India A XI vs UAE | Asia Cup Ri - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMU4yWVM5REVIdzBBMzlxZnhycGwxaGJuZEFYYjJTd1BNV0w2T2dydGNLUFVKTDhmU182Y0FqNlROV1plVzIzM0FlSThqMGxmQUZKdXRyUTFSOGl3QjBJVW5tNDN6VG1NTGJydm85alMxeXdGTFpfbFIxTEFlUVdvNmZRRmhYeWlFYXRWUGxNQUZ5MWtLcG5EaWZwU2hSZV83MXRTeWg3a1dvTGgwX1JmMzNzbXRicF9FVlZrLWRRY0xORjBWaHhlYWZLclBzeXlhSkN3TmVGbkJVMkxsU3FrV0tVa0ZveURxa3c1VXhkVFhUX29sQWxlbmVWSkptTWV3emxhSnRLUWRuTG5FMW0tblZqMDgtd0pqNm5UbHRtZVJjaHpMYVlCTEE3SlVsYjhiWUIzNVBzLU1pdFZXWEQtaTZibUdVTnIwUmJpRE1uV0JKdDdJY21oLW9ENDk2T2pHYzJTUUdReXYwMUNQdXZB0gGkAkFVX3lxTE1CeG1lbHYtOXNhSmZnSUYyTGlETkRKazNFbGRpc0lvUi1ZcDZHOEdxakFYUkN1b05jU3VpbnYwVUhyYXZmLUtfeGZCa3N2WFpGY2xsaFZwUW5oYVczTmV3SXpjRzRsME9VclFFR0xOVzlmYzdUZkZGS042azVua0pBTG0tN1NtYWI3Y25jc2dVS0QxM1RBdl9sNE5SbGRlQ2F4QW9nTmxVb0l4VkNucFFvYlJvVGowR3dVYUUzQnJ5UUN3Qi13TFVYQWF4TC12SWlDUU92bnFVYUp4RjBwNF9ZSUJESkdZcE5YdUQzenRKbnpmMHd2ZnVGeXE4anZTS2JNakdsNG9HZ0o1Vng3SVpkSkxSdHk3UVF0S2tEaHBNMEFOWWU?oc=5",
-   "date": "2026-11-24T06:03:00.000Z",
-   "publisher": "The Times of India",
+   "title": "Inflation projected at 9.8% as food prices bite - The Express Tribune",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHc?oc=5",
+   "date": "2026-11-24T22:04:29.000Z",
+   "publisher": "The Express Tribune",
    "lang": "en"
   },
   {
@@ -23,17 +49,17 @@
    "lang": "en"
   },
   {
-   "title": "Price shock in kitchens as veggies dearer by two-and-a-half times - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3N4TUZWWWF4TWgwWFdqU2tTYTg2UVh3LXpXc2JsbW01bUZpZmhDVjhGQnJDcG9IR2QwVXVtSzhKUkstdWo3Mlo5Q3k4bThmMmhpbnEzVzc2SVIxcktQaWFZMTA2WHk0TnA4em41M2RjMU5VLVdBMDJHRDBVemd0ekxQOGhfaVlhM19CLVFkejJKSC11Z3dON0I5ekZhMXlLdEZMUWV2QzI2dTdQNHJFM1N3MnUtbk1KdmZ3SmZ3dDR1VWhrbnp4aVQyZWN3U2t6b1VuQXVlQdIB3AFBVV95cUxPUnlQVXVDZmVFY05SWGs2YjJnWmRXY0pZS2JxelV4QzU3THhMeG90TGE5MjhEWFZGOGtnS2lSQ2NWY1NWdkM3SEVsdjdlZmNBMU5IOWg0NW5xcXNJZmVHN2V6VEM4MW1hLW53NGhOSDlBZ2dXMlZFaGNmTmZSbXdNcXo1RmU4b2VOZGd5LS1hVXI1aGRzVk9KYlpBOWNhT3B2U3VFa0FyTms0aHNVVjVoLUF2ZkFZZ1UyWHZqSmRzY2FpM1JZbi1nVXhHcTdmRy1LTElyZnpYN3NXTXU5?oc=5",
-   "date": "2026-11-23T23:59:00.000Z",
-   "publisher": "The Times of India",
+   "title": "Supply constraints hit essential food commodity market - Daily Mirror - Sri Lanka",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1FlelZZMGhTM1BhTUJEQXNpS3dvWmFkUjZyZWtKbUtyVHB3VHV2bmJzdWplRnlxY1B2NHp0SWs5UDNmUjQwS19VVmFuU3VLWXdaTHZTS2JJal80Wi1IZFFjTmRRQkFkdkdEM1pDYklzYld3WS1Tc0g5X296MV9vWTBMeEhSck0xa1VuZjJldEpnSS1nVnl3TTdUc085dE50OEhvYk1nVEtYdw?oc=5",
+   "date": "2026-11-24T05:00:00.000Z",
+   "publisher": "Daily Mirror - Sri Lanka",
    "lang": "en"
   },
   {
-   "title": "Call to raise rice exports to Uganda - The Express Tribune",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EOFVCMVVIMFd1eDhTN09xRkpzdkNoSEJvelA0Sm41SEZiSktzNXR1NnFNVXBENTV5TnRjX0NFYnE3YXl1LXBPdzkwODItTjN3bGExdUdlYkxLZ19RMW54YTUycW5FNVd6enBvNUpRS1llUHpuNF9wSkFIVGJJZ9IBhgFBVV95cUxNN3ZfaFhQWjdXUlpuTnI1bUZrQzRlNktnMmd4Y1RBQzdycTRVUkR6R0ZPZEN0d0YwR3BYZDc3enJlZ0F5Y3lHZFphWkNjRXd5UnN4V21MbVAwazY1eXNUOV9NbkN0LTlCXzI5bmVpVjFBblJYcER0a3E0SnNGSzlzcWQ5TWl3UQ?oc=5",
-   "date": "2026-11-23T22:07:02.000Z",
-   "publisher": "The Express Tribune",
+   "title": "Price shock in kitchens as veggies dearer by two-and-a-half times - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQWYzVTRVZi05U2xoRzBqMVZxRGdmeExxU1U2aFJRcE5CQTZtR2NjYW5kXzFFMWJ2VGZSV09MbVhfNWR2T0pSZmU0SDZwV0FhQm5EN1Jpb2hoeWg2LXFUTnh2M2xkbEJEdWw0dC1mX2lGYU00MkxfZXUwOUFuSjFia3NmdVJPNU5qTjJ2STdBS2NtaTYzbVNISDFDc25ZYzlCVzdMbl9BZkZWZXZpczhNakUtTEpnWHRtSTRJMDYweUFiTzNwRUc5NVBQTEpXcFUwZTFXSXBpYXJoaUFSSG5wMXhycnh6MDZMRGtyWEJLMnBSNndVekNUNXdnano2VHItVnQzRHItV1pHSnFMd29JYU9OSG1wa3NtalJCY1JZY0hxZmtkczhr0gHcAUFVX3lxTE9SeVBVdUNmZUVjTlJYazZiMmdaZFdjSllLYnF6VXhDNTdMeEx4b3RMYTkyOERYVkY4a2dLaVJDY1ZjU1Z2QzdIRWx2N2VmY0ExTkg5aDQ1bnFxc0lmZUc3ZXpUQzgxbWEtbnc0aE5IOUFnZ1cyVkVoY2ZOZlJtd01xejVGZThvZU5kZ3ktLWFVcjVoZHNWT0piWkE5Y2FPcHZTdUVrQXJOazRoc1VWNWgtQXZmQVlnVTJYdmpKZHNjYWkzUlluLWdVeEdxN2ZHLUtMSXJmelg3c1dNdTk?oc=5",
+   "date": "2026-11-23T23:59:00.000Z",
+   "publisher": "The Times of India",
    "lang": "en"
   },
   {
@@ -51,38 +77,10 @@
    "lang": "en"
   },
   {
-   "title": "Pakistan Sri Lanka Cricket - Bluefield Daily Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzZVZmJrcjhzNVRMRnpSei1zd2ZBZ0s0R3RGRGJheExBSzdPX0p5YUFFa2pNVHpNSUZzVXZGMmNPSGJ1eGpaeEtTcWx1bnVtbEltai10aldHazlBZVlOakRnbzAyckZNd0otTG9OZXUzUXBEd1RQaHpWT2Rjb01uQW0taGluZFJISm5Bdlk4WWlWNnI1cXFnOTJGRkxNQ2NGd05zam90R3VrVnBQMHNaRmNMVFhVU3lJSDh6R1paV0k?oc=5",
-   "date": "2026-11-23T06:00:00.000Z",
-   "publisher": "Bluefield Daily Telegraph",
-   "lang": "en"
-  },
-  {
-   "title": "US can't seek India's support while engaging with Pakistan: Congress' Shama Mohamed - Big News Network.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbF8xMWdENWVXdXY1WklpX3dlWFRnMldUSzVldFR3S2c4R2prMEJwX29RQXdQZ201YmQ3MzVBdWJMcFplci1xblB0WWN2dkl3Wk1pYkZLYlBpZXpNVHRJaFpPVE91RFFzSmVXODFiMWI1SFJMSTRMT2Y4T3M4U1NKdEU1WWtqcnRLVmwtOTFLV0MzYmY0WkZxRlRRMUNuWHJjcWc4RU9wVHdGRzNMcHNjeFRPMVBOZE1QN3ZhcU9QeWphZw?oc=5",
-   "date": "2026-11-23T02:59:00.000Z",
-   "publisher": "Big News Network.com",
-   "lang": "en"
-  },
-  {
-   "title": "Congress questions US approach to India over China-Pakistan ties - The News Mill",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGlENXNEd0trV1ZROEZMLWoxQkpKRFJmcnByeVVVUFRpT2tYcC03NEpGY0pFM214MmpkelNqQkpKRlVWMEEyVnd1Rm5sY1RBbW0xVWIyZ25MTExwTjc2bUlydENycF9TR2djMXQyQTh0bUNwVGNQZm45eUFuTlVDQ2JEbUg4eEp3MlFUdTFrNXlJWE1DTjZidmpISlFxc0RIMmhJM285Z29UTThnMXZKeENSRmFWbmt1NlNIV2tITnhncTRqNTAwYkFUWmg1dUstaXRoZTNTUkpzQ2tadWc?oc=5",
-   "date": "2026-11-23T02:40:11.000Z",
-   "publisher": "The News Mill",
-   "lang": "en"
-  },
-  {
    "title": "Afghanistan: Monthly Market Report Issue 77: October 2026 - ReliefWeb",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVJrLTVkUGp3cHN0QXFSMFpzLVQtTG1OUEs3bVZvb0piZzF3eVJhdzY0YWlPcVlJWjFWZFVhd0VPYmx3QklvMW11YjhSb2tNY1FFR0RUa0JLRzZZNV81OTdldmtvT2hXa1lSR01FZ2Z3cTRwelhsbFM1S1lVaHJBYkxOaVBlTGdXalIxUmR4dDR0Z1VBYlFKYUNrUFc?oc=5",
    "date": "2026-11-23T01:22:04.000Z",
    "publisher": "ReliefWeb",
-   "lang": "en"
-  },
-  {
-   "title": "Automart: car prices in Karachi - Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ERlIyc3FVc05wMC1yYlM4RHp6aTFPcHRMS3FESWZRZUxiX3F5TXpZZ1c4UDMweWdXcWc5bHFPckZUWnA3d1U5NTRtY2V2Y2hjaUlld19n0gFWQVVfeXFMTkRGUjJzcVVzTnAwLXJiUzhEenppMU9wdExLcURJZlFlTGJfcXlNellnVzhQMzB5Z1dxZzlscU9yRlRacDd3VTk1NG1jZXZjaGNpSWV3X2c?oc=5",
-   "date": "2026-11-22T23:48:34.000Z",
-   "publisher": "Business Recorder",
    "lang": "en"
   },
   {
@@ -112,49 +110,7 @@
    "date": "2026-11-22T00:58:00.000Z",
    "publisher": "The News Pakistan",
    "lang": "en"
-  },
-  {
-   "title": "Punjab Confirms Dates for Summer School Holidays - TechJuice",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nY1JuT2V3cWhYcmk0b2xDTHp3NkJKZmRRNHhwRDVUQUVYZTZ5LTJJd0NJTjQ2UWhGa1ZncnFBc082dXJJN0x3eVdJV3VSRGI1RFZPZ2RaS2pVZ3lqd1dwWmUyZjczYjNaUDB6OHVUckRpMnJuUTFGSTJ0Y0ZhX2M?oc=5",
-   "date": "2026-11-21T16:27:28.000Z",
-   "publisher": "TechJuice",
-   "lang": "en"
-  },
-  {
-   "title": "Nashik onion output set to drop by nearly half amid drought and acreage drop - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHV1aHBDQ2Vxb0tMZUpNN3VhUzc3LUVCNzJoQ0lpalhyangxM2kzSUtjdWRwWXpfaXI3azg5NmlmYzFidFZLZC1IclU0Y1pHamthSDdHMWQxdmVGVUphTUpvSzdRRnRlNUxEa1JWWl9ZdTZNR0RQbWZPN3NGNk44bFFwWHpRSUdqc2EyMUJVd1o1T2NybzdQay1SaUtMWVhYZFNQbEtvZFZxNFk2UGFLSWwwaU1Sb1I5cHpRVE9ZSk9ZVU1COTZKUUNjdVpLVXBITWdMUC1qbEt0YVJGc2Y0M0Q0Y1DSAeoBQVVfeXFMTlUxM3FCek5FSC00SEpDdVZXbHJ0RUh6UVk4VG5SclVMRHRYTXo0VnpKNV9RNWN6eU0yS0xUVG5YNjdfUk9rTWNzMUdPVm9SR2VvR09mM3d1SVdraGluVGxFV2oxOG5WR2Vrb3E3eWF3UEkyWXg1a3kzUjhtQ21uZmQ1c3Z1R3UycjhOeldvNk5kUVhoU3FkYTlLV2sycG1nQ0FqeHBTdEQ3a0hjdUxjazB4aGEwbjk4OXZtV3hDUG9kZ0dVNXZBb20xOGNHQUpuNm5vUC1zWUdjUUcxMG5Vd3BlWGxVNFlPVVNB?oc=5",
-   "date": "2026-11-21T04:29:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
-  },
-  {
-   "title": "Akvan damages crops, govt promises aid - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlZpWVF4XzVveTJ0V1pGNUR4ci1GRGRLZTc2dlRxVHRUNVU0ekIzcXpnV0E4NzNFX0VQZmFhdDNJVTZ5TmhGSXJCM2c2OTlKTjJZTHBfajR3RmZxakFHajJmZU1CZlBTMjJaOEZUa1VtTUJMMDF4QTlXdXkwbUNvQW5TX05qNk93N2NpRmtfSnplZkNpcHAtMnlXRVpqUmZBWXN0dlFEMXJtLVF3ME5mbEhoUnhibGvSAbwBQVVfeXFMT1N3ZFNQc1VUVXdFNGlxZ0FqNVhvTjdkLVdaRFF2bWhSWUdFajJ6dUdXdGZhOGdCU2FxaHY3Q2JFdmk0Y2VDWTZINy1EMm1aRG9oMFhPQ1FXUVNIQ1B6Wkk4Uy1yUHlyeEJWVDZGa2cwWUtpRnJyVnRfY3cyeGJSWXF2VzJVR0JqMjdoT2pkeGdlT2dOV3paVkN4QlkxQnVrRzJmSkhuZnZwRFRwM3ZBV1JydXNmSEtJUkNxWTA?oc=5",
-   "date": "2026-11-21T03:22:00.000Z",
-   "publisher": "The Times of India",
-   "lang": "en"
-  },
-  {
-   "title": "Philadelphia Onions and Potatoes Market Steady - USDA Report Nov 20, 2026 - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3c0N1BLUWtzU2dmck0xYVJFT3V3em1BMzlNUG9zNmJ4Q1E5ZTB2aWJpd0R0SWMwbkZab0xMLUY4c0EtYmNydExBTEk1cUhTZ3dhRXY5UmJEeG85UVR2bHJqa3pKcF8zYWU1QnR4X1F4U0NTS2hHanc2WDBxN2VOMWZxb2FvVV9BWWU3aUV0bk5WcWZ1TnBZWFI2dlF3ZHlmWTNRNw?oc=5",
-   "date": "2026-11-20T19:00:30.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
-   "title": "Atlanta Terminal Market: Steady Onion Prices, About Steady Potato Market - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSlBTX1BHRVZOa0N6ZVRHblh4V05PRFI5cnIxR3k5MkZkNDM4d1psRE0tWEl2aHVKdWN6Wk9jbWNOWHc0TmxCczFXNGhkZlIzVDJpUW5CeDgyd0ZuRlN1cVdHX3k1cV9KN3ExQm43aEF5WFRtQWtUVlcxWnQ0Qlk5NGU1bm40YW1NNWpUR0hlc1JTekt3N3Bsck5LdF9qa0U2aVp1ZW1wY3NmdFU?oc=5",
-   "date": "2026-11-20T18:40:24.000Z",
-   "publisher": "IndexBox",
-   "lang": "en"
-  },
-  {
-   "title": "Weekly inflation falls to 10.41% as fuel, vegetable prices decline - Profit by Pakistan Today",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnJQTHd6WXVvN213eGVVaERwcjFvanN5VW5PUnpKTURFZ1RMUWthaV91b1RPWXpsNVUwUDVoOV9xbS1zWFRPUTRvQ0I4T2VLSDF5Z3ZlY2NrZ3NhOWdoNlZYdTgzcVI2ekZfRHJuWHpyeEdqN25PQVJxUURYbXJmTU8zdllTM29OWWJUY3hyWlV3RmJRLU8yUVpUWlU0eXZ5YmtqY2dMa3BEdnduTldPdjhiT21jU25V?oc=5",
-   "date": "2026-11-20T17:36:52.000Z",
-   "publisher": "Profit by Pakistan Today",
-   "lang": "en"
   }
  ],
- "updatedAt": "2026-11-24T17:12:40.086Z"
+ "updatedAt": "2026-11-25T04:59:04.846Z"
 }
