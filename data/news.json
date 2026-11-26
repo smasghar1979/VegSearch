@@ -1,21 +1,56 @@
 {
  "alerts": [
   {
-   "level": "medium",
+   "level": "high",
+   "items": [
+    "banana",
+    "papaya",
+    "apple_kala_kulu",
+    "apple_golden",
+    "all"
+   ],
+   "title_ur": "پاک افغان بارڈر بندش سے پھلوں اور سبزیوں کی رسد متاثر",
+   "title_en": "Pak-Afghan Border Closure Disrupts Fruit and Vegetable Supply",
+   "summary_ur": "افغانستان کے ساتھ سرحد کی بندش کی وجہ سے تازہ پھلوں اور سبزیوں کی درآمد میں بڑی کمی آئی ہے، جس سے مقامی منڈیوں میں قلت کا خطرہ ہے۔",
+   "summary_en": "Border closures with Afghanistan have drastically reduced fresh produce exports and imports, threatening local market shortages.",
+   "source_indexes": [
+    3,
+    12
+   ],
+   "expected_effect_ur": "کراچی کی منڈیوں میں پھلوں اور سبزیوں کی سپلائی کم ہوگی اور قیمتیں بڑھ سکتی ہیں۔ بازار میں مال کم آنے سے دکان داروں کو مہنگا خریدنا پڑے گا۔দুর্দশা বাড়বে। جیب پر بوجھ بڑھے گا۔0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005d",
+   "sources": [
+    {
+     "title": "Afghanistan's fresh fruit exports fall 88% following Pakistan border closure - FreshPlaza",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUMzQnZSbHRiOGVSc0VyWXdQQ3Z2UDBwNTd6V29DTjBpR0dicHNEMWxyNVo2Xy1nWVNlczN2VHNNcVF6WWFrb3dTYXlLZGdySng5U2RKT2dNQ2duSFAzdDJQQmxLYmttSU0wTFJQaUxpMlpKVjNNbzBHV3BuTDNkcnJCVmpSbTA1MDh2ckhFc2F5c0hYbWRsMlJHTXgxVHFnRHVUWGp3Z1Z1MUFJaEVDaU81RkpUcFEwYUw4OW1XOElsZw?oc=5",
+     "date": "2026-11-25T13:48:38.000Z",
+     "publisher": "FreshPlaza",
+     "lang": "en"
+    },
+    {
+     "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
+     "date": "2026-11-24T13:30:28.000Z",
+     "publisher": "TOLOnews",
+     "lang": "en"
+    }
+   ]
+  },
+  {
+   "level": "high",
    "items": [
     "tomato",
-    "onion",
-    "potato"
+    "potato",
+    "onion"
    ],
-   "title_ur": "ایران کی جانب سے ٹماٹر، پیاز اور آلو کی برآمد پر پابندی",
-   "title_en": "Iran Bans Exports of Tomatoes, Onions, and Potatoes",
-   "summary_ur": "ایران نے اپنے ملک میں مہنگائی کے باعث ٹماٹر، پیاز اور آلو کی بیرون ملک برآمد پر پابندی لگا دی ہے۔",
-   "summary_en": "Iran has suspended the export of tomatoes, onions, and potatoes to curb domestic price surges, affecting regional trade.",
+   "title_ur": "ایران کی طرف سے سبزیوں کی برآمد پر پابندی",
+   "title_en": "Iran Bans Vegetable Exports",
+   "summary_ur": "ایران نے بڑھتی ہوئی قیمتوں کے باعث ٹماٹر، آلو اور پیاز کی برآمد پر پابندی عائد کر دی ہے جس سے علاقائی رسد متاثر ہوگی۔",
+   "summary_en": "Iran has banned the export of tomatoes, potatoes, and onions amid soaring food prices, affecting regional supply chains.",
    "source_indexes": [
-    14,
-    21
+    20,
+    27
    ],
-   "expected_effect_ur": "ایران سے درآمد بند ہونے سے کراچی اور دیگر منڈیوں میں ٹماٹر، پیاز اور آلو کی قیمتیں بڑھ سکتی ہیں۔ forecast_effect_en: Reductions in Iranian imports could put upward pressure on tomato, onion, and potato prices in Karachi markets.",
+   "expected_effect_ur": "پابندی کی وجہ سے درآمدی سبزیوں کی آمد رک سکتی ہے، جس سے کراچی منڈی میں ان اشیاء کی قیمتوں میں مزید اضافہ ہو سکتا ہے۔00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005d",
    "sources": [
     {
      "title": "Iranian tomato export suspension threatens winter supplies in Tajikistan - Hortidaily",
@@ -32,9 +67,60 @@
      "lang": "en"
     }
    ]
+  },
+  {
+   "level": "low",
+   "items": [
+    "all"
+   ],
+   "title_ur": "حکومت کی جانب سے پیٹرول اور ڈیزل کی قیمتوں میں کمی",
+   "title_en": "Government Reduces Petrol and Diesel Prices",
+   "summary_ur": "حکومت نے نومبر کے آخر میں پیٹرول اور ڈیزل کی قیمتوں میں معمولی کمی کی ہے جس سے ٹرانسپورٹ لاگت میں کچھ ریلیف مل سکتا ہے۔",
+   "summary_en": "The government has slashed petrol and diesel prices for late November, which may provide some relief in transport costs.",
+   "source_indexes": [
+    1
+   ],
+   "expected_effect_ur": "سبزیوں اور پھلوں کی ٹرانسپورٹ لاگت میں کمی آسکتی ہے جس سے منڈی تک مال لانے کے اخراجات کچھ کم ہوں گے۔00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005d",
+   "sources": [
+    {
+     "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEZPVXFSTVR5WlhsT0ttNkZKS2E0X0ZLSlJwVXliYzVPRWwyX1dFZjFZRjZ6WTFnUkllX1dhSnpXOE5yM3ItaVVMdjJUV0xfVDRfWFA3c29hS19hdVRReFNOLUs5MUpDOGhPT3doRmRTdllqcmZ0Mkc2X0dWY1ZJdTdscFB0SXNfQU5rek9R0gGWAUFVX3lxTE9TLWl4ck1Fb3hZaWVPRlVxQ2hRMDVUU3AwcUVBdk5nMW1wRHFCYzFVN1VxdGR0amI0UmJLNGM1NU5LYkxYTm5lclEyR0laY2tHdGJMa2ptSE1VbE9PbnFGNldKOU1TbHljRmNNNlZYd0dzYVkxQkJ6dDE5THluSGJuNFJNLXZxallwYVl6amNoT3JCZTRDQQ?oc=5",
+     "date": "2026-11-25T18:38:49.000Z",
+     "publisher": "The Express Tribune",
+     "lang": "en"
+    }
+   ]
   }
  ],
  "articles": [
+  {
+   "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEZPVXFSTVR5WlhsT0ttNkZKS2E0X0ZLSlJwVXliYzVPRWwyX1dFZjFZRjZ6WTFnUkllX1dhSnpXOE5yM3ItaVVMdjJUV0xfVDRfWFA3c29hS19hdVRReFNOLUs5MUpDOGhPT3doRmRTdllqcmZ0Mkc2X0dWY1ZJdTdscFB0SXNfQU5rek9R0gGWAUFVX3lxTE9TLWl4ck1Fb3hZaWVPRlVxQ2hRMDVUU3AwcUVBdk5nMW1wRHFCYzFVN1VxdGR0amI0UmJLNGM1NU5LYkxYTm5lclEyR0laY2tHdGJMa2ptSE1VbE9PbnFGNldKOU1TbHljRmNNNlZYd0dzYVkxQkJ6dDE5THluSGJuNFJNLXZxallwYVl6amNoT3JCZTRDQQ?oc=5",
+   "date": "2026-11-25T18:38:49.000Z",
+   "publisher": "The Express Tribune",
+   "lang": "en"
+  },
+  {
+   "title": "Drought likely to affect summer onion acreage, output in Nashik - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWHdYaWo0VWFpZU5iOTRzeHlZeC1EQWE3b0NpaUdYVm5RVmdWTkQ3TG0zMTc0clNSSVY3UTVqREVsaFhyYUVvWWtXb1VOcWxvMjZxZ1Rob1NnNlhQcUoxT1JudXpmVkU2bWR3TlhZazNMbDJXMzRWd3VzR05tQ0VoWHZYajhJQkJ0TGNzaXFhQ2ZudGZDY1RwMEpCdVdNMDMycXFPM0NqckY0SHpwQ3BFMjJfZTZLZjFBTFRIQWFlc19ySjVZMnotbl9Zdl9ETTdYREHSAdcBQVVfeXFMT2dWMHRQM3I4a1IyVnFiYXhGMTAzam1yRlpTQXZReUtoZE1KdzlGUjdYTWJaYXZmbENRSDAxMDh6Qk9QNUNPdVlKbUE4Yy1uQVhVZE9odHJqY1VkVG93TjFFYTZRX09YWUFTZGU1RGpBck9JTEluQmV3aDZxMVN1NU1jSnBfNDJOMWxHQWsxSmZSXy1PTjdDaEZEOTFoN3NqZUlHZWo4bzRuaGRhb1V1cFFCLU0tNDgtRXFuN0FORmtxaUt2andtZ3l6QkJIYTM4RlFxVHUzazA?oc=5",
+   "date": "2026-11-25T17:53:00.000Z",
+   "publisher": "The Times of India",
+   "lang": "en"
+  },
+  {
+   "title": "Afghanistan's fresh fruit exports fall 88% following Pakistan border closure - FreshPlaza",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUMzQnZSbHRiOGVSc0VyWXdQQ3Z2UDBwNTd6V29DTjBpR0dicHNEMWxyNVo2Xy1nWVNlczN2VHNNcVF6WWFrb3dTYXlLZGdySng5U2RKT2dNQ2duSFAzdDJQQmxLYmttSU0wTFJQaUxpMlpKVjNNbzBHV3BuTDNkcnJCVmpSbTA1MDh2ckhFc2F5c0hYbWRsMlJHTXgxVHFnRHVUWGp3Z1Z1MUFJaEVDaU81RkpUcFEwYUw4OW1XOElsZw?oc=5",
+   "date": "2026-11-25T13:48:38.000Z",
+   "publisher": "FreshPlaza",
+   "lang": "en"
+  },
+  {
+   "title": "The onion index: How rising pyaaz prices can make your EMIs and investment portfolio cry - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMTJSeUZ3cWs1dnBGbDh3RkJNdTdTVExsZVBxaFZ1Y0hNZzdROU1OaDZYajNDTmJMUXFmVmNhVXFTMmtXU0w5eW1NbVUwUlVsS2RvR3EyZURiQV9zR2JtZzdRQ3ZiRjhmUnMtV2xjNnViVkx4Nng5TlF4NnFsVGdadW9xcjFPUXlGYXZic0JOU2ZGU2g1UV9GNzExOHFlc09QSWZFVVI0d3lCOFJMOEZDWTR4bXRUVDE3QXlnYjV1M2JQSFdQODd2WWpCNDZqUjJhbXpfc3Z0YVVMM0RWRUFOektEMEo5cjFPZ1htMDBxbUtjMTlBWmlNdjFuQXdsR29raVBn?oc=5",
+   "date": "2026-11-25T10:53:00.000Z",
+   "publisher": "The Times of India",
+   "lang": "en"
+  },
   {
    "title": "November inflation projected to hit 9.8% as food prices surge - Minute Mirror",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzBpNWxLMno2QVJTemQ1WmoyR2Q4Ny1WNkxmZkxIR2twc1hoZnd3V3M5T1VMU3Zib2E3ZDQ4clpaRUJuOHU4TXhKbWtHRW9FbURNRDZhV3RFYlJNVUdCdlhMV0JyYkMxQVBKN2xJZ2lXdjRGRnZmTEF4djVGeE54cjI5M1NyM3U3RE1YblhFbVlYejRPeEl2VVR6d2g?oc=5",
@@ -57,6 +143,34 @@
    "lang": "en"
   },
   {
+   "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
+   "date": "2026-11-24T13:30:28.000Z",
+   "publisher": "TOLOnews",
+   "lang": "en"
+  },
+  {
+   "title": "Onions, potatoes, cucumbers, and sweet peppers have become more expensive in Ukraine - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUkc2aXdFMFUxdU1Xak9YRGdpVm1jeGJsSXZkTGZOYWxaQU9Ud3B0eDNCaF91SHRoTC1aLWtPZV9NblFNYzVvczA5NDdoNUppSTBhcGk1dlRILWpIbUFydmlITU9VUEFUWUJRWGFyeGhaVWhQc25xTkdDc2J0UVItbXhFNnVtcDNyVThXcFh5aGY2OW5GV1h0SGFn?oc=5",
+   "date": "2026-11-24T06:00:07.000Z",
+   "publisher": "UA.NEWS",
+   "lang": "en"
+  },
+  {
+   "title": "Mumbai grocery bills soar as onion prices more than double, garlic jumps 61%, ginger rises 48% and rice, - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOVE5yREprbEZ4T183U0FjampoM0pOTFkxQ1ptRVBGYjZXZU9HQ2NVcVNXQkw1eFIxZ042NVROVUFMZ2o1dUk5MEN1WTZEQ0F6cUpEWmI2bGxmR2FKY3owVl91OXVjSjdLSlN6M1NpckdoeElrWVV6X25hZGYzbGJVQmJvMlVGZjdsRERoaG1LWTZWaHhkOU5IOEx0U0VQVExkUzFTMGJ3aDl2d0JqclBlMllFNGYwYXNHY3R0RHluMHlrTnBMY1pYOEZhRWpOLTllaTFRbzlLWnJwS2ZEUmJ2NkZ2U3cyeDVwMTFzT0I3RXhfUjJJVUdKaXd3MzhaMTlvLTh1WEMtSDRnZkdPRzZDWmxCMFhTbXVsWVc2TEI0R1JwY0c4M3FMdy1yQ1NGM2wwakdOQWM1THlfLW9qTF84MkNPRjBtenBQUEJtQ2tVQy15TzhfSzhpazRfNldycm5OVFJ5LUdqOHA0enlnQkJ4dk5BbU9QdGJwMGdYVWJQWjhoZU9BT09NQjdlNjVaWWNOQ190UUhKd1gtM1VQeHRNdXNuaXRqamVEaWluci1mWk1feENmWnJIVtIBvgNBVV95cUxOMTlxdXpzRFRHZy12QmUwQ1laOXpzVDZSeTBFRnhJTkpnSm9oYXVSSW83bGFPUW5CX1p0OHRJTDNwTV9xaXpYdUFJMmpjcnZvZnliczdYU3pDWmF6YVpEUzJaYWZkaHFNWm5oc1BYOEh2U1UzWmhWa2lkTkVNbHV0UnJqZXpvZ05pUkk2cXhra3ZQdUV3cTkzOTdSX3hORkgyVGZEQlNYRU1pakg4cG9QaWVLXzY1SzlkRXpVV1BaQkJDUnY3RlpHelFKZWhqc0lqQmRiLUJ3U0tIdEgzREhaRGIxd2pXTGFnbWJfQk5aSm03Vl9BcTlPRWI0WDB0am9lZ3M1ZTUydDZDUTVRYUlaRFpzQmV2MXBrbDVBenZrMjJBZEhTRUNmOE9ZRzFDcGQ4RmdfVGRQdmVuTl8yRm1zMnFRd2l3N3hrTzRMRlRnaTFMRUM2cnU1V3VnSWRHc2dlMkdFVGU4SUJzenBMdWN2MWh0RmRiWGMyckw1OHdVLXJPWU9qMXpUV1VaTktjT1MyaVVad2hUNUVXSDFORjl6b3dQeG0zU3BjZV9QWGtmd1k5X3dRRzBWREIxa3Y0UQ?oc=5",
+   "date": "2026-11-24T05:55:00.000Z",
+   "publisher": "The Times of India",
+   "lang": "en"
+  },
+  {
+   "title": "Price shock in kitchens as veggies dearer by two-and-a-half times - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQWYzVTRVZi05U2xoRzBqMVZxRGdmeExxU1U2aFJRcE5CQTZtR2NjYW5kXzFFMWJ2VGZSV09MbVhfNWR2T0pSZmU0SDZwV0FhQm5EN1Jpb2hoeWg2LXFUTnh2M2xkbEJEdWw0dC1mX2lGYU00MkxfZXUwOUFuSjFia3NmdVJPNU5qTjJ2STdBS2NtaTYzbVNISDFDc25ZYzlCVzdMbl9BZkZWZXZpczhNakUtTEpnWHRtSTRJMDYweUFiTzNwRUc5NVBQTEpXcFUwZTFXSXBpYXJoaUFSSG5wMXhycnh6MDZMRGtyWEJLMnBSNndVekNUNXdnano2VHItVnQzRHItV1pHSnFMd29JYU9OSG1wa3NtalJCY1JZY0hxZmtkczhr0gHcAUFVX3lxTE9SeVBVdUNmZUVjTlJYazZiMmdaZFdjSllLYnF6VXhDNTdMeEx4b3RMYTkyOERYVkY4a2dLaVJDY1ZjU1Z2QzdIRWx2N2VmY0ExTkg5aDQ1bnFxc0lmZUc3ZXpUQzgxbWEtbnc0aE5IOUFnZ1cyVkVoY2ZOZlJtd01xejVGZThvZU5kZ3ktLWFVcjVoZHNWT0piWkE5Y2FPcHZTdUVrQXJOazRoc1VWNWgtQXZmQVlnVTJYdmpKZHNjYWkzUlluLWdVeEdxN2ZHLUtMSXJmelg3c1dNdTk?oc=5",
+   "date": "2026-11-23T23:59:00.000Z",
+   "publisher": "The Times of India",
+   "lang": "en"
+  },
+  {
    "title": "Climate expert warns of looming food security crisis - The News Pakistan",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnhEaTNqRWx1cUZYajc1aEhnZHpsNmplVGhFbjdOam1ZczQyUTJFRVAzdGRHY0dzTzBPMGMyclA1RjVrVjVVLUptemdMZ3dETTZUTTg2aFhZMjRjSjVGbElXcktfX3JLRXVUeWZ6emxJdTlReVdIdUZwd0RNMlh6Yi11cnN6aE55QnNVTUd3WTV4Tjg?oc=5",
    "date": "2026-11-23T19:00:00.000Z",
@@ -68,6 +182,13 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTdjMG1mcFFiMGRnN2xPeE1UVV9yZG1EbWUwazFGQ2VqOGFJR054VmdwemtleUNuVk9MdUlXdE1fSU5WRjMyWmVLbVk0M250VV9zRlJYMmJXRFpBcmxUdjd3aVVCTWlrYm9ZZG9oV1pzOHJQMS1kekpSZF9vNU5oQXhQd29acmUtYXN4QlN6bjNJanUzOTRjd0NTSXhtcjRrNHJNMlYzdmMzclpHV3NLdGh1bllaV0U?oc=5",
    "date": "2026-11-23T11:14:04.000Z",
    "publisher": "Hortidaily",
+   "lang": "en"
+  },
+  {
+   "title": "Afghanistan: Monthly Market Report Issue 77: October 2026 - ReliefWeb",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVJrLTVkUGp3cHN0QXFSMFpzLVQtTG1OUEs3bVZvb0piZzF3eVJhdzY0YWlPcVlJWjFWZFVhd0VPYmx3QklvMW11YjhSb2tNY1FFR0RUa0JLRzZZNV81OTdldmtvT2hXa1lSR01FZ2Z3cTRwelhsbFM1S1lVaHJBYkxOaVBlTGdXalIxUmR4dDR0Z1VBYlFKYUNrUFc?oc=5",
+   "date": "2026-11-23T01:22:04.000Z",
+   "publisher": "ReliefWeb",
    "lang": "en"
   },
   {
@@ -83,7 +204,14 @@
    "date": "2026-11-22T21:31:00.000Z",
    "publisher": "Apa.az",
    "lang": "en"
+  },
+  {
+   "title": "Paddy rots in flooded fields as Akvan rain raises fears of rice price surge in Kolkata - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeFJNY2hhVDk1UTR1SHpYRXhvb2gyT1NYRERuMUtYdXpQY1JleWszZXktbVFLVUttN0xFaTdoX0RHbnBweEc5QVNwT2hpMjJ2LW5EY2I2N1pHSEctVkRLWVpnQmNxRHEya3ZJVGJrOUJsWTE2Q2p2b0p1SXhydDhaanJqU19XS0hNaEx5aUpyUTEteGIwb3FEcDFKLTZEcUp0Y05vU3NfZUdnUlROTVNtc1k3VXpOY0s3ZzEyQnY5OWpkWTBHd1RzMFhLdVNSN1VicGdhMEhOWTBSWlRjVTZYdEpnYmlWb1RXaGYtUnFXTWxDcknSAfgBQVVfeXFMT044ZTZWZU1BWlFyTDVUYU10aG9tcDItMkc4aGlhWWdhY2MtQ3JzNE41YmNXejRXNE9QU0pxcnlBLVoxalA3RWRiaEowVUMzck9TeThjbXdUYTNjdXJGUE4tQTZUc2JxSzJZRm85Vlp2WGR2dmpTYXVnUk8zMHlZeUFDTEdfNzE0S1BJU1RiY2plODZwaU9zSk5tMU96ZTM1d3lGd0VsS0FLUEhSNFZaOTdtMXotX1loWmZjYkhLMzVtcTNjWTNUY1pKR0FFdktqN2Z4YmxtUEhVTXBCZUVYN291cVk3SlFFU2xYWTRpZW9GQUI2X2tvc04?oc=5",
+   "date": "2026-11-22T17:11:00.000Z",
+   "publisher": "The Times of India",
+   "lang": "en"
   }
  ],
- "updatedAt": "2026-11-25T14:28:39.979Z"
+ "updatedAt": "2026-11-26T05:00:24.462Z"
 }
