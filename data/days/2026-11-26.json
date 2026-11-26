@@ -1,0 +1,880 @@
+{
+ "date": "2026-11-26",
+ "source": {
+  "id": "commissioner_karachi",
+  "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
+  "name_ur": "کمشنر کراچی ڈویژن (بیورو آف سپلائی اینڈ پرائسز / مارکیٹ کمیٹی)",
+  "page": "https://commissionerkarachi.gos.pk/price-list",
+  "date": "2026-11-26",
+  "url": "https://commissionerkarachi.gos.pk/storage/price-lists/7LwtOVABrmqD6hCdZUSWt7V1hOnLG2Kp5sHziTUX.jpg"
+ },
+ "files": [
+  {
+   "kind": "fruits",
+   "url": "https://commissionerkarachi.gos.pk/storage/price-lists/7LwtOVABrmqD6hCdZUSWt7V1hOnLG2Kp5sHziTUX.jpg",
+   "count": 38,
+   "listedDate": "2026-11-26",
+   "printedDate": "2026-11-26"
+  },
+  {
+   "kind": "vegetables",
+   "url": "https://commissionerkarachi.gos.pk/storage/price-lists/MGf98yXlMbLnyyyBbgKWNyDBhlLuWGSdVW3pXFj9.jpg",
+   "count": 47,
+   "listedDate": "2026-11-26",
+   "printedDate": "2026-11-26"
+  }
+ ],
+ "items": [
+  {
+   "id": "banana",
+   "en": "Banana (Grade 1)",
+   "ur": "کیلا (درجہ اول)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": 82,
+   "w": 87,
+   "r": null
+  },
+  {
+   "id": "banana_g2",
+   "en": "Banana (Grade 2)",
+   "ur": "کیلا (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": 70,
+   "w": 81,
+   "r": null
+  },
+  {
+   "id": "apricot",
+   "en": "Apricot (Grade 1)",
+   "ur": "خوبانی (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 148,
+   "w": 157,
+   "r": null
+  },
+  {
+   "id": "apricot_g2",
+   "en": "Apricot (Grade 2)",
+   "ur": "خوبانی (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 130,
+   "w": 150,
+   "r": null
+  },
+  {
+   "id": "peach",
+   "en": "Peach (Grade 1)",
+   "ur": "آڑو (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 182,
+   "w": 193,
+   "r": null
+  },
+  {
+   "id": "peach_g2",
+   "en": "Peach (Grade 2)",
+   "ur": "آڑو (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 170,
+   "w": 196,
+   "r": null
+  },
+  {
+   "id": "mango_dussehri",
+   "en": "Mango (Dussehri) (Grade 1)",
+   "ur": "آم (دسہری) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 243,
+   "w": 258,
+   "r": null
+  },
+  {
+   "id": "mango_dussehri_g2",
+   "en": "Mango (Dussehri) (Grade 2)",
+   "ur": "آم (دسہری) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 230,
+   "w": 265,
+   "r": null
+  },
+  {
+   "id": "grapefruit",
+   "en": "Grapefruit (Grade 1)",
+   "ur": "گریپ فروٹ (درجہ اول)",
+   "cat": "fruit",
+   "unit": "piece",
+   "a": 17,
+   "w": 18,
+   "r": null
+  },
+  {
+   "id": "grapefruit_g2",
+   "en": "Grapefruit (Grade 2)",
+   "ur": "گریپ فروٹ (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "piece",
+   "a": 15,
+   "w": 17,
+   "r": null
+  },
+  {
+   "id": "melon",
+   "en": "Melon (Grade 1)",
+   "ur": "خربوزہ (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 107,
+   "w": 113,
+   "r": null
+  },
+  {
+   "id": "melon_g2",
+   "en": "Melon (Grade 2)",
+   "ur": "خربوزہ (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 100,
+   "w": 115,
+   "r": null
+  },
+  {
+   "id": "watermelon",
+   "en": "Watermelon",
+   "ur": "تربوز",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 100,
+   "w": 115,
+   "r": null
+  },
+  {
+   "id": "watermelon_long",
+   "en": "Watermelon (Long)",
+   "ur": "تربوز لمبا",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 100,
+   "w": 115,
+   "r": null
+  },
+  {
+   "id": "mosambi",
+   "en": "Mosambi (Sweet Lime) (Grade 1)",
+   "ur": "موسمی (درجہ اول)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": 140,
+   "w": 161,
+   "r": null
+  },
+  {
+   "id": "mosambi_g2",
+   "en": "Mosambi (Sweet Lime) (Grade 2)",
+   "ur": "موسمی (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "dozen",
+   "a": 120,
+   "w": 138,
+   "r": null
+  },
+  {
+   "id": "chikoo",
+   "en": "Chikoo (Sapodilla) (Grade 1)",
+   "ur": "چیکو (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 168,
+   "w": 178,
+   "r": null
+  },
+  {
+   "id": "chikoo_g2",
+   "en": "Chikoo (Sapodilla) (Grade 2)",
+   "ur": "چیکو (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 160,
+   "w": 184,
+   "r": null
+  },
+  {
+   "id": "dates_muzafati",
+   "en": "Dates (Irani Muzafati) (Grade 1)",
+   "ur": "کھجور (ایرانی مضافاتی) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 580,
+   "w": 667,
+   "r": null
+  },
+  {
+   "id": "dates_muzafati_g2",
+   "en": "Dates (Irani Muzafati) (Grade 2)",
+   "ur": "کھجور (ایرانی مضافاتی) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 500,
+   "w": 575,
+   "r": null
+  },
+  {
+   "id": "dates_zahidi",
+   "en": "Dates (Zahidi Basra) (Grade 1)",
+   "ur": "کھجور (زاہدی بصرہ) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 500,
+   "w": 575,
+   "r": null
+  },
+  {
+   "id": "dates_zahidi_g2",
+   "en": "Dates (Zahidi Basra) (Grade 2)",
+   "ur": "کھجور (زاہدی بصرہ) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 450,
+   "w": 518,
+   "r": null
+  },
+  {
+   "id": "garma",
+   "en": "Garma Melon",
+   "ur": "گرما",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 87,
+   "w": 100,
+   "r": null
+  },
+  {
+   "id": "golarchi",
+   "en": "Golarchi",
+   "ur": "گولارچی",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 70,
+   "w": 81,
+   "r": null
+  },
+  {
+   "id": "amlok",
+   "en": "Amlok (Date Plum)",
+   "ur": "املوک",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 230,
+   "w": 265,
+   "r": null
+  },
+  {
+   "id": "mango_sindhri",
+   "en": "Mango (Sindhri)",
+   "ur": "آم (سندھڑی)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 18,
+   "w": 21,
+   "r": null
+  },
+  {
+   "id": "mango_langra",
+   "en": "Mango (Langra)",
+   "ur": "آم (لنگڑا)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 15,
+   "w": 17,
+   "r": null
+  },
+  {
+   "id": "falsa",
+   "en": "Falsa",
+   "ur": "فالسہ",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 113,
+   "w": 130,
+   "r": null
+  },
+  {
+   "id": "jaman",
+   "en": "Jaman (Java Plum)",
+   "ur": "جامن",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 100,
+   "w": 115,
+   "r": null
+  },
+  {
+   "id": "pomegranate_irani",
+   "en": "Pomegranate (Irani) (Grade 1)",
+   "ur": "انار (ایرانی) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 100,
+   "w": 115,
+   "r": null
+  },
+  {
+   "id": "pomegranate_kandhari_g2",
+   "en": "Pomegranate (Kandhari) (Grade 2)",
+   "ur": "انار (قندھاری) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 140,
+   "w": 161,
+   "r": null
+  },
+  {
+   "id": "mango_anwar_ratol",
+   "en": "Mango (Anwar Ratol)",
+   "ur": "آم (انور رٹول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 120,
+   "w": 138,
+   "r": null
+  },
+  {
+   "id": "mango_chaunsa",
+   "en": "Mango (Chaunsa) (Grade 1)",
+   "ur": "آم (چونسا) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 178,
+   "w": 205,
+   "r": null
+  },
+  {
+   "id": "mango_chaunsa_kala",
+   "en": "Mango Chaunsa Kala",
+   "ur": "آم چونسا اول (کالا)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 160,
+   "w": 184,
+   "r": null
+  },
+  {
+   "id": "grapes_sundarkhani",
+   "en": "Grapes (Sundarkhani) (Grade 1)",
+   "ur": "انگور (سندرخانی) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 580,
+   "w": 667,
+   "r": null
+  },
+  {
+   "id": "grapes_round",
+   "en": "Grapes Round",
+   "ur": "انگور گول",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 500,
+   "w": 575,
+   "r": null
+  },
+  {
+   "id": "guava_larkana",
+   "en": "Guava (Larkana)",
+   "ur": "امرود (لاڑکانہ)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 500,
+   "w": 575,
+   "r": null
+  },
+  {
+   "id": "pear",
+   "en": "Pear",
+   "ur": "ناشپاتی",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 450,
+   "w": 518,
+   "r": null
+  },
+  {
+   "id": "potato",
+   "en": "Potato (Grade 1)",
+   "ur": "آلو (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 28,
+   "w": 30,
+   "r": 35
+  },
+  {
+   "id": "potato_g2",
+   "en": "Potato (Grade 2)",
+   "ur": "آلو (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 24,
+   "w": 25,
+   "r": 29
+  },
+  {
+   "id": "potato_red",
+   "en": "Red Potato (Grade 1)",
+   "ur": "لال آلو (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 52,
+   "w": 55,
+   "r": 63
+  },
+  {
+   "id": "onion",
+   "en": "Onion (Grade 1)",
+   "ur": "پیاز (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 103,
+   "w": 110,
+   "r": 127
+  },
+  {
+   "id": "onion_small",
+   "en": "Onion (Small)",
+   "ur": "پیاز چھوٹی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "tomato",
+   "en": "Tomato (Grade 1)",
+   "ur": "ٹماٹر (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "tomato_g2",
+   "en": "Tomato (Grade 2)",
+   "ur": "ٹماٹر (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "cabbage",
+   "en": "Cabbage (Grade 1)",
+   "ur": "بند گوبھی (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "cabbage_g2",
+   "en": "Cabbage (Grade 2)",
+   "ur": "بند گوبھی (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 24,
+   "w": 25,
+   "r": 29
+  },
+  {
+   "id": "cauliflower",
+   "en": "Cauliflower (Grade 1)",
+   "ur": "پھول گوبھی (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 103,
+   "w": 110,
+   "r": 127
+  },
+  {
+   "id": "cauliflower_g2",
+   "en": "Cauliflower (Grade 2)",
+   "ur": "پھول گوبھی (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 56,
+   "w": 60,
+   "r": 69
+  },
+  {
+   "id": "bottle_gourd_round",
+   "en": "Bottle Gourd (Round)",
+   "ur": "لوکی گول",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 94,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "bottle_gourd",
+   "en": "Bottle Gourd",
+   "ur": "لوکی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 103,
+   "w": 110,
+   "r": 127
+  },
+  {
+   "id": "ridge_gourd",
+   "en": "Ridge Gourd (Tori) (Grade 1)",
+   "ur": "توری (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 94,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "ridge_gourd_g2",
+   "en": "Ridge Gourd (Tori) (Grade 2)",
+   "ur": "توری (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 66,
+   "w": 70,
+   "r": 81
+  },
+  {
+   "id": "brinjal",
+   "en": "Brinjal",
+   "ur": "بینگن",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 56,
+   "w": 60,
+   "r": 69
+  },
+  {
+   "id": "brinjal_long",
+   "en": "Brinjal (Long)",
+   "ur": "بینگن لمبا",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 66,
+   "w": 70,
+   "r": 81
+  },
+  {
+   "id": "okra",
+   "en": "Okra (Lady Finger) (Grade 1)",
+   "ur": "بھنڈی (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 150,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "okra_g2",
+   "en": "Okra (Lady Finger) (Grade 2)",
+   "ur": "بھنڈی (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 94,
+   "w": 100,
+   "r": 115
+  },
+  {
+   "id": "bitter_gourd",
+   "en": "Bitter Gourd (Grade 1)",
+   "ur": "کریلا (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 85,
+   "w": 90,
+   "r": 104
+  },
+  {
+   "id": "bitter_gourd_g2",
+   "en": "Bitter Gourd (Grade 2)",
+   "ur": "کریلا (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 66,
+   "w": 70,
+   "r": 81
+  },
+  {
+   "id": "cucumber",
+   "en": "Cucumber (Grade 1)",
+   "ur": "کھیرا (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 56,
+   "w": 60,
+   "r": 69
+  },
+  {
+   "id": "cucumber_g2",
+   "en": "Cucumber (Grade 2)",
+   "ur": "کھیرا (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "round_gourd",
+   "en": "Round Gourd (Tinda)",
+   "ur": "ٹینڈے",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 150,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "round_gourd_china",
+   "en": "Tinda (China)",
+   "ur": "ٹنڈا (چائنہ)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 103,
+   "w": 110,
+   "r": 127
+  },
+  {
+   "id": "carrot",
+   "en": "Carrot",
+   "ur": "گاجر",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 56,
+   "w": 60,
+   "r": 69
+  },
+  {
+   "id": "garlic_local",
+   "en": "Garlic (Local) (Grade 1)",
+   "ur": "لہسن (دیسی) (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 179,
+   "w": 190,
+   "r": 219
+  },
+  {
+   "id": "garlic_local_g2",
+   "en": "Garlic (Local) (Grade 2)",
+   "ur": "لہسن (دیسی) (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 150,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "garlic_china_pk",
+   "en": "Garlic China (Pakistani)",
+   "ur": "لہسن چائنہ (پاکستانی)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 310,
+   "w": 330,
+   "r": 380
+  },
+  {
+   "id": "ginger_china",
+   "en": "Ginger (China) (Grade 1)",
+   "ur": "ادرک (چائنہ) (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 263,
+   "w": 280,
+   "r": 322
+  },
+  {
+   "id": "ginger_thai",
+   "en": "Ginger (Bangkok/Thai) (Grade 1)",
+   "ur": "ادرک (بینکاک) (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 235,
+   "w": 250,
+   "r": 288
+  },
+  {
+   "id": "capsicum",
+   "en": "Capsicum (Grade 1)",
+   "ur": "شملہ مرچ (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "capsicum_g2",
+   "en": "Capsicum (Grade 2)",
+   "ur": "شملہ مرچ (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 28,
+   "w": 30,
+   "r": 35
+  },
+  {
+   "id": "green_chilli",
+   "en": "Green Chilli",
+   "ur": "ہری مرچ",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  },
+  {
+   "id": "chilli_shehzadi",
+   "en": "Chilli (Shehzadi)",
+   "ur": "مرچ شہزادی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "lemon",
+   "en": "Lemon (Grade 1)",
+   "ur": "لیموں (درجہ اول)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 263,
+   "w": 280,
+   "r": 322
+  },
+  {
+   "id": "lemon_g2",
+   "en": "Lemon (Grade 2)",
+   "ur": "لیموں (درجہ دوئم)",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 216,
+   "w": 230,
+   "r": 253
+  },
+  {
+   "id": "turnip",
+   "en": "Turnip",
+   "ur": "شلجم",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 75,
+   "w": 80,
+   "r": 92
+  },
+  {
+   "id": "beetroot",
+   "en": "Beetroot",
+   "ur": "چقندر",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 66,
+   "w": 70,
+   "r": 81
+  },
+  {
+   "id": "green_onion",
+   "en": "Green Onion",
+   "ur": "ہری پیاز",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 85,
+   "w": 90,
+   "r": 104
+  },
+  {
+   "id": "spinach",
+   "en": "Spinach",
+   "ur": "پالک",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 38,
+   "w": 40,
+   "r": 46
+  },
+  {
+   "id": "coriander",
+   "en": "Coriander",
+   "ur": "ہرا دھنیا",
+   "cat": "veg",
+   "unit": "bunch",
+   "a": 11,
+   "w": 12,
+   "r": 14
+  },
+  {
+   "id": "mint",
+   "en": "Mint",
+   "ur": "پودینہ",
+   "cat": "veg",
+   "unit": "bunch",
+   "a": 7,
+   "w": 8,
+   "r": 9
+  },
+  {
+   "id": "peas_classic",
+   "en": "Peas (Classic)",
+   "ur": "مٹر کلاسک",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 235,
+   "w": 250,
+   "r": 288
+  },
+  {
+   "id": "peas",
+   "en": "Green Peas",
+   "ur": "مٹر",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 150,
+   "w": 160,
+   "r": 184
+  },
+  {
+   "id": "jameri",
+   "en": "Jameri",
+   "ur": "جمیری",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 85,
+   "w": 90,
+   "r": 104
+  },
+  {
+   "id": "radish",
+   "en": "Radish",
+   "ur": "مولی",
+   "cat": "veg",
+   "unit": "kg",
+   "a": 47,
+   "w": 50,
+   "r": 58
+  }
+ ],
+ "updatedAt": "2026-11-26T08:38:02.414Z"
+}
