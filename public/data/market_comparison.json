@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T03:28:25.561Z",
+  "generated_at": "2026-11-26T06:24:10.347Z",
   "date_pkt": "2026-11-26",
-  "run_at_pkt": "26 Nov, 8:28 am PKT",
+  "run_at_pkt": "26 Nov, 11:24 am PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -269,7 +269,7 @@
       "name_ur": "فریش باسکٹ",
       "url": "https://freshbasket.com.pk",
       "status": "ok",
-      "item_count": 56,
+      "item_count": 55,
       "last_checked_date": "2026-11-26",
       "site_reported_date": null,
       "price_last_changed_date": "2026-11-26",
@@ -415,7 +415,7 @@
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "potato_red": {
           "id": "potato_red",
@@ -716,19 +716,6 @@
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
         },
-        "fenugreek": {
-          "id": "fenugreek",
-          "raw_name": "Small Methi (5 Bunch)",
-          "price": 75,
-          "unit": "bunch",
-          "raw_price": 75,
-          "pack_unit": "bunch",
-          "original_pack_label": "Rs. 75 / bunch",
-          "last_checked_date": "2026-11-26",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-24",
-          "status": "unchanged"
-        },
         "banana": {
           "id": "banana",
           "raw_name": "Banana/Kela (Semi Ripe)",
@@ -779,7 +766,7 @@
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "kiwi": {
           "id": "kiwi",
@@ -818,7 +805,7 @@
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_golden": {
           "id": "apple_golden",
@@ -898,19 +885,6 @@
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
         },
-        "pear": {
-          "id": "pear",
-          "raw_name": "Pear  China (1Kg)",
-          "price": 1050,
-          "unit": "kg",
-          "raw_price": 1050,
-          "pack_unit": "1kg",
-          "original_pack_label": "Rs. 1050 / 1kg",
-          "last_checked_date": "2026-11-26",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-24",
-          "status": "unchanged"
-        },
         "pineapple": {
           "id": "pineapple",
           "raw_name": "FLO - Electrolytes Pineapple (Sachet)",
@@ -922,6 +896,19 @@
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
+          "status": "unchanged"
+        },
+        "pear": {
+          "id": "pear",
+          "raw_name": "Pear  China (1Kg)",
+          "price": 1050,
+          "unit": "kg",
+          "raw_price": 1050,
+          "pack_unit": "1kg",
+          "original_pack_label": "Rs. 1050 / 1kg",
+          "last_checked_date": "2026-11-26",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
         },
         "peach": {
@@ -948,7 +935,7 @@
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "strawberry": {
           "id": "strawberry",
@@ -961,7 +948,7 @@
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "watermelon": {
           "id": "watermelon",
@@ -1073,7 +1060,7 @@
       "item_count": 34,
       "last_checked_date": "2026-11-26",
       "site_reported_date": null,
-      "price_last_changed_date": "2026-11-25",
+      "price_last_changed_date": "2026-11-26",
       "items": {
         "papaya": {
           "id": "papaya",
@@ -1299,15 +1286,15 @@
         "cabbage": {
           "id": "cabbage",
           "raw_name": "Cabbage (Band Gobhi)",
-          "price": 120,
+          "price": 140,
           "unit": "kg",
-          "raw_price": 30,
+          "raw_price": 35,
           "pack_unit": "250g",
-          "original_pack_label": "Rs. 30 / 250g",
+          "original_pack_label": "Rs. 35 / 250g",
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-26",
+          "status": "updated_today"
         },
         "garlic_local": {
           "id": "garlic_local",
@@ -1416,15 +1403,15 @@
         "onion": {
           "id": "onion",
           "raw_name": "Onion",
-          "price": 168,
+          "price": 180,
           "unit": "kg",
-          "raw_price": 42,
+          "raw_price": 45,
           "pack_unit": "250g",
-          "original_pack_label": "Rs. 42 / 250g",
+          "original_pack_label": "Rs. 45 / 250g",
           "last_checked_date": "2026-11-26",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-26",
+          "status": "updated_today"
         },
         "mint": {
           "id": "mint",

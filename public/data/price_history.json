@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T03:28:25.561Z",
+  "updated_at": "2026-11-26T06:24:10.347Z",
   "date_pkt": "2026-11-26",
   "stores": {
     "carrefour": {},
@@ -2430,10 +2430,10 @@
         ]
       },
       "onion": {
-        "price": 168,
+        "price": 180,
         "last_checked_date": "2026-11-26",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-25",
+        "price_last_changed_date": "2026-11-26",
         "log": [
           {
             "d": "2026-11-23",
@@ -2449,7 +2449,7 @@
           },
           {
             "d": "2026-11-26",
-            "p": 168
+            "p": 180
           }
         ]
       },
@@ -2622,10 +2622,10 @@
         ]
       },
       "cabbage": {
-        "price": 120,
+        "price": 140,
         "last_checked_date": "2026-11-26",
         "site_reported_date": null,
-        "price_last_changed_date": "2026-11-25",
+        "price_last_changed_date": "2026-11-26",
         "log": [
           {
             "d": "2026-11-25",
@@ -2633,7 +2633,7 @@
           },
           {
             "d": "2026-11-26",
-            "p": 120
+            "p": 140
           }
         ]
       }
