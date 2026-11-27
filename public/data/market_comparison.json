@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T03:26:28.121Z",
+  "generated_at": "2026-11-27T06:27:43.468Z",
   "date_pkt": "2026-11-27",
-  "run_at_pkt": "27 Nov, 8:26 am PKT",
+  "run_at_pkt": "27 Nov, 11:27 am PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -129,7 +129,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "bottle_gourd_round": {
           "id": "bottle_gourd_round",
@@ -155,7 +155,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pomegranate": {
           "id": "pomegranate",
@@ -194,7 +194,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "grapefruit": {
           "id": "grapefruit",
@@ -282,7 +282,7 @@
       "name_ur": "فریش باسکٹ",
       "url": "https://freshbasket.com.pk",
       "status": "ok",
-      "item_count": 57,
+      "item_count": 55,
       "last_checked_date": "2026-11-27",
       "site_reported_date": null,
       "price_last_changed_date": "2026-11-27",
@@ -290,41 +290,41 @@
         "tomato": {
           "id": "tomato",
           "raw_name": "Tomato/Timater",
-          "price": 124,
+          "price": 132,
           "unit": "kg",
-          "raw_price": 31,
+          "raw_price": 33,
           "pack_unit": "0.25kg",
-          "original_pack_label": "Rs. 31 / 0.25kg",
+          "original_pack_label": "Rs. 33 / 0.25kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "cucumber": {
           "id": "cucumber",
           "raw_name": "Cucumber/Kheera",
-          "price": 180,
+          "price": 196,
           "unit": "kg",
-          "raw_price": 90,
+          "raw_price": 98,
           "pack_unit": "0.5kg",
-          "original_pack_label": "Rs. 90 / 0.5kg",
+          "original_pack_label": "Rs. 98 / 0.5kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-24",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "coriander": {
           "id": "coriander",
           "raw_name": "Cilantro/Dhanya - (Bunch)",
-          "price": 35,
+          "price": 30,
           "unit": "bunch",
-          "raw_price": 35,
+          "raw_price": 30,
           "pack_unit": "bunch",
-          "original_pack_label": "Rs. 35 / bunch",
+          "original_pack_label": "Rs. 30 / bunch",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "onion": {
           "id": "onion",
@@ -394,15 +394,15 @@
         "capsicum": {
           "id": "capsicum",
           "raw_name": "Shimla/Capsicum-(2pc)",
-          "price": 30,
+          "price": 25,
           "unit": "piece",
-          "raw_price": 60,
+          "raw_price": 50,
           "pack_unit": "2 pc",
-          "original_pack_label": "Rs. 60 / 2 pc",
+          "original_pack_label": "Rs. 50 / 2 pc",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "ginger": {
           "id": "ginger",
@@ -446,15 +446,15 @@
         "okra": {
           "id": "okra",
           "raw_name": "Okra/Bhindi",
-          "price": 300,
+          "price": 270,
           "unit": "kg",
-          "raw_price": 150,
+          "raw_price": 135,
           "pack_unit": "0.5kg",
-          "original_pack_label": "Rs. 150 / 0.5kg",
+          "original_pack_label": "Rs. 135 / 0.5kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-24",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "beetroot": {
           "id": "beetroot",
@@ -472,15 +472,15 @@
         "cauliflower": {
           "id": "cauliflower",
           "raw_name": "Cauliflower/Phool Gobi",
-          "price": 300,
+          "price": 346,
           "unit": "kg",
-          "raw_price": 150,
+          "raw_price": 173,
           "pack_unit": "0.5kg",
-          "original_pack_label": "Rs. 150 / 0.5kg",
+          "original_pack_label": "Rs. 173 / 0.5kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "spinach": {
           "id": "spinach",
@@ -532,16 +532,16 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "peas": {
           "id": "peas",
           "raw_name": "Peas/Matar",
-          "price": 460,
+          "price": 520,
           "unit": "kg",
-          "raw_price": 115,
+          "raw_price": 130,
           "pack_unit": "0.25kg",
-          "original_pack_label": "Rs. 115 / 0.25kg",
+          "original_pack_label": "Rs. 130 / 0.25kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
@@ -550,15 +550,15 @@
         "cabbage": {
           "id": "cabbage",
           "raw_name": "Cabbage",
-          "price": 140,
+          "price": 160,
           "unit": "kg",
-          "raw_price": 70,
+          "raw_price": 80,
           "pack_unit": "0.5kg",
-          "original_pack_label": "Rs. 70 / 0.5kg",
+          "original_pack_label": "Rs. 80 / 0.5kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "mushroom": {
           "id": "mushroom",
@@ -601,16 +601,16 @@
         },
         "beans": {
           "id": "beans",
-          "raw_name": "French Beans",
-          "price": 400,
+          "raw_name": "Beans/Guwar",
+          "price": 440,
           "unit": "kg",
-          "raw_price": 100,
+          "raw_price": 110,
           "pack_unit": "0.25kg",
-          "original_pack_label": "Rs. 100 / 0.25kg",
+          "original_pack_label": "Rs. 110 / 0.25kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "garlic_local": {
           "id": "garlic_local",
@@ -654,11 +654,11 @@
         "bitter_gourd": {
           "id": "bitter_gourd",
           "raw_name": "Karela/Bitter Gourd",
-          "price": 196,
+          "price": 210,
           "unit": "kg",
-          "raw_price": 98,
+          "raw_price": 105,
           "pack_unit": "0.5kg",
-          "original_pack_label": "Rs. 98 / 0.5kg",
+          "original_pack_label": "Rs. 105 / 0.5kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
@@ -680,11 +680,11 @@
         "taro": {
           "id": "taro",
           "raw_name": "Arvi",
-          "price": 220,
+          "price": 216,
           "unit": "kg",
-          "raw_price": 110,
+          "raw_price": 108,
           "pack_unit": "0.5kg",
-          "original_pack_label": "Rs. 110 / 0.5kg",
+          "original_pack_label": "Rs. 108 / 0.5kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
@@ -701,7 +701,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "radish": {
           "id": "radish",
@@ -714,7 +714,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "orange": {
           "id": "orange",
@@ -729,19 +729,6 @@
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
         },
-        "fenugreek": {
-          "id": "fenugreek",
-          "raw_name": "Small Methi (5 Bunch)",
-          "price": 75,
-          "unit": "bunch",
-          "raw_price": 75,
-          "pack_unit": "bunch",
-          "original_pack_label": "Rs. 75 / bunch",
-          "last_checked_date": "2026-11-27",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-24",
-          "status": "unchanged"
-        },
         "banana": {
           "id": "banana",
           "raw_name": "Banana/Kela (Semi Ripe)",
@@ -753,7 +740,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "grapes": {
           "id": "grapes",
@@ -831,7 +818,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "apple_golden": {
           "id": "apple_golden",
@@ -844,7 +831,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "mosambi": {
           "id": "mosambi",
@@ -857,7 +844,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "coconut": {
           "id": "coconut",
@@ -872,32 +859,6 @@
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
         },
-        "pomegranate": {
-          "id": "pomegranate",
-          "raw_name": "Anaar/Pomegranate - Quetta  (1kg)",
-          "price": 1445,
-          "unit": "kg",
-          "raw_price": 1445,
-          "pack_unit": "1kg",
-          "original_pack_label": "Rs. 1445 / 1kg",
-          "last_checked_date": "2026-11-27",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
-        },
-        "pomegranate_kandhari": {
-          "id": "pomegranate_kandhari",
-          "raw_name": "Anaar/Pomegranate - Kandhari - ( kg )",
-          "price": 2050,
-          "unit": "kg",
-          "raw_price": 2050,
-          "pack_unit": "1kg",
-          "original_pack_label": "Rs. 2050 / 1kg",
-          "last_checked_date": "2026-11-27",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
-          "status": "unchanged"
-        },
         "persimmon": {
           "id": "persimmon",
           "raw_name": "Persimmon/Amlok (1-kg)",
@@ -909,7 +870,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pineapple": {
           "id": "pineapple",
@@ -919,6 +880,19 @@
           "raw_price": 350,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 350 / 1 pc",
+          "last_checked_date": "2026-11-27",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-27",
+          "status": "unchanged"
+        },
+        "pomegranate": {
+          "id": "pomegranate",
+          "raw_name": "Anaar/Pomegranate - Seedless",
+          "price": 1850,
+          "unit": "kg",
+          "raw_price": 1850,
+          "pack_unit": "1kg",
+          "original_pack_label": "Rs. 1850 / 1kg",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
@@ -961,7 +935,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "mango_chaunsa": {
           "id": "mango_chaunsa",
@@ -974,7 +948,7 @@
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "mango": {
           "id": "mango",
@@ -1096,10 +1070,10 @@
       "name_ur": "رائل باسکٹ",
       "url": "https://royalbasket.pk",
       "status": "ok",
-      "item_count": 34,
+      "item_count": 36,
       "last_checked_date": "2026-11-27",
       "site_reported_date": null,
-      "price_last_changed_date": "2026-11-26",
+      "price_last_changed_date": "2026-11-27",
       "items": {
         "papaya": {
           "id": "papaya",
@@ -1156,15 +1130,15 @@
         "banana": {
           "id": "banana",
           "raw_name": "Banana Per Piece",
-          "price": 25,
+          "price": 30,
           "unit": "dozen",
-          "raw_price": 25,
+          "raw_price": 30,
           "pack_unit": "dozen",
-          "original_pack_label": "Rs. 25 / dozen",
+          "original_pack_label": "Rs. 30 / dozen",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "chikoo": {
           "id": "chikoo",
@@ -1182,15 +1156,15 @@
         "persimmon": {
           "id": "persimmon",
           "raw_name": "Persimmon",
-          "price": 884,
+          "price": 800,
           "unit": "kg",
-          "raw_price": 221,
+          "raw_price": 200,
           "pack_unit": "250g",
-          "original_pack_label": "Rs. 221 / 250g",
+          "original_pack_label": "Rs. 200 / 250g",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "pear": {
           "id": "pear",
@@ -1260,15 +1234,15 @@
         "mosambi": {
           "id": "mosambi",
           "raw_name": "Mosambi (Sweet Lime) Per Piece",
-          "price": 21,
+          "price": 25,
           "unit": "dozen",
-          "raw_price": 21,
+          "raw_price": 25,
           "pack_unit": "dozen",
-          "original_pack_label": "Rs. 21 / dozen",
+          "original_pack_label": "Rs. 25 / dozen",
           "last_checked_date": "2026-11-27",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "coconut": {
           "id": "coconut",
@@ -1321,6 +1295,32 @@
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
+        },
+        "grapes": {
+          "id": "grapes",
+          "raw_name": "Red Grapes (Lal Angoor) Premium",
+          "price": 780,
+          "unit": "kg",
+          "raw_price": 195,
+          "pack_unit": "250g",
+          "original_pack_label": "Rs. 195 / 250g",
+          "last_checked_date": "2026-11-27",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
+        },
+        "turnip": {
+          "id": "turnip",
+          "raw_name": "Turnip (Shaljam)",
+          "price": 260,
+          "unit": "kg",
+          "raw_price": 65,
+          "pack_unit": "250g",
+          "original_pack_label": "Rs. 65 / 250g",
+          "last_checked_date": "2026-11-27",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-27",
+          "status": "updated_today"
         },
         "cabbage": {
           "id": "cabbage",
