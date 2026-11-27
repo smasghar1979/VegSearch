@@ -1,23 +1,24 @@
 {
- "date": "2026-11-26",
- "prevDate": "2026-11-25",
+ "date": "2026-11-27",
+ "prevDate": "2026-11-26",
  "today": "2026-11-27",
- "stale": true,
- "generatedAt": "2026-11-27T04:57:45.376Z",
+ "stale": false,
+ "generatedAt": "2026-11-27T08:40:47.958Z",
  "source": {
   "id": "commissioner_karachi",
   "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
   "name_ur": "کمشنر کراچی ڈویژن (بیورو آف سپلائی اینڈ پرائسز / مارکیٹ کمیٹی)",
   "page": "https://commissionerkarachi.gos.pk/price-list",
-  "date": "2026-11-26",
-  "url": "https://commissionerkarachi.gos.pk/storage/price-lists/7LwtOVABrmqD6hCdZUSWt7V1hOnLG2Kp5sHziTUX.jpg"
+  "date": "2026-11-27",
+  "url": "https://commissionerkarachi.gos.pk/storage/price-lists/AoO7kZqj30s1jW3YbL9oSIfC1PcmEoCeePYTUWKm.jpg"
  },
  "dates": [
   "2026-11-19",
   "2026-11-20",
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "items": [
   {
@@ -62,6 +63,12 @@
      "a": 28,
      "w": 30,
      "r": 35
+    },
+    {
+     "d": "2026-11-27",
+     "a": 28,
+     "w": 30,
+     "r": 35
     }
    ]
   },
@@ -98,6 +105,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 24,
+     "w": 25,
+     "r": 29
+    },
+    {
+     "d": "2026-11-27",
      "a": 24,
      "w": 25,
      "r": 29
@@ -140,6 +153,12 @@
      "a": 103,
      "w": 110,
      "r": 127
+    },
+    {
+     "d": "2026-11-27",
+     "a": 103,
+     "w": 110,
+     "r": 127
     }
    ]
   },
@@ -152,9 +171,9 @@
    "a": 75,
    "w": 80,
    "r": 92,
-   "pa": 56,
-   "pw": 60,
-   "pr": 69,
+   "pa": 75,
+   "pw": 80,
+   "pr": 92,
    "series": [
     {
      "d": "2026-11-19",
@@ -176,6 +195,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 75,
+     "w": 80,
+     "r": 92
+    },
+    {
+     "d": "2026-11-27",
      "a": 75,
      "w": 80,
      "r": 92
@@ -218,6 +243,12 @@
      "a": 38,
      "w": 40,
      "r": 46
+    },
+    {
+     "d": "2026-11-27",
+     "a": 38,
+     "w": 40,
+     "r": 46
     }
    ]
   },
@@ -254,6 +285,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 179,
+     "w": 190,
+     "r": 219
+    },
+    {
+     "d": "2026-11-27",
      "a": 179,
      "w": 190,
      "r": 219
@@ -296,6 +333,12 @@
      "a": 150,
      "w": 160,
      "r": 184
+    },
+    {
+     "d": "2026-11-27",
+     "a": 150,
+     "w": 160,
+     "r": 184
     }
    ]
   },
@@ -332,6 +375,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 47,
+     "w": 50,
+     "r": 58
+    },
+    {
+     "d": "2026-11-27",
      "a": 47,
      "w": 50,
      "r": 58
@@ -374,6 +423,12 @@
      "a": 263,
      "w": 280,
      "r": 322
+    },
+    {
+     "d": "2026-11-27",
+     "a": 263,
+     "w": 280,
+     "r": 322
     }
    ]
   },
@@ -410,6 +465,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 216,
+     "w": 230,
+     "r": 253
+    },
+    {
+     "d": "2026-11-27",
      "a": 216,
      "w": 230,
      "r": 253
@@ -452,6 +513,12 @@
      "a": 47,
      "w": 50,
      "r": 58
+    },
+    {
+     "d": "2026-11-27",
+     "a": 47,
+     "w": 50,
+     "r": 58
     }
    ]
   },
@@ -488,6 +555,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 28,
+     "w": 30,
+     "r": 35
+    },
+    {
+     "d": "2026-11-27",
      "a": 28,
      "w": 30,
      "r": 35
@@ -530,6 +603,12 @@
      "a": 38,
      "w": 40,
      "r": 46
+    },
+    {
+     "d": "2026-11-27",
+     "a": 38,
+     "w": 40,
+     "r": 46
     }
    ]
   },
@@ -569,6 +648,12 @@
      "a": 24,
      "w": 25,
      "r": 29
+    },
+    {
+     "d": "2026-11-27",
+     "a": 24,
+     "w": 25,
+     "r": 29
     }
    ]
   },
@@ -578,12 +663,12 @@
    "ur": "پھول گوبھی (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 103,
-   "w": 110,
-   "r": 127,
-   "pa": 94,
-   "pw": 100,
-   "pr": 115,
+   "a": 113,
+   "w": 120,
+   "r": 138,
+   "pa": 103,
+   "pw": 110,
+   "pr": 127,
    "series": [
     {
      "d": "2026-11-19",
@@ -608,6 +693,12 @@
      "a": 103,
      "w": 110,
      "r": 127
+    },
+    {
+     "d": "2026-11-27",
+     "a": 113,
+     "w": 120,
+     "r": 138
     }
    ]
   },
@@ -647,6 +738,12 @@
      "a": 56,
      "w": 60,
      "r": 69
+    },
+    {
+     "d": "2026-11-27",
+     "a": 56,
+     "w": 60,
+     "r": 69
     }
    ]
   },
@@ -656,12 +753,12 @@
    "ur": "بینگن",
    "cat": "veg",
    "unit": "kg",
-   "a": 56,
-   "w": 60,
-   "r": 69,
-   "pa": 47,
-   "pw": 50,
-   "pr": 58,
+   "a": 47,
+   "w": 50,
+   "r": 58,
+   "pa": 56,
+   "pw": 60,
+   "pr": 69,
    "series": [
     {
      "d": "2026-11-19",
@@ -686,6 +783,12 @@
      "a": 56,
      "w": 60,
      "r": 69
+    },
+    {
+     "d": "2026-11-27",
+     "a": 47,
+     "w": 50,
+     "r": 58
     }
    ]
   },
@@ -722,6 +825,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 150,
+     "w": 160,
+     "r": 184
+    },
+    {
+     "d": "2026-11-27",
      "a": 150,
      "w": 160,
      "r": 184
@@ -764,6 +873,12 @@
      "a": 94,
      "w": 100,
      "r": 115
+    },
+    {
+     "d": "2026-11-27",
+     "a": 94,
+     "w": 100,
+     "r": 115
     }
    ]
   },
@@ -800,6 +915,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 85,
+     "w": 90,
+     "r": 104
+    },
+    {
+     "d": "2026-11-27",
      "a": 85,
      "w": 90,
      "r": 104
@@ -842,6 +963,12 @@
      "a": 66,
      "w": 70,
      "r": 81
+    },
+    {
+     "d": "2026-11-27",
+     "a": 66,
+     "w": 70,
+     "r": 81
     }
    ]
   },
@@ -851,9 +978,9 @@
    "ur": "لوکی",
    "cat": "veg",
    "unit": "kg",
-   "a": 103,
-   "w": 110,
-   "r": 127,
+   "a": 94,
+   "w": 100,
+   "r": 115,
    "pa": 103,
    "pw": 110,
    "pr": 127,
@@ -881,6 +1008,12 @@
      "a": 103,
      "w": 110,
      "r": 127
+    },
+    {
+     "d": "2026-11-27",
+     "a": 94,
+     "w": 100,
+     "r": 115
     }
    ]
   },
@@ -920,6 +1053,12 @@
      "a": 150,
      "w": 160,
      "r": 184
+    },
+    {
+     "d": "2026-11-27",
+     "a": 150,
+     "w": 160,
+     "r": 184
     }
    ]
   },
@@ -929,9 +1068,9 @@
    "ur": "توری (درجہ اول)",
    "cat": "veg",
    "unit": "kg",
-   "a": 94,
-   "w": 100,
-   "r": 115,
+   "a": 85,
+   "w": 90,
+   "r": 104,
    "pa": 94,
    "pw": 100,
    "pr": 115,
@@ -959,6 +1098,12 @@
      "a": 94,
      "w": 100,
      "r": 115
+    },
+    {
+     "d": "2026-11-27",
+     "a": 85,
+     "w": 90,
+     "r": 104
     }
    ]
   },
@@ -995,6 +1140,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 66,
+     "w": 70,
+     "r": 81
+    },
+    {
+     "d": "2026-11-27",
      "a": 66,
      "w": 70,
      "r": 81
@@ -1037,6 +1188,12 @@
      "a": 150,
      "w": 160,
      "r": 184
+    },
+    {
+     "d": "2026-11-27",
+     "a": 150,
+     "w": 160,
+     "r": 184
     }
    ]
   },
@@ -1073,6 +1230,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 56,
+     "w": 60,
+     "r": 69
+    },
+    {
+     "d": "2026-11-27",
      "a": 56,
      "w": 60,
      "r": 69
@@ -1115,6 +1278,12 @@
      "a": 47,
      "w": 50,
      "r": 58
+    },
+    {
+     "d": "2026-11-27",
+     "a": 47,
+     "w": 50,
+     "r": 58
     }
    ]
   },
@@ -1151,6 +1320,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 75,
+     "w": 80,
+     "r": 92
+    },
+    {
+     "d": "2026-11-27",
      "a": 75,
      "w": 80,
      "r": 92
@@ -1193,6 +1368,12 @@
      "a": 38,
      "w": 40,
      "r": 46
+    },
+    {
+     "d": "2026-11-27",
+     "a": 38,
+     "w": 40,
+     "r": 46
     }
    ]
   },
@@ -1229,6 +1410,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 11,
+     "w": 12,
+     "r": 14
+    },
+    {
+     "d": "2026-11-27",
      "a": 11,
      "w": 12,
      "r": 14
@@ -1271,6 +1458,12 @@
      "a": 7,
      "w": 8,
      "r": 9
+    },
+    {
+     "d": "2026-11-27",
+     "a": 7,
+     "w": 8,
+     "r": 9
     }
    ]
   },
@@ -1283,9 +1476,9 @@
    "a": 56,
    "w": 60,
    "r": 69,
-   "pa": 66,
-   "pw": 70,
-   "pr": 81,
+   "pa": 56,
+   "pw": 60,
+   "pr": 69,
    "series": [
     {
      "d": "2026-11-19",
@@ -1310,6 +1503,12 @@
      "a": 56,
      "w": 60,
      "r": 69
+    },
+    {
+     "d": "2026-11-27",
+     "a": 56,
+     "w": 60,
+     "r": 69
     }
    ]
   },
@@ -1322,9 +1521,9 @@
    "a": 38,
    "w": 40,
    "r": 46,
-   "pa": 47,
-   "pw": 50,
-   "pr": 58,
+   "pa": 38,
+   "pw": 40,
+   "pr": 46,
    "series": [
     {
      "d": "2026-11-19",
@@ -1346,6 +1545,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 38,
+     "w": 40,
+     "r": 46
+    },
+    {
+     "d": "2026-11-27",
      "a": 38,
      "w": 40,
      "r": 46
@@ -1388,6 +1593,12 @@
      "a": 52,
      "w": 55,
      "r": 63
+    },
+    {
+     "d": "2026-11-27",
+     "a": 52,
+     "w": 55,
+     "r": 63
     }
    ]
   },
@@ -1424,6 +1635,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 75,
+     "w": 80,
+     "r": 92
+    },
+    {
+     "d": "2026-11-27",
      "a": 75,
      "w": 80,
      "r": 92
@@ -1466,6 +1683,12 @@
      "a": 103,
      "w": 110,
      "r": 127
+    },
+    {
+     "d": "2026-11-27",
+     "a": 103,
+     "w": 110,
+     "r": 127
     }
    ]
   },
@@ -1502,6 +1725,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 310,
+     "w": 330,
+     "r": 380
+    },
+    {
+     "d": "2026-11-27",
      "a": 310,
      "w": 330,
      "r": 380
@@ -1544,6 +1773,12 @@
      "a": 235,
      "w": 250,
      "r": 288
+    },
+    {
+     "d": "2026-11-27",
+     "a": 235,
+     "w": 250,
+     "r": 288
     }
    ]
   },
@@ -1580,6 +1815,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 263,
+     "w": 280,
+     "r": 322
+    },
+    {
+     "d": "2026-11-27",
      "a": 263,
      "w": 280,
      "r": 322
@@ -1622,6 +1863,12 @@
      "a": 38,
      "w": 40,
      "r": 46
+    },
+    {
+     "d": "2026-11-27",
+     "a": 38,
+     "w": 40,
+     "r": 46
     }
    ]
   },
@@ -1658,6 +1905,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 66,
+     "w": 70,
+     "r": 81
+    },
+    {
+     "d": "2026-11-27",
      "a": 66,
      "w": 70,
      "r": 81
@@ -1700,6 +1953,12 @@
      "a": 85,
      "w": 90,
      "r": 104
+    },
+    {
+     "d": "2026-11-27",
+     "a": 85,
+     "w": 90,
+     "r": 104
     }
    ]
   },
@@ -1709,9 +1968,9 @@
    "ur": "لوکی گول",
    "cat": "veg",
    "unit": "kg",
-   "a": 94,
-   "w": 100,
-   "r": 115,
+   "a": 85,
+   "w": 90,
+   "r": 104,
    "pa": 94,
    "pw": 100,
    "pr": 115,
@@ -1739,6 +1998,12 @@
      "a": 94,
      "w": 100,
      "r": 115
+    },
+    {
+     "d": "2026-11-27",
+     "a": 85,
+     "w": 90,
+     "r": 104
     }
    ]
   },
@@ -1748,12 +2013,12 @@
    "ur": "بینگن لمبا",
    "cat": "veg",
    "unit": "kg",
-   "a": 66,
-   "w": 70,
-   "r": 81,
-   "pa": 47,
-   "pw": 50,
-   "pr": 58,
+   "a": 56,
+   "w": 60,
+   "r": 69,
+   "pa": 66,
+   "pw": 70,
+   "pr": 81,
    "series": [
     {
      "d": "2026-11-19",
@@ -1778,6 +2043,12 @@
      "a": 66,
      "w": 70,
      "r": 81
+    },
+    {
+     "d": "2026-11-27",
+     "a": 56,
+     "w": 60,
+     "r": 69
     }
    ]
   },
@@ -1808,6 +2079,12 @@
     },
     {
      "d": "2026-11-26",
+     "a": 235,
+     "w": 250,
+     "r": 288
+    },
+    {
+     "d": "2026-11-27",
      "a": 235,
      "w": 250,
      "r": 288
@@ -1850,48 +2127,12 @@
      "a": 85,
      "w": 90,
      "r": 104
-    }
-   ]
-  },
-  {
-   "id": "apple_gala",
-   "en": "Apple (Gala)",
-   "ur": "سیب (گالا)",
-   "cat": "fruit",
-   "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
-   "pa": null,
-   "pw": null,
-   "pr": null,
-   "series": [
+    },
     {
-     "d": "2026-11-24",
-     "a": 176,
-     "w": 187,
-     "r": null
-    }
-   ]
-  },
-  {
-   "id": "apple_gala_g2",
-   "en": "Apple (Gala) (Grade 2)",
-   "ur": "سیب (گالا) (درجہ دوئم)",
-   "cat": "fruit",
-   "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
-   "pa": null,
-   "pw": null,
-   "pr": null,
-   "series": [
-    {
-     "d": "2026-11-24",
-     "a": null,
-     "w": 160,
-     "r": null
+     "d": "2026-11-27",
+     "a": 85,
+     "w": 90,
+     "r": 104
     }
    ]
   },
@@ -1901,12 +2142,12 @@
    "ur": "کیلا (درجہ اول)",
    "cat": "fruit",
    "unit": "dozen",
-   "a": 82,
-   "w": 87,
+   "a": 79,
+   "w": 84,
    "r": null,
-   "pa": null,
-   "pw": 841,
-   "pr": 97,
+   "pa": 82,
+   "pw": 87,
+   "pr": null,
    "series": [
     {
      "d": "2026-11-19",
@@ -1931,6 +2172,12 @@
      "a": 82,
      "w": 87,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": 79,
+     "w": 84,
+     "r": null
     }
    ]
   },
@@ -1940,11 +2187,11 @@
    "ur": "کیلا (درجہ دوئم)",
    "cat": "fruit",
    "unit": "dozen",
-   "a": 70,
-   "w": 81,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 70,
+   "pw": 81,
    "pr": null,
    "series": [
     {
@@ -1973,11 +2220,11 @@
    "ur": "موسمی (درجہ اول)",
    "cat": "fruit",
    "unit": "dozen",
-   "a": 140,
-   "w": 161,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 140,
+   "pw": 161,
    "pr": null,
    "series": [
     {
@@ -2000,11 +2247,11 @@
    "ur": "موسمی (درجہ دوئم)",
    "cat": "fruit",
    "unit": "dozen",
-   "a": 120,
-   "w": 138,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 120,
+   "pw": 138,
    "pr": null,
    "series": [
     {
@@ -2028,70 +2275,16 @@
    ]
   },
   {
-   "id": "papaya",
-   "en": "Papaya",
-   "ur": "پپیتا",
-   "cat": "fruit",
-   "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
-   "pa": null,
-   "pw": null,
-   "pr": null,
-   "series": [
-    {
-     "d": "2026-11-19",
-     "a": 148,
-     "w": 157,
-     "r": 180
-    },
-    {
-     "d": "2026-11-24",
-     "a": 150,
-     "w": 159,
-     "r": null
-    }
-   ]
-  },
-  {
-   "id": "papaya_g2",
-   "en": "Papaya (Grade 2)",
-   "ur": "پپیتا (درجہ دوئم)",
-   "cat": "fruit",
-   "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
-   "pa": null,
-   "pw": null,
-   "pr": null,
-   "series": [
-    {
-     "d": "2026-11-19",
-     "a": null,
-     "w": 130,
-     "r": 150
-    },
-    {
-     "d": "2026-11-24",
-     "a": null,
-     "w": 130,
-     "r": null
-    }
-   ]
-  },
-  {
    "id": "melon",
    "en": "Melon (Grade 1)",
    "ur": "خربوزہ (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 107,
-   "w": 113,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 107,
+   "pw": 113,
    "pr": null,
    "series": [
     {
@@ -2120,11 +2313,11 @@
    "ur": "خربوزہ (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 100,
-   "w": 115,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 100,
+   "pw": 115,
    "pr": null,
    "series": [
     {
@@ -2153,11 +2346,11 @@
    "ur": "تربوز",
    "cat": "fruit",
    "unit": "kg",
-   "a": 100,
-   "w": 115,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 100,
+   "pw": 115,
    "pr": null,
    "series": [
     {
@@ -2186,11 +2379,11 @@
    "ur": "چیکو (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 168,
-   "w": 178,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 168,
+   "pw": 178,
    "pr": null,
    "series": [
     {
@@ -2219,11 +2412,11 @@
    "ur": "چیکو (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 160,
-   "w": 184,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 160,
+   "pw": 184,
    "pr": null,
    "series": [
     {
@@ -2252,11 +2445,11 @@
    "ur": "ناشپاتی",
    "cat": "fruit",
    "unit": "kg",
-   "a": 450,
-   "w": 518,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 450,
+   "pw": 518,
    "pr": null,
    "series": [
     {
@@ -2279,11 +2472,11 @@
    "ur": "آڑو (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 182,
-   "w": 193,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 182,
+   "pw": 193,
    "pr": null,
    "series": [
     {
@@ -2300,11 +2493,11 @@
    "ur": "آڑو (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 170,
-   "w": 196,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 170,
+   "pw": 196,
    "pr": null,
    "series": [
     {
@@ -2321,11 +2514,11 @@
    "ur": "خوبانی (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 148,
-   "w": 157,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 148,
+   "pw": 157,
    "pr": null,
    "series": [
     {
@@ -2342,11 +2535,11 @@
    "ur": "خوبانی (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 130,
-   "w": 150,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 130,
+   "pw": 150,
    "pr": null,
    "series": [
     {
@@ -2363,11 +2556,11 @@
    "ur": "جامن",
    "cat": "fruit",
    "unit": "kg",
-   "a": 100,
-   "w": 115,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 100,
+   "pw": 115,
    "pr": null,
    "series": [
     {
@@ -2384,11 +2577,11 @@
    "ur": "فالسہ",
    "cat": "fruit",
    "unit": "kg",
-   "a": 113,
-   "w": 130,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 113,
+   "pw": 130,
    "pr": null,
    "series": [
     {
@@ -2405,11 +2598,11 @@
    "ur": "گریپ فروٹ (درجہ اول)",
    "cat": "fruit",
    "unit": "piece",
-   "a": 17,
-   "w": 18,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 17,
+   "pw": 18,
    "pr": null,
    "series": [
     {
@@ -2438,11 +2631,11 @@
    "ur": "گریپ فروٹ (درجہ دوئم)",
    "cat": "fruit",
    "unit": "piece",
-   "a": 15,
-   "w": 17,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 15,
+   "pw": 17,
    "pr": null,
    "series": [
     {
@@ -2471,11 +2664,11 @@
    "ur": "گرما",
    "cat": "fruit",
    "unit": "kg",
-   "a": 87,
-   "w": 100,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 87,
+   "pw": 100,
    "pr": null,
    "series": [
     {
@@ -2504,11 +2697,11 @@
    "ur": "املوک",
    "cat": "fruit",
    "unit": "kg",
-   "a": 230,
-   "w": 265,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 230,
+   "pw": 265,
    "pr": null,
    "series": [
     {
@@ -2531,11 +2724,11 @@
    "ur": "تربوز لمبا",
    "cat": "fruit",
    "unit": "kg",
-   "a": 100,
-   "w": 115,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 100,
+   "pw": 115,
    "pr": null,
    "series": [
     {
@@ -2564,11 +2757,11 @@
    "ur": "انار (ایرانی) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 100,
-   "w": 115,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 100,
+   "pw": 115,
    "pr": null,
    "series": [
     {
@@ -2591,11 +2784,11 @@
    "ur": "انار (قندھاری) (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 140,
-   "w": 161,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 140,
+   "pw": 161,
    "pr": null,
    "series": [
     {
@@ -2612,11 +2805,11 @@
    "ur": "انگور (سندرخانی) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 580,
-   "w": 667,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 580,
+   "pw": 667,
    "pr": null,
    "series": [
     {
@@ -2639,11 +2832,11 @@
    "ur": "امرود (لاڑکانہ)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 500,
-   "w": 575,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 500,
+   "pw": 575,
    "pr": null,
    "series": [
     {
@@ -2666,11 +2859,11 @@
    "ur": "کھجور (ایرانی مضافاتی) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 580,
-   "w": 667,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 580,
+   "pw": 667,
    "pr": null,
    "series": [
     {
@@ -2699,11 +2892,11 @@
    "ur": "کھجور (ایرانی مضافاتی) (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 500,
-   "w": 575,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 500,
+   "pw": 575,
    "pr": null,
    "series": [
     {
@@ -2732,11 +2925,11 @@
    "ur": "کھجور (زاہدی بصرہ) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 500,
-   "w": 575,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 500,
+   "pw": 575,
    "pr": null,
    "series": [
     {
@@ -2765,11 +2958,11 @@
    "ur": "کھجور (زاہدی بصرہ) (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 450,
-   "w": 518,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 450,
+   "pw": 518,
    "pr": null,
    "series": [
     {
@@ -2798,11 +2991,11 @@
    "ur": "آم (سندھڑی)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 18,
-   "w": 21,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 18,
+   "pw": 21,
    "pr": null,
    "series": [
     {
@@ -2819,11 +3012,11 @@
    "ur": "آم (چونسا) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 178,
-   "w": 205,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 178,
+   "pw": 205,
    "pr": null,
    "series": [
     {
@@ -2840,11 +3033,11 @@
    "ur": "آم (لنگڑا)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 15,
-   "w": 17,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 15,
+   "pw": 17,
    "pr": null,
    "series": [
     {
@@ -2861,11 +3054,11 @@
    "ur": "آم (دسہری) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 243,
-   "w": 258,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 243,
+   "pw": 258,
    "pr": null,
    "series": [
     {
@@ -2888,11 +3081,11 @@
    "ur": "آم (دسہری) (درجہ دوئم)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 230,
-   "w": 265,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 230,
+   "pw": 265,
    "pr": null,
    "series": [
     {
@@ -2915,11 +3108,11 @@
    "ur": "آم (انور رٹول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 120,
-   "w": 138,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 120,
+   "pw": 138,
    "pr": null,
    "series": [
     {
@@ -2936,11 +3129,11 @@
    "ur": "گولارچی",
    "cat": "fruit",
    "unit": "kg",
-   "a": 70,
-   "w": 81,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 70,
+   "pw": 81,
    "pr": null,
    "series": [
     {
@@ -2957,11 +3150,11 @@
    "ur": "آم چونسا اول (کالا)",
    "cat": "fruit",
    "unit": "kg",
-   "a": 160,
-   "w": 184,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 160,
+   "pw": 184,
    "pr": null,
    "series": [
     {
@@ -2978,11 +3171,11 @@
    "ur": "انگور گول",
    "cat": "fruit",
    "unit": "kg",
-   "a": 500,
-   "w": 575,
+   "a": null,
+   "w": null,
    "r": null,
-   "pa": null,
-   "pw": null,
+   "pa": 500,
+   "pw": 575,
    "pr": null,
    "series": [
     {
@@ -3005,25 +3198,73 @@
    "level": "high",
    "items": [
     "apple_kala_kulu",
-    "apple_golden",
+    "pomegranate_irani",
     "grapes_sundarkhani",
-    "grapes_round",
-    "pomegranate_kandhari_g2"
+    "melon"
    ],
-   "title_ur": "پاک افغان بارڈر کی بندش سے تازہ پھلوں کی ترسیل متاثر",
-   "title_en": "Border Closure Disrupts Afghan Fruit Supply to Pakistan",
-   "summary_ur": "پاکستان اور افغانستان کی سرحد بند ہونے سے افغان تازہ پھلوں کی برآمدات میں 88 فیصد کمی واقع ہوئی ہے جس سے پاکستانی منڈیوں میں سپلائی رک گئی ہے۔",
-   "summary_en": "Fresh fruit trade from Afghanistan has dropped by 88% due to border closures, severely restricting arrivals of imported fruits in Pakistani wholesale markets.",
+   "title_ur": "پاک افغان سرحد بند ہونے سے تازہ پھلوں کی سپلائی متاثر",
+   "title_en": "Pakistan-Afghanistan Border Closure Disrupts Fresh Fruit Supply",
+   "summary_ur": "پاکستان اور افغانستان کی سرحد بند ہونے سے پھلوں کی آمد شدید متاثر ہوئی ہے اور تجارت کو بڑا نقصان ہوا ہے۔",
+   "summary_en": "Border crossing closures between Pakistan and Afghanistan have severely disrupted fresh fruit trade, leading to an 88% drop in Afghan exports.",
    "source_indexes": [
-    7
+    9,
+    19
    ],
-   "expected_effect_ur": "سیب، انگور اور انار کی سپلائی کم ہونے سے قیمتوں میں تیزی کا امکان ہے۔ Mandi prices expected to rise quickly due to shortage of Afghan apples, grapes, and pomegranates.",
+   "expected_effect_en": "Shortage and price hike expected for imported fruits such as apples, pomegranates, and grapes in Karachi markets.",
+   "expected_effect_ur": "منڈی میں سیب، انار اور انگور کی قلت اور قیمتوں میں اضافے کا امکان ہے۔",
    "sources": [
     {
      "title": "Afghanistan's fresh fruit exports fall 88% following Pakistan border closure - FreshPlaza",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUMzQnZSbHRiOGVSc0VyWXdQQ3Z2UDBwNTd6V29DTjBpR0dicHNEMWxyNVo2Xy1nWVNlczN2VHNNcVF6WWFrb3dTYXlLZGdySng5U2RKT2dNQ2duSFAzdDJQQmxLYmttSU0wTFJQaUxpMlpKVjNNbzBHV3BuTDNkcnJCVmpSbTA1MDh2ckhFc2F5c0hYbWRsMlJHTXgxVHFnRHVUWGp3Z1Z1MUFJaEVDaU81RkpUcFEwYUw4OW1XOElsZw?oc=5",
      "date": "2026-11-25T13:48:38.000Z",
      "publisher": "FreshPlaza",
+     "lang": "en"
+    },
+    {
+     "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
+     "date": "2026-11-24T13:30:28.000Z",
+     "publisher": "TOLOnews",
+     "lang": "en"
+    }
+   ]
+  },
+  {
+   "level": "medium",
+   "items": [
+    "all"
+   ],
+   "title_ur": "نومبر میں خوراک کی مہنگائی بڑھنے کا امکان",
+   "title_en": "Rising Food Inflation Projected at 9.8%",
+   "summary_ur": "نومبر میں کھانے پینے کی اشیاء کی قیمتیں بڑھنے کے باعث مہنگائی 9.8 فیصد تک جانے کا خدشہ ہے۔",
+   "summary_en": "Inflation forecasts for November project a 9.8% surge driven mainly by increasing food item prices in Pakistan.",
+   "source_indexes": [
+    15,
+    17,
+    18
+   ],
+   "expected_effect_en": "General upward price pressure on daily essentials and produce in retail markets.",
+   "expected_effect_ur": "عام استعمال کی سبزیوں کی قیمتوں پر مہنگائی کا دباؤ برقرار رہ سکتا ہے۔",
+   "sources": [
+    {
+     "title": "November inflation projected to hit 9.8% as food prices surge - Minute Mirror",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzBpNWxLMno2QVJTemQ1WmoyR2Q4Ny1WNkxmZkxIR2twc1hoZnd3V3M5T1VMU3Zib2E3ZDQ4clpaRUJuOHU4TXhKbWtHRW9FbURNRDZhV3RFYlJNVUdCdlhMV0JyYkMxQVBKN2xJZ2lXdjRGRnZmTEF4djVGeE54cjI5M1NyM3U3RE1YblhFbVlYejRPeEl2VVR6d2g?oc=5",
+     "date": "2026-11-25T05:35:11.000Z",
+     "publisher": "Minute Mirror",
+     "lang": "en"
+    },
+    {
+     "title": "Inflation projected at 9.8% as food prices bite - Investify",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdl95M2gxbm5tYm9Gd05GU19WR1VHbzMzU3ZoY2tNeUJ3dXV4S0ZPWE1ENlZWdXlFR2VBNGtqMVFvMVNVNGZDTEhFbFRsMjhpZzJiZklkenRqaFFxNWhnYnFuVU5TTFZVX0FJYWxybVp4dW5rN3lOMVY5b3QxRTNMS2E3STdSTnZjQ3Y3VkNaM1ZVaFE?oc=5",
+     "date": "2026-11-25T02:26:16.000Z",
+     "publisher": "Investify",
+     "lang": "en"
+    },
+    {
+     "title": "Inflation projected at 9.8% as food prices bite - The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHc?oc=5",
+     "date": "2026-11-24T22:04:29.000Z",
+     "publisher": "The Express Tribune",
      "lang": "en"
     }
    ]
@@ -3033,14 +3274,15 @@
    "items": [
     "all"
    ],
-   "title_ur": "ڈیزل کی قیمت میں 5 روپے کمی، کرایوں میں کمی کی امید",
-   "title_en": "Fuel Price Cut to Ease Vegetable Transport Costs",
-   "summary_ur": "حکومت نے ڈیزل کی قیمت میں 5 روپے اور پیٹرول میں 4 روپے کمی کا اعلان کیا ہے جس سے سبزی اور پھلوں کی ترسیل کے اخراجات میں معمولی کمی آ سکتی ہے۔",
-   "summary_en": "The government has lowered diesel prices by Rs5 per litre, offering modest relief on transport and freight charges for agricultural commodities to Karachi.",
+   "title_ur": "ڈیزل اور پٹرول کی قیمتوں میں کمی",
+   "title_en": "Government Reduces Petrol and Diesel Prices",
+   "summary_ur": "حکومت نے پٹرول 4 روپے اور ڈیزل 5 روپے فی لیٹر سستا کر دیا ہے۔",
+   "summary_en": "The government lowered petrol by Rs4 and diesel by Rs5 per litre, reducing freight and transportation expenses.",
    "source_indexes": [
-    5
+    7
    ],
-   "expected_effect_ur": "منڈیوں میں مال لانے والے ٹرانسپورٹ کرایوں پر مثبت اثر پڑے گا۔ Transport costs for wholesale supplies may see slight relief.",
+   "expected_effect_en": "Lower freight costs may help stabilize transport overheads for vegetables and fruits.",
+   "expected_effect_ur": "سبزیوں اور پھلوں کی منڈی تک نقل و حمل کا خرچہ کم ہوگا جس سے قیمتوں میں کچھ بہتری آ سکتی ہے۔",
    "sources": [
     {
      "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
@@ -3053,6 +3295,13 @@
   }
  ],
  "news": [
+  {
+   "title": "Keeping Russian Markets Open to Pakistani Agriculture - Centre for Strategic and Contemporary Research",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUNINllNSjRDTE8yNDlZX1pHenFaREhPZFQ0TE8wLVI1dXVCY3N6YmtnMVNUcDd3dzJIYS1VdUtFem44ak1sTmREM0k1NEZyUjdYVk5WYWJEZEtfV3RXU0dtcjczYWtEakdlYllJd0VYOWUtM1haaEJzQ2NrWFVhWXdOOWxaSk1USVh2Y3VCcWRobE1KVVg1MTEwcm8xd1NITUg0?oc=5",
+   "date": "2026-11-25T20:52:39.000Z",
+   "publisher": "Centre for Strategic and Contemporary Research",
+   "lang": "en"
+  },
   {
    "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEZPVXFSTVR5WlhsT0ttNkZKS2E0X0ZLSlJwVXliYzVPRWwyX1dFZjFZRjZ6WTFnUkllX1dhSnpXOE5yM3ItaVVMdjJUV0xfVDRfWFA3c29hS19hdVRReFNOLUs5MUpDOGhPT3doRmRTdllqcmZ0Mkc2X0dWY1ZJdTdscFB0SXNfQU5rek9R0gGWAUFVX3lxTE9TLWl4ck1Fb3hZaWVPRlVxQ2hRMDVUU3AwcUVBdk5nMW1wRHFCYzFVN1VxdGR0amI0UmJLNGM1NU5LYkxYTm5lclEyR0laY2tHdGJMa2ptSE1VbE9PbnFGNldKOU1TbHljRmNNNlZYd0dzYVkxQkJ6dDE5THluSGJuNFJNLXZxallwYVl6amNoT3JCZTRDQQ?oc=5",
@@ -3094,31 +3343,46 @@
    "date": "2026-11-24T22:04:29.000Z",
    "publisher": "The Express Tribune",
    "lang": "en"
+  },
+  {
+   "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
+   "date": "2026-11-24T13:30:28.000Z",
+   "publisher": "TOLOnews",
+   "lang": "en"
+  },
+  {
+   "title": "Climate expert warns of looming food security crisis - The News Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnhEaTNqRWx1cUZYajc1aEhnZHpsNmplVGhFbjdOam1ZczQyUTJFRVAzdGRHY0dzTzBPMGMyclA1RjVrVjVVLUptemdMZ3dETTZUTTg2aFhZMjRjSjVGbElXcktfX3JLRXVUeWZ6emxJdTlReVdIdUZwd0RNMlh6Yi11cnN6aE55QnNVTUd3WTV4Tjg?oc=5",
+   "date": "2026-11-23T19:00:00.000Z",
+   "publisher": "The News Pakistan",
+   "lang": "en"
   }
  ],
  "report": {
-  "summary_ur": "آج کراچی منڈی میں ٹماٹر اور بینگن کے داموں میں تیزی آئی ہے، جبکہ کھیرا کچھ سستا ہوا ہے۔ آلو اور پیاز کی قیمتیں اپنی جگہ مستحکم ہیں۔ افغانستان بارڈر بندش کی وجہ سے انگور اور دیگر درآمدی پھلوں کی رسد متاثر ہو سکتی ہے۔",
-  "summary_en": "Today in Karachi Mandi, tomato and brinjal prices witnessed a notable increase, while cucumbers became cheaper. Potato and onion rates remained steady. Afghan fruit supplies, especially grapes, face disruption due to border closure.",
+  "summary_ur": "آج کراچی سبزی منڈی میں پھول گوبھی کی قیمت میں اضافہ ہوا ہے جبکہ بینگن، لوکی اور توری سستے ہوئے ہیں۔ زیادہ تر بنیادی سبزیوں کی قیمتیں کل کی سطح پر ہی مستحکم ہیں۔ پاک افغان سرحد بند ہونے کی وجہ سے در آمدی پھلوں کی سپلائی متاثر ہو سکتی ہے۔",
+  "summary_en": "Today in Karachi Sabzi Mandi, cauliflower prices increased while brinjal, bottle gourd, and ridge gourd became cheaper. Prices for most daily vegetables remained stable compared to yesterday. Be aware that border closures may affect imported fruit supplies.",
   "points_ur": [
-   "ٹماٹر (درجہ اول) 20 روپے کے اضافے سے 80 روپے فی کلو اور لمبا بینگن 70 روپے فی کلو پر پہنچ گیا۔",
-   "کھیرا (درجہ اول) 10 روپے کمی کے بعد 60 روپے فی کلو پر فروخت ہو رہا ہے۔",
-   "آلو 30 روپے اور پیاز 110 روپے فی کلو پر مستحکم رہے ہیں۔",
-   "بارڈر بندش کے سبب سندرخانی انگور ہفتہ وار 75% اضافے کے ساتھ 667 روپے فی کلو پر پہنچ چکا ہے۔"
+   "پھول گوبھی (درجہ اول) 10 روپے مہنگی ہو کر 120 روپے فی کلو ہو گئی ہے۔",
+   "بینگن، لوکی اور توری (درجہ اول) کی قیمتوں میں 10 روپے فی کلو کی کمی آئی ہے۔",
+   "پیاز اور ٹماٹر کی قیمتیں مستحکم ہیں، جبکہ پیاز ہفتہ وار بنیادوں پر 15.4% سستا ہوا ہے۔",
+   "پاک افغان سرحد کی بندش سے سیب اور انار جیسے در آمدی پھلوں کی قیمتیں بڑھ سکتی ہیں۔"
   ],
   "points_en": [
-   "Tomato (Grade 1) jumped by 20 PKR to 80 PKR/kg, and long brinjal rose to 70 PKR/kg.",
-   "Cucumber (Grade 1) dropped by 10 PKR to 60 PKR/kg today.",
-   "Potato (30 PKR/kg) and onion (110 PKR/kg) remained unchanged from yesterday.",
-   "Afghan border issues pushed Sundarkhani grapes up over 75% this week to 667 PKR/kg."
+   "Cauliflower (Grade 1) rose by 10 PKR to reach 120 PKR per kg.",
+   "Brinjal, bottle gourd, and ridge gourd dropped by 10 PKR per kg today.",
+   "Onion and tomato prices remain stable, with onions down 15.4% over the past week.",
+   "Afghanistan border closure may cause shortages and price hikes for imported fruits like apples and pomegranates."
   ],
-  "advice_ur": "ٹماٹر کے دام اچانک بڑھنے پر ضرورت کے مطابق مال اٹھائیں اور بارڈر کی بندش کے پیش نظر درآمدی پھلوں میں محتاط خریداری کریں۔",
-  "advice_en": "Avoid overstocking tomatoes after today's sudden hike, and purchase imported fruits cautiously due to border supply risks."
+  "advice_ur": "قیمتیں کم ہونے کی وجہ سے لوکی اور بینگن کی مناسب خرید کریں، لیکن در آمدی پھلوں کی خریداری میں احتیاط برتیں۔",
+  "advice_en": "Consider buying gourds and brinjal while prices are down, but stay cautious when purchasing imported fruits due to supply risks."
  },
  "snapshots": [
   "2026-11-19",
   "2026-11-20",
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ]
 }

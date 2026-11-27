@@ -4,25 +4,73 @@
    "level": "high",
    "items": [
     "apple_kala_kulu",
-    "apple_golden",
+    "pomegranate_irani",
     "grapes_sundarkhani",
-    "grapes_round",
-    "pomegranate_kandhari_g2"
+    "melon"
    ],
-   "title_ur": "پاک افغان بارڈر کی بندش سے تازہ پھلوں کی ترسیل متاثر",
-   "title_en": "Border Closure Disrupts Afghan Fruit Supply to Pakistan",
-   "summary_ur": "پاکستان اور افغانستان کی سرحد بند ہونے سے افغان تازہ پھلوں کی برآمدات میں 88 فیصد کمی واقع ہوئی ہے جس سے پاکستانی منڈیوں میں سپلائی رک گئی ہے۔",
-   "summary_en": "Fresh fruit trade from Afghanistan has dropped by 88% due to border closures, severely restricting arrivals of imported fruits in Pakistani wholesale markets.",
+   "title_ur": "پاک افغان سرحد بند ہونے سے تازہ پھلوں کی سپلائی متاثر",
+   "title_en": "Pakistan-Afghanistan Border Closure Disrupts Fresh Fruit Supply",
+   "summary_ur": "پاکستان اور افغانستان کی سرحد بند ہونے سے پھلوں کی آمد شدید متاثر ہوئی ہے اور تجارت کو بڑا نقصان ہوا ہے۔",
+   "summary_en": "Border crossing closures between Pakistan and Afghanistan have severely disrupted fresh fruit trade, leading to an 88% drop in Afghan exports.",
    "source_indexes": [
-    7
+    9,
+    19
    ],
-   "expected_effect_ur": "سیب، انگور اور انار کی سپلائی کم ہونے سے قیمتوں میں تیزی کا امکان ہے۔ Mandi prices expected to rise quickly due to shortage of Afghan apples, grapes, and pomegranates.",
+   "expected_effect_en": "Shortage and price hike expected for imported fruits such as apples, pomegranates, and grapes in Karachi markets.",
+   "expected_effect_ur": "منڈی میں سیب، انار اور انگور کی قلت اور قیمتوں میں اضافے کا امکان ہے۔",
    "sources": [
     {
      "title": "Afghanistan's fresh fruit exports fall 88% following Pakistan border closure - FreshPlaza",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUMzQnZSbHRiOGVSc0VyWXdQQ3Z2UDBwNTd6V29DTjBpR0dicHNEMWxyNVo2Xy1nWVNlczN2VHNNcVF6WWFrb3dTYXlLZGdySng5U2RKT2dNQ2duSFAzdDJQQmxLYmttSU0wTFJQaUxpMlpKVjNNbzBHV3BuTDNkcnJCVmpSbTA1MDh2ckhFc2F5c0hYbWRsMlJHTXgxVHFnRHVUWGp3Z1Z1MUFJaEVDaU81RkpUcFEwYUw4OW1XOElsZw?oc=5",
      "date": "2026-11-25T13:48:38.000Z",
      "publisher": "FreshPlaza",
+     "lang": "en"
+    },
+    {
+     "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
+     "date": "2026-11-24T13:30:28.000Z",
+     "publisher": "TOLOnews",
+     "lang": "en"
+    }
+   ]
+  },
+  {
+   "level": "medium",
+   "items": [
+    "all"
+   ],
+   "title_ur": "نومبر میں خوراک کی مہنگائی بڑھنے کا امکان",
+   "title_en": "Rising Food Inflation Projected at 9.8%",
+   "summary_ur": "نومبر میں کھانے پینے کی اشیاء کی قیمتیں بڑھنے کے باعث مہنگائی 9.8 فیصد تک جانے کا خدشہ ہے۔",
+   "summary_en": "Inflation forecasts for November project a 9.8% surge driven mainly by increasing food item prices in Pakistan.",
+   "source_indexes": [
+    15,
+    17,
+    18
+   ],
+   "expected_effect_en": "General upward price pressure on daily essentials and produce in retail markets.",
+   "expected_effect_ur": "عام استعمال کی سبزیوں کی قیمتوں پر مہنگائی کا دباؤ برقرار رہ سکتا ہے۔",
+   "sources": [
+    {
+     "title": "November inflation projected to hit 9.8% as food prices surge - Minute Mirror",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzBpNWxLMno2QVJTemQ1WmoyR2Q4Ny1WNkxmZkxIR2twc1hoZnd3V3M5T1VMU3Zib2E3ZDQ4clpaRUJuOHU4TXhKbWtHRW9FbURNRDZhV3RFYlJNVUdCdlhMV0JyYkMxQVBKN2xJZ2lXdjRGRnZmTEF4djVGeE54cjI5M1NyM3U3RE1YblhFbVlYejRPeEl2VVR6d2g?oc=5",
+     "date": "2026-11-25T05:35:11.000Z",
+     "publisher": "Minute Mirror",
+     "lang": "en"
+    },
+    {
+     "title": "Inflation projected at 9.8% as food prices bite - Investify",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdl95M2gxbm5tYm9Gd05GU19WR1VHbzMzU3ZoY2tNeUJ3dXV4S0ZPWE1ENlZWdXlFR2VBNGtqMVFvMVNVNGZDTEhFbFRsMjhpZzJiZklkenRqaFFxNWhnYnFuVU5TTFZVX0FJYWxybVp4dW5rN3lOMVY5b3QxRTNMS2E3STdSTnZjQ3Y3VkNaM1ZVaFE?oc=5",
+     "date": "2026-11-25T02:26:16.000Z",
+     "publisher": "Investify",
+     "lang": "en"
+    },
+    {
+     "title": "Inflation projected at 9.8% as food prices bite - The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHc?oc=5",
+     "date": "2026-11-24T22:04:29.000Z",
+     "publisher": "The Express Tribune",
      "lang": "en"
     }
    ]
@@ -32,14 +80,15 @@
    "items": [
     "all"
    ],
-   "title_ur": "ڈیزل کی قیمت میں 5 روپے کمی، کرایوں میں کمی کی امید",
-   "title_en": "Fuel Price Cut to Ease Vegetable Transport Costs",
-   "summary_ur": "حکومت نے ڈیزل کی قیمت میں 5 روپے اور پیٹرول میں 4 روپے کمی کا اعلان کیا ہے جس سے سبزی اور پھلوں کی ترسیل کے اخراجات میں معمولی کمی آ سکتی ہے۔",
-   "summary_en": "The government has lowered diesel prices by Rs5 per litre, offering modest relief on transport and freight charges for agricultural commodities to Karachi.",
+   "title_ur": "ڈیزل اور پٹرول کی قیمتوں میں کمی",
+   "title_en": "Government Reduces Petrol and Diesel Prices",
+   "summary_ur": "حکومت نے پٹرول 4 روپے اور ڈیزل 5 روپے فی لیٹر سستا کر دیا ہے۔",
+   "summary_en": "The government lowered petrol by Rs4 and diesel by Rs5 per litre, reducing freight and transportation expenses.",
    "source_indexes": [
-    5
+    7
    ],
-   "expected_effect_ur": "منڈیوں میں مال لانے والے ٹرانسپورٹ کرایوں پر مثبت اثر پڑے گا۔ Transport costs for wholesale supplies may see slight relief.",
+   "expected_effect_en": "Lower freight costs may help stabilize transport overheads for vegetables and fruits.",
+   "expected_effect_ur": "سبزیوں اور پھلوں کی منڈی تک نقل و حمل کا خرچہ کم ہوگا جس سے قیمتوں میں کچھ بہتری آ سکتی ہے۔",
    "sources": [
     {
      "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
@@ -52,6 +101,13 @@
   }
  ],
  "articles": [
+  {
+   "title": "Keeping Russian Markets Open to Pakistani Agriculture - Centre for Strategic and Contemporary Research",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUNINllNSjRDTE8yNDlZX1pHenFaREhPZFQ0TE8wLVI1dXVCY3N6YmtnMVNUcDd3dzJIYS1VdUtFem44ak1sTmREM0k1NEZyUjdYVk5WYWJEZEtfV3RXU0dtcjczYWtEakdlYllJd0VYOWUtM1haaEJzQ2NrWFVhWXdOOWxaSk1USVh2Y3VCcWRobE1KVVg1MTEwcm8xd1NITUg0?oc=5",
+   "date": "2026-11-25T20:52:39.000Z",
+   "publisher": "Centre for Strategic and Contemporary Research",
+   "lang": "en"
+  },
   {
    "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEZPVXFSTVR5WlhsT0ttNkZKS2E0X0ZLSlJwVXliYzVPRWwyX1dFZjFZRjZ6WTFnUkllX1dhSnpXOE5yM3ItaVVMdjJUV0xfVDRfWFA3c29hS19hdVRReFNOLUs5MUpDOGhPT3doRmRTdllqcmZ0Mkc2X0dWY1ZJdTdscFB0SXNfQU5rek9R0gGWAUFVX3lxTE9TLWl4ck1Fb3hZaWVPRlVxQ2hRMDVUU3AwcUVBdk5nMW1wRHFCYzFVN1VxdGR0amI0UmJLNGM1NU5LYkxYTm5lclEyR0laY2tHdGJMa2ptSE1VbE9PbnFGNldKOU1TbHljRmNNNlZYd0dzYVkxQkJ6dDE5THluSGJuNFJNLXZxallwYVl6amNoT3JCZTRDQQ?oc=5",
@@ -93,7 +149,21 @@
    "date": "2026-11-24T22:04:29.000Z",
    "publisher": "The Express Tribune",
    "lang": "en"
+  },
+  {
+   "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
+   "date": "2026-11-24T13:30:28.000Z",
+   "publisher": "TOLOnews",
+   "lang": "en"
+  },
+  {
+   "title": "Climate expert warns of looming food security crisis - The News Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnhEaTNqRWx1cUZYajc1aEhnZHpsNmplVGhFbjdOam1ZczQyUTJFRVAzdGRHY0dzTzBPMGMyclA1RjVrVjVVLUptemdMZ3dETTZUTTg2aFhZMjRjSjVGbElXcktfX3JLRXVUeWZ6emxJdTlReVdIdUZwd0RNMlh6Yi11cnN6aE55QnNVTUd3WTV4Tjg?oc=5",
+   "date": "2026-11-23T19:00:00.000Z",
+   "publisher": "The News Pakistan",
+   "lang": "en"
   }
  ],
- "updatedAt": "2026-11-27T04:57:45.373Z"
+ "updatedAt": "2026-11-27T08:40:47.956Z"
 }
