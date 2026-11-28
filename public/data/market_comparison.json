@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T06:27:43.468Z",
-  "date_pkt": "2026-11-27",
-  "run_at_pkt": "27 Nov, 11:27 am PKT",
+  "generated_at": "2026-11-28T03:19:08.759Z",
+  "date_pkt": "2026-11-28",
+  "run_at_pkt": "28 Nov, 8:19 am PKT",
   "store_order": [
     "carrefour",
     "metro",
@@ -36,7 +36,7 @@
       "url": "https://www.metro-online.pk",
       "status": "ok",
       "item_count": 18,
-      "last_checked_date": "2026-11-27",
+      "last_checked_date": "2026-11-28",
       "site_reported_date": null,
       "price_last_changed_date": "2026-11-27",
       "items": {
@@ -48,7 +48,7 @@
           "raw_price": 112,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 112 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -61,7 +61,7 @@
           "raw_price": 112,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 112 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -74,7 +74,7 @@
           "raw_price": 34,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 34 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -87,7 +87,7 @@
           "raw_price": 100,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 100 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -100,7 +100,7 @@
           "raw_price": 22,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 22 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -113,7 +113,7 @@
           "raw_price": 44,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 44 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -126,7 +126,7 @@
           "raw_price": 39,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 39 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -139,7 +139,7 @@
           "raw_price": 29,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 29 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -152,7 +152,7 @@
           "raw_price": 129,
           "pack_unit": "dozen",
           "original_pack_label": "Rs. 129 / dozen",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -165,7 +165,7 @@
           "raw_price": 299,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 299 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -178,7 +178,7 @@
           "raw_price": 107,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 107 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -191,7 +191,7 @@
           "raw_price": 74,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 74 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -204,7 +204,7 @@
           "raw_price": 29,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 29 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -217,7 +217,7 @@
           "raw_price": 34,
           "pack_unit": "dozen",
           "original_pack_label": "Rs. 34 / dozen",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -230,7 +230,7 @@
           "raw_price": 140,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 140 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -243,7 +243,7 @@
           "raw_price": 203,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 203 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -256,7 +256,7 @@
           "raw_price": 579,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 579 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -269,7 +269,7 @@
           "raw_price": 750,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 750 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -282,10 +282,10 @@
       "name_ur": "فریش باسکٹ",
       "url": "https://freshbasket.com.pk",
       "status": "ok",
-      "item_count": 55,
-      "last_checked_date": "2026-11-27",
+      "item_count": 57,
+      "last_checked_date": "2026-11-28",
       "site_reported_date": null,
-      "price_last_changed_date": "2026-11-27",
+      "price_last_changed_date": "2026-11-28",
       "items": {
         "tomato": {
           "id": "tomato",
@@ -295,10 +295,10 @@
           "raw_price": 33,
           "pack_unit": "0.25kg",
           "original_pack_label": "Rs. 33 / 0.25kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "cucumber": {
           "id": "cucumber",
@@ -308,10 +308,10 @@
           "raw_price": 98,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 98 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "coriander": {
           "id": "coriander",
@@ -321,10 +321,10 @@
           "raw_price": 30,
           "pack_unit": "bunch",
           "original_pack_label": "Rs. 30 / bunch",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "onion": {
           "id": "onion",
@@ -334,7 +334,7 @@
           "raw_price": 130,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 130 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -347,7 +347,7 @@
           "raw_price": 105,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 105 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -360,7 +360,7 @@
           "raw_price": 120,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 120 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -373,23 +373,23 @@
           "raw_price": 20,
           "pack_unit": "bunch",
           "original_pack_label": "Rs. 20 / bunch",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
         },
         "potato": {
           "id": "potato",
-          "raw_name": "Baby Potatoes - KG",
-          "price": 100,
+          "raw_name": "Potato Loose",
+          "price": 80,
           "unit": "kg",
-          "raw_price": 100,
+          "raw_price": 80,
           "pack_unit": "1kg",
-          "original_pack_label": "Rs. 100 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "original_pack_label": "Rs. 80 / 1kg",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-25",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
         },
         "capsicum": {
           "id": "capsicum",
@@ -399,10 +399,10 @@
           "raw_price": 50,
           "pack_unit": "2 pc",
           "original_pack_label": "Rs. 50 / 2 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "ginger": {
           "id": "ginger",
@@ -412,7 +412,7 @@
           "raw_price": 120,
           "pack_unit": "0.25kg",
           "original_pack_label": "Rs. 120 / 0.25kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -425,7 +425,7 @@
           "raw_price": 40,
           "pack_unit": "200g",
           "original_pack_label": "Rs. 40 / 200g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
           "status": "unchanged"
@@ -438,7 +438,7 @@
           "raw_price": 110,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 110 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -451,10 +451,10 @@
           "raw_price": 135,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 135 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "beetroot": {
           "id": "beetroot",
@@ -464,7 +464,7 @@
           "raw_price": 90,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 90 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -477,10 +477,10 @@
           "raw_price": 173,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 173 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "spinach": {
           "id": "spinach",
@@ -490,7 +490,7 @@
           "raw_price": 65,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 65 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
           "status": "unchanged"
@@ -503,7 +503,7 @@
           "raw_price": 145,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 145 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -516,7 +516,7 @@
           "raw_price": 148,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 148 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -529,7 +529,7 @@
           "raw_price": 157,
           "pack_unit": "0.25kg",
           "original_pack_label": "Rs. 157 / 0.25kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -542,10 +542,10 @@
           "raw_price": 130,
           "pack_unit": "0.25kg",
           "original_pack_label": "Rs. 130 / 0.25kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "cabbage": {
           "id": "cabbage",
@@ -555,10 +555,10 @@
           "raw_price": 80,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 80 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "mushroom": {
           "id": "mushroom",
@@ -568,7 +568,7 @@
           "raw_price": 585,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 585 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -581,7 +581,7 @@
           "raw_price": 16,
           "pack_unit": "bunch",
           "original_pack_label": "Rs. 16 / bunch",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -594,7 +594,7 @@
           "raw_price": 125,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 125 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -607,10 +607,10 @@
           "raw_price": 110,
           "pack_unit": "0.25kg",
           "original_pack_label": "Rs. 110 / 0.25kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "garlic_local": {
           "id": "garlic_local",
@@ -620,7 +620,7 @@
           "raw_price": 96,
           "pack_unit": "0.25kg",
           "original_pack_label": "Rs. 96 / 0.25kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -633,7 +633,7 @@
           "raw_price": 98,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 98 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -646,7 +646,7 @@
           "raw_price": 165,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 165 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -659,10 +659,10 @@
           "raw_price": 105,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 105 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "brinjal": {
           "id": "brinjal",
@@ -672,7 +672,7 @@
           "raw_price": 80,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 80 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -685,10 +685,10 @@
           "raw_price": 108,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 108 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "turnip": {
           "id": "turnip",
@@ -698,7 +698,7 @@
           "raw_price": 120,
           "pack_unit": "0.5kg",
           "original_pack_label": "Rs. 120 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -711,7 +711,7 @@
           "raw_price": 145,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 145 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -719,14 +719,27 @@
         "orange": {
           "id": "orange",
           "raw_name": "Shakri Malta",
-          "price": 20,
+          "price": 24,
           "unit": "piece",
-          "raw_price": 120,
+          "raw_price": 144,
           "pack_unit": "6 pc",
-          "original_pack_label": "Rs. 120 / 6 pc",
-          "last_checked_date": "2026-11-27",
+          "original_pack_label": "Rs. 144 / 6 pc",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
+        },
+        "fenugreek": {
+          "id": "fenugreek",
+          "raw_name": "Small Methi (5 Bunch)",
+          "price": 75,
+          "unit": "bunch",
+          "raw_price": 75,
+          "pack_unit": "bunch",
+          "original_pack_label": "Rs. 75 / bunch",
+          "last_checked_date": "2026-11-28",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
         },
         "banana": {
@@ -737,7 +750,7 @@
           "raw_price": 168,
           "pack_unit": "6 pc",
           "original_pack_label": "Rs. 168 / 6 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -750,7 +763,7 @@
           "raw_price": 55,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 55 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -763,7 +776,7 @@
           "raw_price": 460,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 460 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -771,28 +784,28 @@
         "apple": {
           "id": "apple",
           "raw_name": "Custard Apple/Sharifa - (PC)",
-          "price": 340,
+          "price": 380,
           "unit": "kg",
-          "raw_price": 340,
+          "raw_price": 380,
           "pack_unit": "1kg",
-          "original_pack_label": "Rs. 340 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "original_pack_label": "Rs. 380 / 1kg",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-26",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
         },
         "kiwi": {
           "id": "kiwi",
           "raw_name": "Kiwi - Irani",
-          "price": 1626,
+          "price": 1850,
           "unit": "kg",
-          "raw_price": 813,
+          "raw_price": 925,
           "pack_unit": "0.5kg",
-          "original_pack_label": "Rs. 813 / 0.5kg",
-          "last_checked_date": "2026-11-27",
+          "original_pack_label": "Rs. 925 / 0.5kg",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-23",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
         },
         "melon": {
           "id": "melon",
@@ -802,7 +815,7 @@
           "raw_price": 295,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 295 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
           "status": "unchanged"
@@ -810,28 +823,28 @@
         "guava": {
           "id": "guava",
           "raw_name": "Guava/Amrood - Larkhana-Per Kg",
-          "price": 370,
+          "price": 395,
           "unit": "kg",
-          "raw_price": 370,
+          "raw_price": 395,
           "pack_unit": "1kg",
-          "original_pack_label": "Rs. 370 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "original_pack_label": "Rs. 395 / 1kg",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-27",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
         },
         "apple_golden": {
           "id": "apple_golden",
           "raw_name": "Apple - Golden",
-          "price": 725,
+          "price": 750,
           "unit": "kg",
-          "raw_price": 725,
+          "raw_price": 750,
           "pack_unit": "1kg",
-          "original_pack_label": "Rs. 725 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "original_pack_label": "Rs. 750 / 1kg",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
-          "price_last_changed_date": "2026-11-27",
-          "status": "unchanged"
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
         },
         "mosambi": {
           "id": "mosambi",
@@ -841,7 +854,7 @@
           "raw_price": 144,
           "pack_unit": "6 pc",
           "original_pack_label": "Rs. 144 / 6 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -854,10 +867,36 @@
           "raw_price": 440,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 440 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
+        },
+        "pomegranate": {
+          "id": "pomegranate",
+          "raw_name": "Anaar/Pomegranate - Quetta  (1kg)",
+          "price": 1650,
+          "unit": "kg",
+          "raw_price": 1650,
+          "pack_unit": "1kg",
+          "original_pack_label": "Rs. 1650 / 1kg",
+          "last_checked_date": "2026-11-28",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
+        },
+        "pomegranate_kandhari": {
+          "id": "pomegranate_kandhari",
+          "raw_name": "Anaar/Pomegranate - Kandhari - ( kg )",
+          "price": 2150,
+          "unit": "kg",
+          "raw_price": 2150,
+          "pack_unit": "1kg",
+          "original_pack_label": "Rs. 2150 / 1kg",
+          "last_checked_date": "2026-11-28",
+          "site_reported_date": null,
+          "price_last_changed_date": "2026-11-28",
+          "status": "updated_today"
         },
         "persimmon": {
           "id": "persimmon",
@@ -867,7 +906,7 @@
           "raw_price": 795,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 795 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -880,23 +919,10 @@
           "raw_price": 350,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 350 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
-        },
-        "pomegranate": {
-          "id": "pomegranate",
-          "raw_name": "Anaar/Pomegranate - Seedless",
-          "price": 1850,
-          "unit": "kg",
-          "raw_price": 1850,
-          "pack_unit": "1kg",
-          "original_pack_label": "Rs. 1850 / 1kg",
-          "last_checked_date": "2026-11-27",
-          "site_reported_date": null,
-          "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
         },
         "pear": {
           "id": "pear",
@@ -906,7 +932,7 @@
           "raw_price": 1050,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 1050 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -919,7 +945,7 @@
           "raw_price": 595,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 595 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
           "status": "unchanged"
@@ -932,7 +958,7 @@
           "raw_price": 650,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 650 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -945,7 +971,7 @@
           "raw_price": 420,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 420 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
           "status": "unchanged"
@@ -958,7 +984,7 @@
           "raw_price": 350,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 350 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
           "status": "unchanged"
@@ -971,7 +997,7 @@
           "raw_price": 300,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 300 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -984,7 +1010,7 @@
           "raw_price": 350,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 350 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
           "status": "unchanged"
@@ -997,7 +1023,7 @@
           "raw_price": 795,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 795 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1071,7 +1097,7 @@
       "url": "https://royalbasket.pk",
       "status": "ok",
       "item_count": 36,
-      "last_checked_date": "2026-11-27",
+      "last_checked_date": "2026-11-28",
       "site_reported_date": null,
       "price_last_changed_date": "2026-11-27",
       "items": {
@@ -1083,7 +1109,7 @@
           "raw_price": 450,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 450 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1096,7 +1122,7 @@
           "raw_price": 800,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 800 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1109,7 +1135,7 @@
           "raw_price": 188,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 188 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1122,7 +1148,7 @@
           "raw_price": 185,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 185 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -1135,10 +1161,10 @@
           "raw_price": 30,
           "pack_unit": "dozen",
           "original_pack_label": "Rs. 30 / dozen",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "chikoo": {
           "id": "chikoo",
@@ -1148,7 +1174,7 @@
           "raw_price": 115,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 115 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -1161,10 +1187,10 @@
           "raw_price": 200,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 200 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "pear": {
           "id": "pear",
@@ -1174,7 +1200,7 @@
           "raw_price": 240,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 240 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -1187,7 +1213,7 @@
           "raw_price": 54,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 54 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -1200,7 +1226,7 @@
           "raw_price": 400,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 400 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-24",
           "status": "unchanged"
@@ -1213,7 +1239,7 @@
           "raw_price": 160,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 160 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1226,7 +1252,7 @@
           "raw_price": 330,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 330 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1239,10 +1265,10 @@
           "raw_price": 25,
           "pack_unit": "dozen",
           "original_pack_label": "Rs. 25 / dozen",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "coconut": {
           "id": "coconut",
@@ -1252,7 +1278,7 @@
           "raw_price": 545,
           "pack_unit": "1 pc",
           "original_pack_label": "Rs. 545 / 1 pc",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1265,7 +1291,7 @@
           "raw_price": 118,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 118 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
           "status": "unchanged"
@@ -1278,7 +1304,7 @@
           "raw_price": 178,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 178 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
           "status": "unchanged"
@@ -1291,7 +1317,7 @@
           "raw_price": 35,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 35 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1304,10 +1330,10 @@
           "raw_price": 195,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 195 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "turnip": {
           "id": "turnip",
@@ -1317,10 +1343,10 @@
           "raw_price": 65,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 65 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-27",
-          "status": "updated_today"
+          "status": "unchanged"
         },
         "cabbage": {
           "id": "cabbage",
@@ -1330,7 +1356,7 @@
           "raw_price": 35,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 35 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
           "status": "unchanged"
@@ -1343,7 +1369,7 @@
           "raw_price": 685,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 685 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1356,7 +1382,7 @@
           "raw_price": 1030,
           "pack_unit": "dozen",
           "original_pack_label": "Rs. 1030 / dozen",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1369,7 +1395,7 @@
           "raw_price": 325,
           "pack_unit": "380g",
           "original_pack_label": "Rs. 325 / 380g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1382,7 +1408,7 @@
           "raw_price": 199,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 199 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-25",
           "status": "unchanged"
@@ -1395,7 +1421,7 @@
           "raw_price": 1560,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 1560 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1408,7 +1434,7 @@
           "raw_price": 490,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 490 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1421,7 +1447,7 @@
           "raw_price": 59,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 59 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1434,7 +1460,7 @@
           "raw_price": 39,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 39 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1447,7 +1473,7 @@
           "raw_price": 45,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 45 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-26",
           "status": "unchanged"
@@ -1460,7 +1486,7 @@
           "raw_price": 300,
           "pack_unit": "bunch",
           "original_pack_label": "Rs. 300 / bunch",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1473,7 +1499,7 @@
           "raw_price": 446,
           "pack_unit": "150g",
           "original_pack_label": "Rs. 446 / 150g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1486,7 +1512,7 @@
           "raw_price": 1250,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 1250 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1499,7 +1525,7 @@
           "raw_price": 862,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 862 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1512,7 +1538,7 @@
           "raw_price": 370,
           "pack_unit": "1kg",
           "original_pack_label": "Rs. 370 / 1kg",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1525,7 +1551,7 @@
           "raw_price": 245,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 245 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
@@ -1538,7 +1564,7 @@
           "raw_price": 365,
           "pack_unit": "250g",
           "original_pack_label": "Rs. 365 / 250g",
-          "last_checked_date": "2026-11-27",
+          "last_checked_date": "2026-11-28",
           "site_reported_date": null,
           "price_last_changed_date": "2026-11-23",
           "status": "unchanged"
