@@ -1,9 +1,9 @@
 {
  "date": "2026-11-27",
  "prevDate": "2026-11-26",
- "today": "2026-11-27",
- "stale": false,
- "generatedAt": "2026-11-27T08:40:47.958Z",
+ "today": "2026-11-28",
+ "stale": true,
+ "generatedAt": "2026-11-28T04:56:34.478Z",
  "source": {
   "id": "commissioner_karachi",
   "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
@@ -2137,6 +2137,114 @@
    ]
   },
   {
+   "id": "apple_kala_kulu",
+   "en": "Apple (Kala Kulu) (Grade 1)",
+   "ur": "سیب (کالا کولو) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 182,
+   "w": 193,
+   "r": 222,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 171,
+     "w": 181,
+     "r": 208
+    },
+    {
+     "d": "2026-11-27",
+     "a": 182,
+     "w": 193,
+     "r": 222
+    }
+   ]
+  },
+  {
+   "id": "apple_kala_kulu_g2",
+   "en": "Apple (Kala Kulu) (Grade 2)",
+   "ur": "سیب (کالا کولو) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 170,
+   "r": 196,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 160,
+     "r": 184
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 170,
+     "r": 196
+    }
+   ]
+  },
+  {
+   "id": "apple_golden",
+   "en": "Apple (Golden) (Grade 1)",
+   "ur": "سیب (گولڈن) (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 236,
+   "w": 250,
+   "r": 288,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 229,
+     "w": 243,
+     "r": 267
+    },
+    {
+     "d": "2026-11-27",
+     "a": 236,
+     "w": 250,
+     "r": 288
+    }
+   ]
+  },
+  {
+   "id": "apple_golden_g2",
+   "en": "Apple (Golden) (Grade 2)",
+   "ur": "سیب (گولڈن) (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 220,
+   "r": 253,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 210,
+     "r": 241
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 220,
+     "r": 253
+    }
+   ]
+  },
+  {
    "id": "banana",
    "en": "Banana (Grade 1)",
    "ur": "کیلا (درجہ اول)",
@@ -2144,7 +2252,7 @@
    "unit": "dozen",
    "a": 79,
    "w": 84,
-   "r": null,
+   "r": 97,
    "pa": 82,
    "pw": 87,
    "pr": null,
@@ -2177,7 +2285,7 @@
      "d": "2026-11-27",
      "a": 79,
      "w": 84,
-     "r": null
+     "r": 97
     }
    ]
   },
@@ -2188,8 +2296,8 @@
    "cat": "fruit",
    "unit": "dozen",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 70,
+   "r": 81,
    "pa": 70,
    "pw": 81,
    "pr": null,
@@ -2211,6 +2319,12 @@
      "a": 70,
      "w": 81,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 70,
+     "r": 81
     }
    ]
   },
@@ -2221,8 +2335,8 @@
    "cat": "fruit",
    "unit": "dozen",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 136,
+   "r": 156,
    "pa": 140,
    "pw": 161,
    "pr": null,
@@ -2238,6 +2352,12 @@
      "a": 140,
      "w": 161,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 136,
+     "r": 156
     }
    ]
   },
@@ -2248,8 +2368,8 @@
    "cat": "fruit",
    "unit": "dozen",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 115,
+   "r": 132,
    "pa": 120,
    "pw": 138,
    "pr": null,
@@ -2271,6 +2391,105 @@
      "a": 120,
      "w": 138,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 115,
+     "r": 132
+    }
+   ]
+  },
+  {
+   "id": "guava",
+   "en": "Guava (Grade 1)",
+   "ur": "امرود (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 121,
+   "w": 128,
+   "r": 147,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 127,
+     "w": 135,
+     "r": 155
+    },
+    {
+     "d": "2026-11-27",
+     "a": 121,
+     "w": 128,
+     "r": 147
+    }
+   ]
+  },
+  {
+   "id": "papaya",
+   "en": "Papaya (Grade 1)",
+   "ur": "پپیتا (درجہ اول)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": 150,
+   "w": 159,
+   "r": 183,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": 148,
+     "w": 157,
+     "r": 180
+    },
+    {
+     "d": "2026-11-24",
+     "a": 150,
+     "w": 159,
+     "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": 150,
+     "w": 159,
+     "r": 183
+    }
+   ]
+  },
+  {
+   "id": "papaya_g2",
+   "en": "Papaya (Grade 2)",
+   "ur": "پپیتا (درجہ دوئم)",
+   "cat": "fruit",
+   "unit": "kg",
+   "a": null,
+   "w": 130,
+   "r": 150,
+   "pa": null,
+   "pw": null,
+   "pr": null,
+   "series": [
+    {
+     "d": "2026-11-19",
+     "a": null,
+     "w": 130,
+     "r": 150
+    },
+    {
+     "d": "2026-11-24",
+     "a": null,
+     "w": 130,
+     "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 130,
+     "r": 150
     }
    ]
   },
@@ -2280,9 +2499,9 @@
    "ur": "خربوزہ (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
+   "a": 100,
+   "w": 106,
+   "r": 122,
    "pa": 107,
    "pw": 113,
    "pr": null,
@@ -2304,6 +2523,12 @@
      "a": 107,
      "w": 113,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": 100,
+     "w": 106,
+     "r": 122
     }
    ]
   },
@@ -2314,8 +2539,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 90,
+   "r": 104,
    "pa": 100,
    "pw": 115,
    "pr": null,
@@ -2337,18 +2562,24 @@
      "a": 100,
      "w": 115,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 90,
+     "r": 104
     }
    ]
   },
   {
    "id": "watermelon",
-   "en": "Watermelon",
-   "ur": "تربوز",
+   "en": "Watermelon (Grade 1)",
+   "ur": "تربوز (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 100,
+   "r": 115,
    "pa": 100,
    "pw": 115,
    "pr": null,
@@ -2370,6 +2601,12 @@
      "a": 100,
      "w": 115,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 100,
+     "r": 115
     }
    ]
   },
@@ -2379,9 +2616,9 @@
    "ur": "چیکو (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
+   "a": 168,
+   "w": 178,
+   "r": 205,
    "pa": 168,
    "pw": 178,
    "pr": null,
@@ -2403,6 +2640,12 @@
      "a": 168,
      "w": 178,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": 168,
+     "w": 178,
+     "r": 205
     }
    ]
   },
@@ -2413,8 +2656,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 160,
+   "r": 184,
    "pa": 160,
    "pw": 184,
    "pr": null,
@@ -2436,18 +2679,24 @@
      "a": 160,
      "w": 184,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 160,
+     "r": 184
     }
    ]
   },
   {
    "id": "pear",
-   "en": "Pear",
-   "ur": "ناشپاتی",
+   "en": "Pear (Grade 1)",
+   "ur": "ناشپاتی (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 500,
+   "r": 575,
    "pa": 450,
    "pw": 518,
    "pr": null,
@@ -2463,6 +2712,12 @@
      "a": 450,
      "w": 518,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 500,
+     "r": 575
     }
    ]
   },
@@ -2598,9 +2853,9 @@
    "ur": "گریپ فروٹ (درجہ اول)",
    "cat": "fruit",
    "unit": "piece",
-   "a": null,
-   "w": null,
-   "r": null,
+   "a": 17,
+   "w": 18,
+   "r": 21,
    "pa": 17,
    "pw": 18,
    "pr": null,
@@ -2622,6 +2877,12 @@
      "a": 17,
      "w": 18,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": 17,
+     "w": 18,
+     "r": 21
     }
    ]
   },
@@ -2632,8 +2893,8 @@
    "cat": "fruit",
    "unit": "piece",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 15,
+   "r": 17,
    "pa": 15,
    "pw": 17,
    "pr": null,
@@ -2655,18 +2916,24 @@
      "a": 15,
      "w": 17,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 15,
+     "r": 17
     }
    ]
   },
   {
    "id": "garma",
-   "en": "Garma Melon",
-   "ur": "گرما",
+   "en": "Garma Melon (Grade 1)",
+   "ur": "گرما (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 120,
+   "r": 138,
    "pa": 87,
    "pw": 100,
    "pr": null,
@@ -2688,18 +2955,24 @@
      "a": 87,
      "w": 100,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 120,
+     "r": 138
     }
    ]
   },
   {
    "id": "amlok",
-   "en": "Amlok (Date Plum)",
-   "ur": "املوک",
+   "en": "Amlok (Date Plum) (Grade 1)",
+   "ur": "املوک (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
+   "a": 270,
+   "w": 286,
+   "r": 329,
    "pa": 230,
    "pw": 265,
    "pr": null,
@@ -2715,18 +2988,24 @@
      "a": 230,
      "w": 265,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": 270,
+     "w": 286,
+     "r": 329
     }
    ]
   },
   {
    "id": "watermelon_long",
-   "en": "Watermelon (Long)",
-   "ur": "تربوز لمبا",
+   "en": "Watermelon (Long) (Grade 1)",
+   "ur": "تربوز لمبا (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 100,
+   "r": 115,
    "pa": 100,
    "pw": 115,
    "pr": null,
@@ -2748,6 +3027,12 @@
      "a": 100,
      "w": 115,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 100,
+     "r": 115
     }
    ]
   },
@@ -2758,8 +3043,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 490,
+   "r": 564,
    "pa": 100,
    "pw": 115,
    "pr": null,
@@ -2775,6 +3060,12 @@
      "a": 100,
      "w": 115,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 490,
+     "r": 564
     }
    ]
   },
@@ -2806,8 +3097,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 400,
+   "r": 460,
    "pa": 580,
    "pw": 667,
    "pr": null,
@@ -2823,18 +3114,24 @@
      "a": 580,
      "w": 667,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 400,
+     "r": 460
     }
    ]
   },
   {
    "id": "guava_larkana",
-   "en": "Guava (Larkana)",
-   "ur": "امرود (لاڑکانہ)",
+   "en": "Guava (Larkana) (Grade 1)",
+   "ur": "امرود (لاڑکانہ) (درجہ اول)",
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 110,
+   "r": 127,
    "pa": 500,
    "pw": 575,
    "pr": null,
@@ -2850,6 +3147,12 @@
      "a": 500,
      "w": 575,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 110,
+     "r": 127
     }
    ]
   },
@@ -2860,8 +3163,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 580,
+   "r": 667,
    "pa": 580,
    "pw": 667,
    "pr": null,
@@ -2883,6 +3186,12 @@
      "a": 580,
      "w": 667,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 580,
+     "r": 667
     }
    ]
   },
@@ -2893,8 +3202,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 500,
+   "r": 575,
    "pa": 500,
    "pw": 575,
    "pr": null,
@@ -2916,6 +3225,12 @@
      "a": 500,
      "w": 575,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 500,
+     "r": 575
     }
    ]
   },
@@ -2926,8 +3241,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 500,
+   "r": 575,
    "pa": 500,
    "pw": 575,
    "pr": null,
@@ -2949,6 +3264,12 @@
      "a": 500,
      "w": 575,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 500,
+     "r": 575
     }
    ]
   },
@@ -2959,8 +3280,8 @@
    "cat": "fruit",
    "unit": "kg",
    "a": null,
-   "w": null,
-   "r": null,
+   "w": 450,
+   "r": 518,
    "pa": 450,
    "pw": 518,
    "pr": null,
@@ -2982,6 +3303,12 @@
      "a": 450,
      "w": 518,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": null,
+     "w": 450,
+     "r": 518
     }
    ]
   },
@@ -3171,9 +3498,9 @@
    "ur": "انگور گول",
    "cat": "fruit",
    "unit": "kg",
-   "a": null,
-   "w": null,
-   "r": null,
+   "a": 300,
+   "w": 318,
+   "r": 366,
    "pa": 500,
    "pw": 575,
    "pr": null,
@@ -3189,6 +3516,12 @@
      "a": 500,
      "w": 575,
      "r": null
+    },
+    {
+     "d": "2026-11-27",
+     "a": 300,
+     "w": 318,
+     "r": 366
     }
    ]
   }
@@ -3199,32 +3532,23 @@
    "items": [
     "apple_kala_kulu",
     "pomegranate_irani",
-    "grapes_sundarkhani",
-    "melon"
+    "grapes_sundarkhani"
    ],
-   "title_ur": "پاک افغان سرحد بند ہونے سے تازہ پھلوں کی سپلائی متاثر",
-   "title_en": "Pakistan-Afghanistan Border Closure Disrupts Fresh Fruit Supply",
-   "summary_ur": "پاکستان اور افغانستان کی سرحد بند ہونے سے پھلوں کی آمد شدید متاثر ہوئی ہے اور تجارت کو بڑا نقصان ہوا ہے۔",
-   "summary_en": "Border crossing closures between Pakistan and Afghanistan have severely disrupted fresh fruit trade, leading to an 88% drop in Afghan exports.",
+   "title_ur": "پاک افغان بارڈر کی بندش سے پھلوں کی آمد شدید متاثر",
+   "title_en": "Pak-Afghan Border Closure Halts Fresh Fruit Supplies",
+   "summary_ur": "پاکستان کے ساتھ سرحد بند ہونے کی وجہ سے افغانستان سے تازہ پھلوں کی درامد میں 88 فیصد کمی آئی ہے۔",
+   "summary_en": "Fresh fruit exports from Afghanistan dropped 88% following the border closure with Pakistan.",
    "source_indexes": [
-    9,
-    19
+    17
    ],
-   "expected_effect_en": "Shortage and price hike expected for imported fruits such as apples, pomegranates, and grapes in Karachi markets.",
-   "expected_effect_ur": "منڈی میں سیب، انار اور انگور کی قلت اور قیمتوں میں اضافے کا امکان ہے۔",
+   "expected_effect_en": "Reduced inflow of Afghan fruits like apples, grapes, and pomegranates will cause supply shortages and price surges in Karachi markets.",
+   "expected_effect_ur": "کراچی کی منڈیوں میں ایرانی و افغانی پھلوں کی سپلائی کم ہوگی اور قیمتیں بڑھ سکتی ہیں۔",
    "sources": [
     {
      "title": "Afghanistan's fresh fruit exports fall 88% following Pakistan border closure - FreshPlaza",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUMzQnZSbHRiOGVSc0VyWXdQQ3Z2UDBwNTd6V29DTjBpR0dicHNEMWxyNVo2Xy1nWVNlczN2VHNNcVF6WWFrb3dTYXlLZGdySng5U2RKT2dNQ2duSFAzdDJQQmxLYmttSU0wTFJQaUxpMlpKVjNNbzBHV3BuTDNkcnJCVmpSbTA1MDh2ckhFc2F5c0hYbWRsMlJHTXgxVHFnRHVUWGp3Z1Z1MUFJaEVDaU81RkpUcFEwYUw4OW1XOElsZw?oc=5",
      "date": "2026-11-25T13:48:38.000Z",
      "publisher": "FreshPlaza",
-     "lang": "en"
-    },
-    {
-     "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
-     "date": "2026-11-24T13:30:28.000Z",
-     "publisher": "TOLOnews",
      "lang": "en"
     }
    ]
@@ -3234,36 +3558,44 @@
    "items": [
     "all"
    ],
-   "title_ur": "نومبر میں خوراک کی مہنگائی بڑھنے کا امکان",
-   "title_en": "Rising Food Inflation Projected at 9.8%",
-   "summary_ur": "نومبر میں کھانے پینے کی اشیاء کی قیمتیں بڑھنے کے باعث مہنگائی 9.8 فیصد تک جانے کا خدشہ ہے۔",
-   "summary_en": "Inflation forecasts for November project a 9.8% surge driven mainly by increasing food item prices in Pakistan.",
+   "title_ur": "سندھ اور بلوچستان میں خشک سالی کا الرٹ",
+   "title_en": "Drought Alert Issued for Sindh and Balochistan",
+   "summary_ur": "محکمہ موسمیات نے سندھ اور بلوچستان میں خشک سالی کا الرٹ جاری کر دیا ہے۔",
+   "summary_en": "A drought alert has been issued for Sindh and Balochistan alongside falling minimum temperatures.",
    "source_indexes": [
-    15,
-    17,
-    18
+    20
    ],
-   "expected_effect_en": "General upward price pressure on daily essentials and produce in retail markets.",
-   "expected_effect_ur": "عام استعمال کی سبزیوں کی قیمتوں پر مہنگائی کا دباؤ برقرار رہ سکتا ہے۔",
+   "expected_effect_en": "Water scarcity in regional agricultural zones may impact local vegetable yields and supply to Karachi in coming weeks.",
+   "expected_effect_ur": "پانی کی کمی سے مقامی سبزیوں کی کاشت اور منڈی میں سپلائی پر برے اثرات پڑ سکتے ہیں۔",
    "sources": [
     {
-     "title": "November inflation projected to hit 9.8% as food prices surge - Minute Mirror",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzBpNWxLMno2QVJTemQ1WmoyR2Q4Ny1WNkxmZkxIR2twc1hoZnd3V3M5T1VMU3Zib2E3ZDQ4clpaRUJuOHU4TXhKbWtHRW9FbURNRDZhV3RFYlJNVUdCdlhMV0JyYkMxQVBKN2xJZ2lXdjRGRnZmTEF4djVGeE54cjI5M1NyM3U3RE1YblhFbVlYejRPeEl2VVR6d2g?oc=5",
-     "date": "2026-11-25T05:35:11.000Z",
-     "publisher": "Minute Mirror",
+     "title": "Karachi Weather: Minimum Temperature Drops to 16.5°C as drought alert issued for Sindh, Balochistan - Daily Ausaf",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFROQ25qNHpUMlIwVGl2ZVQtb0NUdGFpdWhNc1QyVkdzYlRCYXJST0EtS0FtY2hzT0hyR2cwQVlObDk3U1QwcjdKb05tamJWUzVOanhzdkcwY2ZWWUpNcDR1WWk4ZjFTUnVodEFFLUhhMEh2TW9PTVB0V2I4RXoyLXBrMnBYTnl6eWlJY2pkbVVlQmZOUmMyMGN4WFQ1a1lGeWVYczB2OUlSZl9wZzZ3NkNyQUdiZl9EWTdfVmJubm5mZ3BTNjQyTzhxSdIB0AFBVV95cUxNRXFlcHM5dlEzNkZpZnNvcVhFc3pQSFpEbi1QbEo5cEY1dDhzbkFER0pEMkIwSWU0dmo2Rk8xRTlCbjhxN0h6US1Wa2lDdFc5Rm96bzZOa3hlZ0t2VFBGbGM3V3A5Z2N4eXZRMWFudlJHMGhpM2Jib3RDNVRCZEtSZ3NxUEVQbjl5enN6RnR4SXRIYVRsM2RDUFBSMU1UREhna1pMUmpveUZIM2JYLXktOTdUOTh5Mks0TWd6M3NFQ0VfUTZrMzc3UFU4MTVNQnpH?oc=5",
+     "date": "2026-11-25T07:44:53.000Z",
+     "publisher": "Daily Ausaf",
      "lang": "en"
-    },
+    }
+   ]
+  },
+  {
+   "level": "low",
+   "items": [
+    "all"
+   ],
+   "title_ur": "پٹرول اور ڈیزل کی قیمتوں میں کمی",
+   "title_en": "Fuel Prices Reduced Nationwide",
+   "summary_ur": "حکومت نے پٹرول 4 روپے اور ڈیزل 5 روپے فی لیٹر سستا کر دیا ہے۔",
+   "summary_en": "The government reduced petrol prices by Rs 4 and diesel by Rs 5 per litre.",
+   "source_indexes": [
+    15
+   ],
+   "expected_effect_en": "Reduced transport diesel costs will slightly lower freight charges for bringing produce to Karachi mandi.",
+   "expected_effect_ur": "گاڑیوں کا ڈیزل سستا ہونے سے سبزیوں کا ٹرانسپورٹ کرایہ کچھ کم ہوگا اور قیمتیں مستحکم رہیں گی۔",
+   "sources": [
     {
-     "title": "Inflation projected at 9.8% as food prices bite - Investify",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdl95M2gxbm5tYm9Gd05GU19WR1VHbzMzU3ZoY2tNeUJ3dXV4S0ZPWE1ENlZWdXlFR2VBNGtqMVFvMVNVNGZDTEhFbFRsMjhpZzJiZklkenRqaFFxNWhnYnFuVU5TTFZVX0FJYWxybVp4dW5rN3lOMVY5b3QxRTNMS2E3STdSTnZjQ3Y3VkNaM1ZVaFE?oc=5",
-     "date": "2026-11-25T02:26:16.000Z",
-     "publisher": "Investify",
-     "lang": "en"
-    },
-    {
-     "title": "Inflation projected at 9.8% as food prices bite - The Express Tribune",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHc?oc=5",
-     "date": "2026-11-24T22:04:29.000Z",
+     "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEZPVXFSTVR5WlhsT0ttNkZKS2E0X0ZLSlJwVXliYzVPRWwyX1dFZjFZRjZ6WTFnUkllX1dhSnpXOE5yM3ItaVVMdjJUV0xfVDRfWFA3c29hS19hdVRReFNOLUs5MUpDOGhPT3doRmRTdllqcmZ0Mkc2X0dWY1ZJdTdscFB0SXNfQU5rek9R0gGWAUFVX3lxTE9TLWl4ck1Fb3hZaWVPRlVxQ2hRMDVUU3AwcUVBdk5nMW1wRHFCYzFVN1VxdGR0amI0UmJLNGM1NU5LYkxYTm5lclEyR0laY2tHdGJMa2ptSE1VbE9PbnFGNldKOU1TbHljRmNNNlZYd0dzYVkxQkJ6dDE5THluSGJuNFJNLXZxallwYVl6amNoT3JCZTRDQQ?oc=5",
+     "date": "2026-11-25T19:02:24.000Z",
      "publisher": "The Express Tribune",
      "lang": "en"
     }
@@ -3274,27 +3606,34 @@
    "items": [
     "all"
    ],
-   "title_ur": "ڈیزل اور پٹرول کی قیمتوں میں کمی",
-   "title_en": "Government Reduces Petrol and Diesel Prices",
-   "summary_ur": "حکومت نے پٹرول 4 روپے اور ڈیزل 5 روپے فی لیٹر سستا کر دیا ہے۔",
-   "summary_en": "The government lowered petrol by Rs4 and diesel by Rs5 per litre, reducing freight and transportation expenses.",
+   "title_ur": "سبزیوں کی قیمتوں میں نمایاں کمی",
+   "title_en": "Vegetable Prices Drop Significantly",
+   "summary_ur": "رمضان سے قبل سبزیوں کی قیمتوں میں 50 فیصد تک کمی دیکھی گئی ہے۔",
+   "summary_en": "Vegetable prices dropped up to 50% due to improved supply.",
    "source_indexes": [
-    7
+    6
    ],
-   "expected_effect_en": "Lower freight costs may help stabilize transport overheads for vegetables and fruits.",
-   "expected_effect_ur": "سبزیوں اور پھلوں کی منڈی تک نقل و حمل کا خرچہ کم ہوگا جس سے قیمتوں میں کچھ بہتری آ سکتی ہے۔",
+   "expected_effect_en": "Abundant market arrivals will keep basic vegetable prices affordable for consumers in the near term.",
+   "expected_effect_ur": "منڈی میں سبزیوں کی آمد زیادہ ہونے سے گاہکوں کو کم قیمت پر سبزیاں ملیں گی۔",
    "sources": [
     {
-     "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEZPVXFSTVR5WlhsT0ttNkZKS2E0X0ZLSlJwVXliYzVPRWwyX1dFZjFZRjZ6WTFnUkllX1dhSnpXOE5yM3ItaVVMdjJUV0xfVDRfWFA3c29hS19hdVRReFNOLUs5MUpDOGhPT3doRmRTdllqcmZ0Mkc2X0dWY1ZJdTdscFB0SXNfQU5rek9R0gGWAUFVX3lxTE9TLWl4ck1Fb3hZaWVPRlVxQ2hRMDVUU3AwcUVBdk5nMW1wRHFCYzFVN1VxdGR0amI0UmJLNGM1NU5LYkxYTm5lclEyR0laY2tHdGJMa2ptSE1VbE9PbnFGNldKOU1TbHljRmNNNlZYd0dzYVkxQkJ6dDE5THluSGJuNFJNLXZxallwYVl6amNoT3JCZTRDQQ?oc=5",
-     "date": "2026-11-25T19:02:24.000Z",
-     "publisher": "The Express Tribune",
+     "title": "Vegetable prices drop by 50% ahead of Ramadan - Bol News",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzMxZER1aVpVREdSbjd2eG5DUFRmRWVlWnduSF9WZnNrU1NmSDRHWkxtRENrWEZMRUZoSEJMZ28wUi1sbVM4TENBcEl1elFvazZLcllYRlJPcVNER1lMM1Q0VkJhRFJlT3hBOWN6Xy1FTExiVFlEWEhUVTJDYVJuSExZNA?oc=5",
+     "date": "2026-11-27T18:09:54.000Z",
+     "publisher": "Bol News",
      "lang": "en"
     }
    ]
   }
  ],
  "news": [
+  {
+   "title": "Vegetable prices drop by 50% ahead of Ramadan - Bol News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzMxZER1aVpVREdSbjd2eG5DUFRmRWVlWnduSF9WZnNrU1NmSDRHWkxtRENrWEZMRUZoSEJMZ28wUi1sbVM4TENBcEl1elFvazZLcllYRlJPcVNER1lMM1Q0VkJhRFJlT3hBOWN6Xy1FTExiVFlEWEhUVTJDYVJuSExZNA?oc=5",
+   "date": "2026-11-27T18:09:54.000Z",
+   "publisher": "Bol News",
+   "lang": "en"
+  },
   {
    "title": "Keeping Russian Markets Open to Pakistani Agriculture - Centre for Strategic and Contemporary Research",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUNINllNSjRDTE8yNDlZX1pHenFaREhPZFQ0TE8wLVI1dXVCY3N6YmtnMVNUcDd3dzJIYS1VdUtFem44ak1sTmREM0k1NEZyUjdYVk5WYWJEZEtfV3RXU0dtcjczYWtEakdlYllJd0VYOWUtM1haaEJzQ2NrWFVhWXdOOWxaSk1USVh2Y3VCcWRobE1KVVg1MTEwcm8xd1NITUg0?oc=5",
@@ -3317,17 +3656,17 @@
    "lang": "en"
   },
   {
+   "title": "Karachi Weather: Minimum Temperature Drops to 16.5°C as drought alert issued for Sindh, Balochistan - Daily Ausaf",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFROQ25qNHpUMlIwVGl2ZVQtb0NUdGFpdWhNc1QyVkdzYlRCYXJST0EtS0FtY2hzT0hyR2cwQVlObDk3U1QwcjdKb05tamJWUzVOanhzdkcwY2ZWWUpNcDR1WWk4ZjFTUnVodEFFLUhhMEh2TW9PTVB0V2I4RXoyLXBrMnBYTnl6eWlJY2pkbVVlQmZOUmMyMGN4WFQ1a1lGeWVYczB2OUlSZl9wZzZ3NkNyQUdiZl9EWTdfVmJubm5mZ3BTNjQyTzhxSdIB0AFBVV95cUxNRXFlcHM5dlEzNkZpZnNvcVhFc3pQSFpEbi1QbEo5cEY1dDhzbkFER0pEMkIwSWU0dmo2Rk8xRTlCbjhxN0h6US1Wa2lDdFc5Rm96bzZOa3hlZ0t2VFBGbGM3V3A5Z2N4eXZRMWFudlJHMGhpM2Jib3RDNVRCZEtSZ3NxUEVQbjl5enN6RnR4SXRIYVRsM2RDUFBSMU1UREhna1pMUmpveUZIM2JYLXktOTdUOTh5Mks0TWd6M3NFQ0VfUTZrMzc3UFU4MTVNQnpH?oc=5",
+   "date": "2026-11-25T07:44:53.000Z",
+   "publisher": "Daily Ausaf",
+   "lang": "en"
+  },
+  {
    "title": "November inflation projected to hit 9.8% as food prices surge - Minute Mirror",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzBpNWxLMno2QVJTemQ1WmoyR2Q4Ny1WNkxmZkxIR2twc1hoZnd3V3M5T1VMU3Zib2E3ZDQ4clpaRUJuOHU4TXhKbWtHRW9FbURNRDZhV3RFYlJNVUdCdlhMV0JyYkMxQVBKN2xJZ2lXdjRGRnZmTEF4djVGeE54cjI5M1NyM3U3RE1YblhFbVlYejRPeEl2VVR6d2g?oc=5",
    "date": "2026-11-25T05:35:11.000Z",
    "publisher": "Minute Mirror",
-   "lang": "en"
-  },
-  {
-   "title": "Pakistan’s food exports jump, imports stay flat in October - Asia News Network",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjNGMzItbjQzcnhaQVpra0hqZjlpNGppemFKU1lOcHR1QW9mNTF3YlVNeWN0OHlIUVgxaWFZYkcwQ0FVU2cxaVJBdzEwYVhNaV9ZN3BrNlpvd3pVWmdlZm9HeHZXY1hISkt6dHI4WGo2ZWhiM2RsYmUtTzBtUUc1WkRvNmhzcU01Unc?oc=5",
-   "date": "2026-11-25T04:39:48.000Z",
-   "publisher": "Asia News Network",
    "lang": "en"
   },
   {
@@ -3343,39 +3682,25 @@
    "date": "2026-11-24T22:04:29.000Z",
    "publisher": "The Express Tribune",
    "lang": "en"
-  },
-  {
-   "title": "Punjab Farmers Suffer Irreparable Losses from Crossing Closures - TOLOnews",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ubmw1ejFyelNLeFVNc00tdWo3QUNNMmJmdVZjYllaUmRlR0VKLVhrZ2swV0d1QnhTeDJ1TzNTQ1dVYVdDci02RnJJU3phckU3QUZ0bWJB?oc=5",
-   "date": "2026-11-24T13:30:28.000Z",
-   "publisher": "TOLOnews",
-   "lang": "en"
-  },
-  {
-   "title": "Climate expert warns of looming food security crisis - The News Pakistan",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnhEaTNqRWx1cUZYajc1aEhnZHpsNmplVGhFbjdOam1ZczQyUTJFRVAzdGRHY0dzTzBPMGMyclA1RjVrVjVVLUptemdMZ3dETTZUTTg2aFhZMjRjSjVGbElXcktfX3JLRXVUeWZ6emxJdTlReVdIdUZwd0RNMlh6Yi11cnN6aE55QnNVTUd3WTV4Tjg?oc=5",
-   "date": "2026-11-23T19:00:00.000Z",
-   "publisher": "The News Pakistan",
-   "lang": "en"
   }
  ],
  "report": {
-  "summary_ur": "آج کراچی سبزی منڈی میں پھول گوبھی کی قیمت میں اضافہ ہوا ہے جبکہ بینگن، لوکی اور توری سستے ہوئے ہیں۔ زیادہ تر بنیادی سبزیوں کی قیمتیں کل کی سطح پر ہی مستحکم ہیں۔ پاک افغان سرحد بند ہونے کی وجہ سے در آمدی پھلوں کی سپلائی متاثر ہو سکتی ہے۔",
-  "summary_en": "Today in Karachi Sabzi Mandi, cauliflower prices increased while brinjal, bottle gourd, and ridge gourd became cheaper. Prices for most daily vegetables remained stable compared to yesterday. Be aware that border closures may affect imported fruit supplies.",
+  "summary_ur": "آج کراچی سبزی منڈی میں انگور، امرود اور کھجور کی قیمتوں میں بڑی کمی آئی ہے، جبکہ ایرانی انار کافی مہنگا ہو گیا ہے۔ زیادہ تر بنیادی سبزیوں کے ریٹ مستحکم ہیں، لیکن پھول گوبھی کی قیمت مسلسل بڑھ رہی ہے۔",
+  "summary_en": "Today in Karachi Sabzi Mandi, prices for grapes, guava, and dates dropped significantly, while Irani pomegranate saw a sharp increase. Most basic vegetable prices remained stable, but cauliflower continues its upward weekly trend.",
   "points_ur": [
-   "پھول گوبھی (درجہ اول) 10 روپے مہنگی ہو کر 120 روپے فی کلو ہو گئی ہے۔",
-   "بینگن، لوکی اور توری (درجہ اول) کی قیمتوں میں 10 روپے فی کلو کی کمی آئی ہے۔",
-   "پیاز اور ٹماٹر کی قیمتیں مستحکم ہیں، جبکہ پیاز ہفتہ وار بنیادوں پر 15.4% سستا ہوا ہے۔",
-   "پاک افغان سرحد کی بندش سے سیب اور انار جیسے در آمدی پھلوں کی قیمتیں بڑھ سکتی ہیں۔"
+   "لاڑکانہ کے امرود کی قیمت گر کر PKR 110 فی کلو اور سندرخانی انگور PKR 400 فی کلو پر آ گئے ہیں۔",
+   "ایرانی انار کی قیمت اچانک بڑھ کر PKR 490 فی کلو تک پہنچ گئی ہے۔",
+   "پھول گوبھی درجہ اول PKR 120 فی کلو ہو گئی ہے، جو گزشتہ ہفتے کے مقابلے میں 71% زیادہ ہے۔",
+   "پاک افغان سرحد کی بندش کی وجہ سے انار، سیب اور انگور کی سپلائی میں کمی کا خطرہ ہے۔"
   ],
   "points_en": [
-   "Cauliflower (Grade 1) rose by 10 PKR to reach 120 PKR per kg.",
-   "Brinjal, bottle gourd, and ridge gourd dropped by 10 PKR per kg today.",
-   "Onion and tomato prices remain stable, with onions down 15.4% over the past week.",
-   "Afghanistan border closure may cause shortages and price hikes for imported fruits like apples and pomegranates."
+   "Larkana Guava dropped sharply to PKR 110/kg and Sundarkhani Grapes fell to PKR 400/kg.",
+   "Irani Pomegranate spiked today to PKR 490/kg due to supply adjustments.",
+   "Cauliflower Grade 1 rose to PKR 120/kg, showing a 71% increase over the past week.",
+   "Afghan border closures pose a high supply risk for imported apples, grapes, and pomegranates."
   ],
-  "advice_ur": "قیمتیں کم ہونے کی وجہ سے لوکی اور بینگن کی مناسب خرید کریں، لیکن در آمدی پھلوں کی خریداری میں احتیاط برتیں۔",
-  "advice_en": "Consider buying gourds and brinjal while prices are down, but stay cautious when purchasing imported fruits due to supply risks."
+  "advice_ur": "سرحدی بندش کے باعث سیب اور انار کی سپلائی کم ہونے سے پہلے محتاط انداز میں ضرورت کے مطابق اسٹاک کر لیں۔",
+  "advice_en": "Be cautious and consider buying limited stock of imported fruits like Afghan apples and pomegranates before potential border shortages push prices further up."
  },
  "snapshots": [
   "2026-11-19",
