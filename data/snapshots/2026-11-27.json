@@ -3,7 +3,7 @@
  "prevDate": "2026-11-26",
  "today": "2026-11-28",
  "stale": true,
- "generatedAt": "2026-11-28T04:56:34.478Z",
+ "generatedAt": "2026-11-28T08:13:11.956Z",
  "source": {
   "id": "commissioner_karachi",
   "name_en": "Commissioner Karachi Division (Bureau of Supply & Prices / Market Committee)",
@@ -3531,18 +3531,18 @@
    "level": "high",
    "items": [
     "apple_kala_kulu",
-    "pomegranate_irani",
-    "grapes_sundarkhani"
+    "grapes_sundarkhani",
+    "pomegranate_kandhari_g2"
    ],
-   "title_ur": "پاک افغان بارڈر کی بندش سے پھلوں کی آمد شدید متاثر",
-   "title_en": "Pak-Afghan Border Closure Halts Fresh Fruit Supplies",
-   "summary_ur": "پاکستان کے ساتھ سرحد بند ہونے کی وجہ سے افغانستان سے تازہ پھلوں کی درامد میں 88 فیصد کمی آئی ہے۔",
-   "summary_en": "Fresh fruit exports from Afghanistan dropped 88% following the border closure with Pakistan.",
+   "title_ur": "پاک افغان سرحد بند ہونے سے تازہ پھلوں کی آمد رُک گئی",
+   "title_en": "Pak-Afghan border closure hits fresh fruit trade",
+   "summary_ur": "سرحد بند ہونے کی وجہ سے افغانستان سے آنے والے تازہ پھلوں کی رسد میں 88 فیصد تک کمی ہوئی ہے۔",
+   "summary_en": "Fresh fruit exports from Afghanistan dropped 88 percent following the closure of the border with Pakistan.",
    "source_indexes": [
-    17
+    19
    ],
-   "expected_effect_en": "Reduced inflow of Afghan fruits like apples, grapes, and pomegranates will cause supply shortages and price surges in Karachi markets.",
-   "expected_effect_ur": "کراچی کی منڈیوں میں ایرانی و افغانی پھلوں کی سپلائی کم ہوگی اور قیمتیں بڑھ سکتی ہیں۔",
+   "expected_effect_en": "Supply shortages and price hikes expected for imported fruits such as Afghan apples, grapes, and pomegranates in Karachi.",
+   "expected_effect_ur": "کراچی کی منڈیوں میں افغانی سیب، انگور اور انار کی قلت اور قیمتوں میں اضافے کا امکان ہے۔",
    "sources": [
     {
      "title": "Afghanistan's fresh fruit exports fall 88% following Pakistan border closure - FreshPlaza",
@@ -3554,43 +3554,19 @@
    ]
   },
   {
-   "level": "medium",
-   "items": [
-    "all"
-   ],
-   "title_ur": "سندھ اور بلوچستان میں خشک سالی کا الرٹ",
-   "title_en": "Drought Alert Issued for Sindh and Balochistan",
-   "summary_ur": "محکمہ موسمیات نے سندھ اور بلوچستان میں خشک سالی کا الرٹ جاری کر دیا ہے۔",
-   "summary_en": "A drought alert has been issued for Sindh and Balochistan alongside falling minimum temperatures.",
-   "source_indexes": [
-    20
-   ],
-   "expected_effect_en": "Water scarcity in regional agricultural zones may impact local vegetable yields and supply to Karachi in coming weeks.",
-   "expected_effect_ur": "پانی کی کمی سے مقامی سبزیوں کی کاشت اور منڈی میں سپلائی پر برے اثرات پڑ سکتے ہیں۔",
-   "sources": [
-    {
-     "title": "Karachi Weather: Minimum Temperature Drops to 16.5°C as drought alert issued for Sindh, Balochistan - Daily Ausaf",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFROQ25qNHpUMlIwVGl2ZVQtb0NUdGFpdWhNc1QyVkdzYlRCYXJST0EtS0FtY2hzT0hyR2cwQVlObDk3U1QwcjdKb05tamJWUzVOanhzdkcwY2ZWWUpNcDR1WWk4ZjFTUnVodEFFLUhhMEh2TW9PTVB0V2I4RXoyLXBrMnBYTnl6eWlJY2pkbVVlQmZOUmMyMGN4WFQ1a1lGeWVYczB2OUlSZl9wZzZ3NkNyQUdiZl9EWTdfVmJubm5mZ3BTNjQyTzhxSdIB0AFBVV95cUxNRXFlcHM5dlEzNkZpZnNvcVhFc3pQSFpEbi1QbEo5cEY1dDhzbkFER0pEMkIwSWU0dmo2Rk8xRTlCbjhxN0h6US1Wa2lDdFc5Rm96bzZOa3hlZ0t2VFBGbGM3V3A5Z2N4eXZRMWFudlJHMGhpM2Jib3RDNVRCZEtSZ3NxUEVQbjl5enN6RnR4SXRIYVRsM2RDUFBSMU1UREhna1pMUmpveUZIM2JYLXktOTdUOTh5Mks0TWd6M3NFQ0VfUTZrMzc3UFU4MTVNQnpH?oc=5",
-     "date": "2026-11-25T07:44:53.000Z",
-     "publisher": "Daily Ausaf",
-     "lang": "en"
-    }
-   ]
-  },
-  {
    "level": "low",
    "items": [
     "all"
    ],
-   "title_ur": "پٹرول اور ڈیزل کی قیمتوں میں کمی",
-   "title_en": "Fuel Prices Reduced Nationwide",
-   "summary_ur": "حکومت نے پٹرول 4 روپے اور ڈیزل 5 روپے فی لیٹر سستا کر دیا ہے۔",
-   "summary_en": "The government reduced petrol prices by Rs 4 and diesel by Rs 5 per litre.",
+   "title_ur": "پیٹرول اور ڈیزل سستا، کرایوں میں کمی کا امکان",
+   "title_en": "Govt slashes fuel prices easing transport costs",
+   "summary_ur": "حکومت نے پیٹرول کی قیمت میں 4 روپے اور ڈیزل میں 5 روپے فی لیٹر کمی کر دی ہے۔",
+   "summary_en": "Government reduced petrol by Rs4 and diesel by Rs5 per litre for the upcoming period.",
    "source_indexes": [
-    15
+    17
    ],
-   "expected_effect_en": "Reduced transport diesel costs will slightly lower freight charges for bringing produce to Karachi mandi.",
-   "expected_effect_ur": "گاڑیوں کا ڈیزل سستا ہونے سے سبزیوں کا ٹرانسپورٹ کرایہ کچھ کم ہوگا اور قیمتیں مستحکم رہیں گی۔",
+   "expected_effect_en": "Lower transport costs will help maintain stable supply and prices for fruits and vegetables.",
+   "expected_effect_ur": "منڈیوں تک سبزی اور پھل لانے کا کرایہ کم ہوگا جس سے قیمتیں مستحکم رہیں گی۔",
    "sources": [
     {
      "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26 - The Express Tribune",
@@ -3606,15 +3582,15 @@
    "items": [
     "all"
    ],
-   "title_ur": "سبزیوں کی قیمتوں میں نمایاں کمی",
-   "title_en": "Vegetable Prices Drop Significantly",
-   "summary_ur": "رمضان سے قبل سبزیوں کی قیمتوں میں 50 فیصد تک کمی دیکھی گئی ہے۔",
-   "summary_en": "Vegetable prices dropped up to 50% due to improved supply.",
+   "title_ur": "منڈیوں میں سبزیوں کی قیمتوں میں بڑی کمی",
+   "title_en": "Vegetable prices drop by 50% ahead of Ramadan",
+   "summary_ur": "بہتر سپلائی کی وجہ سے منڈیوں میں سبزیوں کی قیمتیں 50 فیصد تک کم ہو گئی ہیں۔",
+   "summary_en": "Vegetable prices have fallen by up to 50% in markets ahead of Ramadan due to good supply.",
    "source_indexes": [
-    6
+    8
    ],
-   "expected_effect_en": "Abundant market arrivals will keep basic vegetable prices affordable for consumers in the near term.",
-   "expected_effect_ur": "منڈی میں سبزیوں کی آمد زیادہ ہونے سے گاہکوں کو کم قیمت پر سبزیاں ملیں گی۔",
+   "expected_effect_en": "Vegetables are cheap and readily available for consumers.",
+   "expected_effect_ur": "شہر میں سبزیاں سستے داموں اور باآسانی دستیاب ہوں گی۔",
    "sources": [
     {
      "title": "Vegetable prices drop by 50% ahead of Ramadan - Bol News",
@@ -3656,13 +3632,6 @@
    "lang": "en"
   },
   {
-   "title": "Karachi Weather: Minimum Temperature Drops to 16.5°C as drought alert issued for Sindh, Balochistan - Daily Ausaf",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFROQ25qNHpUMlIwVGl2ZVQtb0NUdGFpdWhNc1QyVkdzYlRCYXJST0EtS0FtY2hzT0hyR2cwQVlObDk3U1QwcjdKb05tamJWUzVOanhzdkcwY2ZWWUpNcDR1WWk4ZjFTUnVodEFFLUhhMEh2TW9PTVB0V2I4RXoyLXBrMnBYTnl6eWlJY2pkbVVlQmZOUmMyMGN4WFQ1a1lGeWVYczB2OUlSZl9wZzZ3NkNyQUdiZl9EWTdfVmJubm5mZ3BTNjQyTzhxSdIB0AFBVV95cUxNRXFlcHM5dlEzNkZpZnNvcVhFc3pQSFpEbi1QbEo5cEY1dDhzbkFER0pEMkIwSWU0dmo2Rk8xRTlCbjhxN0h6US1Wa2lDdFc5Rm96bzZOa3hlZ0t2VFBGbGM3V3A5Z2N4eXZRMWFudlJHMGhpM2Jib3RDNVRCZEtSZ3NxUEVQbjl5enN6RnR4SXRIYVRsM2RDUFBSMU1UREhna1pMUmpveUZIM2JYLXktOTdUOTh5Mks0TWd6M3NFQ0VfUTZrMzc3UFU4MTVNQnpH?oc=5",
-   "date": "2026-11-25T07:44:53.000Z",
-   "publisher": "Daily Ausaf",
-   "lang": "en"
-  },
-  {
    "title": "November inflation projected to hit 9.8% as food prices surge - Minute Mirror",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzBpNWxLMno2QVJTemQ1WmoyR2Q4Ny1WNkxmZkxIR2twc1hoZnd3V3M5T1VMU3Zib2E3ZDQ4clpaRUJuOHU4TXhKbWtHRW9FbURNRDZhV3RFYlJNVUdCdlhMV0JyYkMxQVBKN2xJZ2lXdjRGRnZmTEF4djVGeE54cjI5M1NyM3U3RE1YblhFbVlYejRPeEl2VVR6d2g?oc=5",
    "date": "2026-11-25T05:35:11.000Z",
@@ -3685,22 +3654,22 @@
   }
  ],
  "report": {
-  "summary_ur": "آج کراچی سبزی منڈی میں انگور، امرود اور کھجور کی قیمتوں میں بڑی کمی آئی ہے، جبکہ ایرانی انار کافی مہنگا ہو گیا ہے۔ زیادہ تر بنیادی سبزیوں کے ریٹ مستحکم ہیں، لیکن پھول گوبھی کی قیمت مسلسل بڑھ رہی ہے۔",
-  "summary_en": "Today in Karachi Sabzi Mandi, prices for grapes, guava, and dates dropped significantly, while Irani pomegranate saw a sharp increase. Most basic vegetable prices remained stable, but cauliflower continues its upward weekly trend.",
+  "summary_ur": "آج کراچی سبزی منڈی میں زیادہ تر بنیادی سبزیوں کی قیمتیں مستحکم رہیں جبکہ پھلوں کے ریٹ میں بڑی تبدیلی آئی۔ لاڑکانہ کے امرود اور انگور سستے ہوئے ہیں جبکہ ایرانی انار کی قیمت میں بڑا اضافہ ہوا ہے۔ پاک افغان سرحد کی بندش سے آنے والے دنوں میں کچھ پھلوں کی فراہمی متاثر ہو سکتی ہے۔",
+  "summary_en": "Today in Karachi Sabzi Mandi, most essential vegetables remained stable while fresh fruit prices experienced major shifts. Larkana guava and grapes saw sharp price cuts, whereas Irani pomegranate prices surged. Border disruptions with Afghanistan may impact imported fruit supplies soon.",
   "points_ur": [
-   "لاڑکانہ کے امرود کی قیمت گر کر PKR 110 فی کلو اور سندرخانی انگور PKR 400 فی کلو پر آ گئے ہیں۔",
-   "ایرانی انار کی قیمت اچانک بڑھ کر PKR 490 فی کلو تک پہنچ گئی ہے۔",
-   "پھول گوبھی درجہ اول PKR 120 فی کلو ہو گئی ہے، جو گزشتہ ہفتے کے مقابلے میں 71% زیادہ ہے۔",
-   "پاک افغان سرحد کی بندش کی وجہ سے انار، سیب اور انگور کی سپلائی میں کمی کا خطرہ ہے۔"
+   "ایرانی انار کی قیمت بڑھ کر 490 روپے فی کلو ہو گئی، جبکہ لاڑکانہ کا امرود کم ہو کر 110 روپے فی کلو پر آ گیا۔",
+   "سندرخانی اور گول انگور کی قیمتوں میں آج 40% سے 44% تک کی نمایاں کمی آئی۔",
+   "پھول گوبھی درجہ اول 120 روپے فی کلو تک پہنچ گئی ہے، جس میں 7 دنوں کے دوران 71.4% اضافہ ہوا ہے۔",
+   "پاک افغان سرحد کی بندش کے باعث کالا کولو سیب اور انگور کی سپلائی کم اور قیمتیں تیز ہو سکتی ہیں۔"
   ],
   "points_en": [
-   "Larkana Guava dropped sharply to PKR 110/kg and Sundarkhani Grapes fell to PKR 400/kg.",
-   "Irani Pomegranate spiked today to PKR 490/kg due to supply adjustments.",
-   "Cauliflower Grade 1 rose to PKR 120/kg, showing a 71% increase over the past week.",
-   "Afghan border closures pose a high supply risk for imported apples, grapes, and pomegranates."
+   "Irani Pomegranate spiked to PKR 490/kg, while Larkana Guava dropped sharply to PKR 110/kg.",
+   "Sundarkhani and Round Grapes recorded big single-day price drops between 40% and 45%.",
+   "Cauliflower Grade 1 rose to PKR 120/kg, up over 71% compared to last week.",
+   "Pak-Afghan border closure poses supply risk for imported fruits like Kala Kulu apples and grapes."
   ],
-  "advice_ur": "سرحدی بندش کے باعث سیب اور انار کی سپلائی کم ہونے سے پہلے محتاط انداز میں ضرورت کے مطابق اسٹاک کر لیں۔",
-  "advice_en": "Be cautious and consider buying limited stock of imported fruits like Afghan apples and pomegranates before potential border shortages push prices further up."
+  "advice_ur": "امرود اور انگور جیسے سستے پھلوں کی خریدی بہتر ہے، لیکن سرحد کی غیر یقینی صورتحال کے باعث افغانی پھلوں کا زیادہ اسٹاک کرنے سے بچیں۔",
+  "advice_en": "Consider buying local items like grapes and guava while prices are low, but avoid over-stocking imported fruits due to border trade uncertainty."
  },
  "snapshots": [
   "2026-11-19",
