@@ -4546,16 +4546,16 @@
     },
     "2026-11-28": {
       "date": "2026-11-28",
-      "run_at": "2026-11-28T03:19:08.759Z",
-      "run_at_pkt": "28 Nov, 8:19 am PKT",
-      "total_duration_ms": 60650,
+      "run_at": "2026-11-28T06:26:26.195Z",
+      "run_at_pkt": "28 Nov, 11:26 am PKT",
+      "total_duration_ms": 62355,
       "summary": {
         "total_bots": 12,
         "working": 3,
         "partial": 0,
         "failed": 9,
-        "total_items": 111,
-        "total_price_changes": 8
+        "total_items": 110,
+        "total_price_changes": 14
       },
       "bots": [
         {
@@ -4571,7 +4571,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 492,
+          "duration_ms": 206,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -4588,7 +4588,7 @@
               "title": "Open Website",
               "detail": "Failed to open https://www.carrefour.pk: page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.carrefour.pk/mafpak/en/c/FPAK1660000\nCall log:\n  - navigating to \"https://www.carrefour.pk/mafpak/en/c/FPAK1660000\", waiting until \"domcontentloaded\"\n",
               "status": "failed",
-              "duration_ms": 492,
+              "duration_ms": 206,
               "error_reason": "page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.carrefour.pk/mafpak/en/c/FPAK1660000\nCall log:\n  - navigating to \"https://www.carrefour.pk/mafpak/en/c/FPAK1660000\", waiting until \"domcontentloaded\"\n"
             },
             {
@@ -4646,7 +4646,7 @@
           "items_checked": 18,
           "yesterday_items": 18,
           "price_changes": 0,
-          "duration_ms": 9024,
+          "duration_ms": 11443,
           "used_cache": false,
           "last_checked_date": "2026-11-28",
           "price_last_changed_date": "2026-11-27",
@@ -4659,7 +4659,7 @@
               "title": "Open Website",
               "detail": "Opened https://www.metro-online.pk/store/fruits-and-vegetables in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 6648,
+              "duration_ms": 8976,
               "error_reason": null
             },
             {
@@ -4667,7 +4667,7 @@
               "title": "Select Location / Options",
               "detail": "Default Karachi / nationwide store view active (no city popup).",
               "status": "passed",
-              "duration_ms": 23,
+              "duration_ms": 27,
               "error_reason": null
             },
             {
@@ -4675,7 +4675,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 1 category page(s): Fresh Vegetables, Fresh Fruits.",
               "status": "passed",
-              "duration_ms": 2319,
+              "duration_ms": 2354,
               "error_reason": null
             },
             {
@@ -4683,7 +4683,7 @@
               "title": "Extract & Standardize Rates",
               "detail": "Found 153 raw entries; matched & standardized 18 unique vegetables/fruits.",
               "status": "passed",
-              "duration_ms": 25,
+              "duration_ms": 63,
               "error_reason": null
             },
             {
@@ -4714,10 +4714,10 @@
             "Fresh Fruits"
           ],
           "status": "success",
-          "items_checked": 57,
-          "yesterday_items": 55,
-          "price_changes": 8,
-          "duration_ms": 1606,
+          "items_checked": 56,
+          "yesterday_items": 57,
+          "price_changes": 14,
+          "duration_ms": 1402,
           "used_cache": false,
           "last_checked_date": "2026-11-28",
           "price_last_changed_date": "2026-11-28",
@@ -4728,9 +4728,9 @@
             {
               "step_number": 1,
               "title": "Open Website",
-              "detail": "Fetched 3 JSON endpoint(s) at https://freshbasket.com.pk (379 raw entries).",
+              "detail": "Fetched 3 JSON endpoint(s) at https://freshbasket.com.pk (366 raw entries).",
               "status": "passed",
-              "duration_ms": 1462,
+              "duration_ms": 1290,
               "error_reason": null
             },
             {
@@ -4752,15 +4752,15 @@
             {
               "step_number": 4,
               "title": "Extract & Standardize Rates",
-              "detail": "Found 379 raw entries; matched & standardized 57 unique vegetables/fruits.",
+              "detail": "Found 366 raw entries; matched & standardized 56 unique vegetables/fruits.",
               "status": "passed",
-              "duration_ms": 144,
+              "duration_ms": 112,
               "error_reason": null
             },
             {
               "step_number": 5,
               "title": "Compare Against Previous Run",
-              "detail": "8 price(s) changed, 49 unchanged vs previous run.",
+              "detail": "14 price(s) changed, 42 unchanged vs previous run.",
               "status": "passed",
               "duration_ms": 1,
               "error_reason": null
@@ -4768,7 +4768,7 @@
             {
               "step_number": 6,
               "title": "Save Results",
-              "detail": "Saved 57 standardized rates for Fresh Basket.",
+              "detail": "Saved 56 standardized rates for Fresh Basket.",
               "status": "passed",
               "duration_ms": 1,
               "error_reason": null
@@ -4788,7 +4788,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 19359,
+          "duration_ms": 16906,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -4805,7 +4805,7 @@
               "title": "Open Website",
               "detail": "Opened https://www.dsmonline.pk/collections/vegetables in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 10107,
+              "duration_ms": 10786,
               "error_reason": null
             },
             {
@@ -4813,7 +4813,7 @@
               "title": "Select Location / Options",
               "detail": "Selected \"Karachi\" in city selector.",
               "status": "passed",
-              "duration_ms": 2823,
+              "duration_ms": 2833,
               "error_reason": null
             },
             {
@@ -4821,7 +4821,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 2 category page(s): Fresh Vegetables, Fresh Fruits.",
               "status": "passed",
-              "duration_ms": 6424,
+              "duration_ms": 3282,
               "error_reason": null
             },
             {
@@ -4863,7 +4863,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 8007,
+          "duration_ms": 7635,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -4880,7 +4880,7 @@
               "title": "Open Website",
               "detail": "Opened https://www.hydrisupermarket.com.pk/product-category/fruits-vegetables/ in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 4847,
+              "duration_ms": 4426,
               "error_reason": null
             },
             {
@@ -4888,7 +4888,7 @@
               "title": "Select Location / Options",
               "detail": "Selected \"Karachi\" in city selector.",
               "status": "passed",
-              "duration_ms": 877,
+              "duration_ms": 904,
               "error_reason": null
             },
             {
@@ -4896,7 +4896,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 1 category page(s): Fresh Vegetables, Fresh Fruits.",
               "status": "passed",
-              "duration_ms": 2275,
+              "duration_ms": 2289,
               "error_reason": null
             },
             {
@@ -4939,7 +4939,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 11712,
+          "duration_ms": 11511,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -4956,7 +4956,7 @@
               "title": "Open Website",
               "detail": "Opened https://www.cartpk.com/collections/vegetables in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 8437,
+              "duration_ms": 8232,
               "error_reason": null
             },
             {
@@ -4964,7 +4964,7 @@
               "title": "Select Location / Options",
               "detail": "Default Karachi / nationwide store view active (no city popup).",
               "status": "passed",
-              "duration_ms": 17,
+              "duration_ms": 24,
               "error_reason": null
             },
             {
@@ -4972,7 +4972,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 2 category page(s): Vegetables, Fruits, Herbs.",
               "status": "passed",
-              "duration_ms": 3250,
+              "duration_ms": 3247,
               "error_reason": null
             },
             {
@@ -5015,7 +5015,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 16543,
+          "duration_ms": 18141,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -5032,7 +5032,7 @@
               "title": "Open Website",
               "detail": "Opened https://fruitsabzi.pk in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 11528,
+              "duration_ms": 12547,
               "error_reason": null
             },
             {
@@ -5040,7 +5040,7 @@
               "title": "Select Location / Options",
               "detail": "Default Karachi / nationwide store view active (no city popup).",
               "status": "passed",
-              "duration_ms": 20,
+              "duration_ms": 21,
               "error_reason": null
             },
             {
@@ -5048,7 +5048,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 2 category page(s): Vegetables, Fruits, Herbs.",
               "status": "passed",
-              "duration_ms": 4985,
+              "duration_ms": 5556,
               "error_reason": null
             },
             {
@@ -5056,7 +5056,7 @@
               "title": "Extract & Standardize Rates",
               "detail": "Loaded 1 raw entries but 0 matched master vegetable/fruit items.",
               "status": "warning",
-              "duration_ms": 5,
+              "duration_ms": 10,
               "error_reason": "No matching produce items extracted"
             },
             {
@@ -5091,7 +5091,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 12826,
+          "duration_ms": 8896,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -5108,15 +5108,15 @@
               "title": "Open Website",
               "detail": "Opened https://vegevista.pk in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 6799,
+              "duration_ms": 4174,
               "error_reason": null
             },
             {
               "step_number": 2,
               "title": "Select Location / Options",
-              "detail": "Selected \"Karachi\" in city selector.",
+              "detail": "Default Karachi / nationwide store view active (no city popup).",
               "status": "passed",
-              "duration_ms": 915,
+              "duration_ms": 20,
               "error_reason": null
             },
             {
@@ -5124,7 +5124,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 2 category page(s): Fresh Vegetables, Fresh Fruits, Herbs.",
               "status": "passed",
-              "duration_ms": 5106,
+              "duration_ms": 4699,
               "error_reason": null
             },
             {
@@ -5166,7 +5166,7 @@
           "items_checked": 36,
           "yesterday_items": 36,
           "price_changes": 0,
-          "duration_ms": 809,
+          "duration_ms": 870,
           "used_cache": false,
           "last_checked_date": "2026-11-28",
           "price_last_changed_date": "2026-11-27",
@@ -5179,7 +5179,7 @@
               "title": "Open Website",
               "detail": "Fetched 2 JSON endpoint(s) at https://royalbasket.pk (278 raw entries).",
               "status": "passed",
-              "duration_ms": 744,
+              "duration_ms": 771,
               "error_reason": null
             },
             {
@@ -5203,7 +5203,7 @@
               "title": "Extract & Standardize Rates",
               "detail": "Found 278 raw entries; matched & standardized 36 unique vegetables/fruits.",
               "status": "passed",
-              "duration_ms": 65,
+              "duration_ms": 99,
               "error_reason": null
             },
             {
@@ -5237,7 +5237,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 12860,
+          "duration_ms": 12667,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -5254,7 +5254,7 @@
               "title": "Open Website",
               "detail": "Opened https://arysahulatbazar.pk in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 8326,
+              "duration_ms": 8148,
               "error_reason": null
             },
             {
@@ -5262,7 +5262,7 @@
               "title": "Select Location / Options",
               "detail": "Default Karachi / nationwide store view active (no city popup).",
               "status": "passed",
-              "duration_ms": 16,
+              "duration_ms": 18,
               "error_reason": null
             },
             {
@@ -5270,7 +5270,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 2 category page(s): Vegetables, Fruits.",
               "status": "passed",
-              "duration_ms": 4504,
+              "duration_ms": 4485,
               "error_reason": null
             },
             {
@@ -5312,7 +5312,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 15128,
+          "duration_ms": 15483,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -5329,7 +5329,7 @@
               "title": "Open Website",
               "detail": "Opened https://kravemart.com in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 9476,
+              "duration_ms": 9769,
               "error_reason": null
             },
             {
@@ -5337,7 +5337,7 @@
               "title": "Select Location / Options",
               "detail": "Selected \"Karachi\" in city selector.",
               "status": "passed",
-              "duration_ms": 870,
+              "duration_ms": 861,
               "error_reason": null
             },
             {
@@ -5345,7 +5345,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 2 category page(s): Fresh Vegetables, Fresh Fruits.",
               "status": "passed",
-              "duration_ms": 4773,
+              "duration_ms": 4845,
               "error_reason": null
             },
             {
@@ -5387,7 +5387,7 @@
           "items_checked": 0,
           "yesterday_items": null,
           "price_changes": 0,
-          "duration_ms": 12768,
+          "duration_ms": 12817,
           "used_cache": false,
           "last_checked_date": "2026-11-23",
           "price_last_changed_date": null,
@@ -5404,7 +5404,7 @@
               "title": "Open Website",
               "detail": "Opened https://www.narkh.pk/en/karachi in stealth Chromium.",
               "status": "passed",
-              "duration_ms": 8933,
+              "duration_ms": 8971,
               "error_reason": null
             },
             {
@@ -5412,7 +5412,7 @@
               "title": "Select Location / Options",
               "detail": "Selected \"Karachi\" in city selector.",
               "status": "passed",
-              "duration_ms": 2823,
+              "duration_ms": 2833,
               "error_reason": null
             },
             {
@@ -5420,7 +5420,7 @@
               "title": "Navigate Categories",
               "detail": "Checked 1 category page(s): Vegetables, Fruits.",
               "status": "passed",
-              "duration_ms": 1008,
+              "duration_ms": 1007,
               "error_reason": null
             },
             {
